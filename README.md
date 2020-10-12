@@ -8,6 +8,7 @@
 - [The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities, 2019](https://arxiv.org/pdf/1803.03453v1.pdf)
 - [On the Measure of Intelligence - (2019) Franc ̧ois Chollet](https://arxiv.org/pdf/1911.01547.pdf)
 - [When Will AI Exceed Human Performance? Evidence from AI Experts](https://arxiv.org/pdf/1705.08807v3.pdf)
+- [Forecasting Transformative AI: An Expert Survey](https://arxiv.org/ftp/arxiv/papers/1901/1901.08579.pdf)
 - [The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence](https://arxiv.org/vc/arxiv/papers/2002/2002.06177v2.pdf)
 - [Perspectives on Research in Artificial Intelligence and Artificial General Intelligence  Relevant to DoD](https://fas.org/irp/agency/dod/jason/ai-dod.pdf)
 - [The Superintelligent Will: Motivation and Instrumental Rationality in Advanced Artificial Agents - (2012) Nick Bostrom ](https://nickbostrom.com/superintelligentwill.pdf)
@@ -23,8 +24,9 @@
 - [The Hanabi Challenge: A New Frontier for AI Research](https://arxiv.org/pdf/1902.00506v1.pdf)
 - [A Conceptual Bio-Inspired Framework for the Evolution of Artificial General Intelligence](https://arxiv.org/pdf/1903.10410.pdf)
 - [Modeling Theory of Mind for Autonomous Agents with Probabilistic Programs](https://arxiv.org/pdf/1812.01569v1.pdf)
+- [AI-GAs: AI-generating algorithms, an alternateparadigm for producing general artificial intelligence](https://arxiv.org/pdf/1905.10985.pdf)
 
-#### Approches-Limitations:
+#### Approches - Limitations:
 - [Provable limitations of deep learning](https://arxiv.org/pdf/1812.06369v2.pdf)
 - [Deep Learning: A Critical Appraisal](https://arxiv.org/ftp/arxiv/papers/1801/1801.00631.pdf)
 - [Measure, Manifold, Learning, and Optimization: A Theory Of Neural Networks](https://arxiv.org/pdf/1811.12783v1.pdf)
@@ -32,11 +34,25 @@
 - [Brief Review of Computational Intelligence Algorithms](https://arxiv.org/abs/1901.00983v2)
 - [We analyzed 16,625 papers to figure out where AI is headed next, 2019](https://www.technologyreview.com/2019/01/25/1436/we-analyzed-16625-papers-to-figure-out-where-ai-is-headed-next/)
 - [Troubling Trends in Machine Learning Scholarship](https://arxiv.org/pdf/1807.03341v1.pdf)
+- [AI Enabling Technologies: A Survey, MIT 2019](https://arxiv.org/ftp/arxiv/papers/1905/1905.03592.pdf)
 
 #### Tasks & Benchmarks - Comparative
 
+- [A critical analysis of metrics used for measuring progress in artificial intelligence](https://arxiv.org/ftp/arxiv/papers/2008/2008.02577.pdf)
+- [Directory of AI Benchmarks](https://benchmarks.ai/)
+- [MLPerf Training benchmark](https://arxiv.org/pdf/1910.01500.pdf)
+- [MLPerf Inference Benchmark](https://arxiv.org/pdf/1911.02549.pdf)
+- [DAWNBench: An End-to-End Deep LearningBenchmark and Competition](https://dawn.cs.stanford.edu/benchmark/papers/nips17-dawnbench.pdf)
+- [AIBench Training: Balanced Industry-Standard AI Training Benchmarking](https://arxiv.org/pdf/2004.14690.pdf)
+- [ai-benchmark - Smartphone Hardwares & Mobile SoC's](http://ai-benchmark.com/ranking.html)
+- [Measuring Inference Performance of Machine-Learning Frameworks on Edge-class Devices with the MLMark™Benchmark](https://www.eembc.org/techlit/articles/MLMARK-WHITEPAPER-FINAL-1.pdf)
+- [Ultra-low Power Machine Learning with ULPMark-ML](https://www.eembc.org/ulpmark/)
+- [The Murky World Of AI Benchmarks](https://semiengineering.com/the-murky-world-of-ai-benchmarks/)
+- [Benchmarking Contemporary Deep Learning Hardware and Frameworks:A Survey of Qualitative Metrics](https://arxiv.org/ftp/arxiv/papers/1907/1907.03626.pdf)
+- [Survey and Benchmarking of Machine Learning Accelerator](https://ieeexplore.ieee.org/document/8916327)
 
-#### Computational-Limitations
+
+#### Computational - Limitations
 
 - [Green AI](https://arxiv.org/pdf/1907.10597v2.pdf)
 
@@ -45,6 +61,7 @@
 
 - [Adversarial Attacks and Defences: A Survey](https://arxiv.org/pdf/1810.00069v1.pdf)
 - [Ten ways to fool the masses with machine learning](https://arxiv.org/ftp/arxiv/papers/1901/1901.01686.pdf)
+- [Opportunities and Challenges in Deep Learning Adversarial Robustness: A Survey](https://arxiv.org/pdf/2007.00753.pdf)
 
 #### Convergence--> Biology+Intelligence==> Artificial Stupidity
 
