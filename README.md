@@ -1,5 +1,11 @@
 
 #### AGI Roadmap
+-----------
+
+#### Discussions:
+
+- [On the Measure of Intelligence, Franc ̧ois Chollet](https://arxiv.org/pdf/1911.01547.pdf)
+- [Perspectives on Research in Artificial Intelligence and Artificial General Intelligence  Relevant to DoD](https://fas.org/irp/agency/dod/jason/ai-dod.pdf)
 
 -----------------
 
@@ -21,3 +27,4 @@
 - [gopala-kr/trending-repos](https://github.com/gopala-kr/trending-repos)
 - [ci-ai/transfer-learning](https://github.com/ci-ai/transfer-learning)
 ---------------------
+--------------------------------
