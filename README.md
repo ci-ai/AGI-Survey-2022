@@ -12,6 +12,16 @@
 - [Perspectives on Research in Artificial Intelligence and Artificial General Intelligence  Relevant to DoD](https://fas.org/irp/agency/dod/jason/ai-dod.pdf)
 - [The Superintelligent Will: Motivation and Instrumental Rationality in Advanced Artificial Agents - (2012) Nick Bostrom ](https://nickbostrom.com/superintelligentwill.pdf)
 
+#### Some. but all theories and theories.. and..
+
+- [Machine Theory of Mind](https://arxiv.org/pdf/1802.07740.pdf)
+- [Fractal AI: A fragile theory of intelligence](https://arxiv.org/vc/arxiv/papers/1803/1803.05049v1.pdf)
+- [Theory of Cognitive Relativity: A Promising Paradigm for True AI](https://arxiv.org/vc/arxiv/papers/1812/1812.00136v1.pdf)
+- [Theory of Minds: Understanding Behavior in Groups Through Inverse Planning](https://arxiv.org/pdf/1901.06085v1.pdf)
+- [Towards a framework for the evolution of artificial general intelligence](https://arxiv.org/pdf/1903.10410v1.pdf)
+- [The Hanabi Challenge: A New Frontier for AI Research](https://arxiv.org/pdf/1902.00506v1.pdf)
+- [A Conceptual Bio-Inspired Framework for the Evolution of Artificial General Intelligence](https://arxiv.org/pdf/1903.10410.pdf)
+- [Modeling Theory of Mind for Autonomous Agents with Probabilistic Programs](https://arxiv.org/pdf/1812.01569v1.pdf)
 
 #### Approches-Limitations:
 - [Provable limitations of deep learning](https://arxiv.org/pdf/1812.06369v2.pdf)
@@ -22,23 +32,28 @@
 - [We analyzed 16,625 papers to figure out where AI is headed next, 2019](https://www.technologyreview.com/2019/01/25/1436/we-analyzed-16625-papers-to-figure-out-where-ai-is-headed-next/)
 - [Troubling Trends in Machine Learning Scholarship](https://arxiv.org/pdf/1807.03341v1.pdf)
 
+#### Tasks & Benchmarks - Comparative
+
+
 #### Computational-Limitations
 
 - [Green AI](https://arxiv.org/pdf/1907.10597v2.pdf)
 
 
-#### all adversaries..yes
+#### All Adversaries..yes
 
 - [Adversarial Attacks and Defences: A Survey](https://arxiv.org/pdf/1810.00069v1.pdf)
 - [Ten ways to fool the masses with machine learning](https://arxiv.org/ftp/arxiv/papers/1901/1901.01686.pdf)
 
-#### Love Convergence--> Biology+Intelligence==> Artificial Stupidity
+#### Convergence--> Biology+Intelligence==> Artificial Stupidity
 
 - [Self-Organization and Artificial Life: A Review](https://arxiv.org/pdf/1804.01144v1.pdf)
 - [A computational perspective of the role of Thalamus in cognition](https://arxiv.org/pdf/1803.00997v3.pdf)
 - [Lenia - Biology of Artificial Life](https://arxiv.org/pdf/1812.05433v2.pdf)
 
-#### lets connect the our brains
+#### Lets connect the biological brains
+
+- [Brain’s Magical Future](https://waitbutwhy.com/2017/04/neuralink.html)
 
 #### No.. Lets align with Nature
 
@@ -53,20 +68,6 @@
 - [Computer-inspired Quantum Experiments](https://arxiv.org/pdf/2002.09970.pdf)
 
 
-#### Some but all theories and theories.. and..
-
-- [Machine Theory of Mind](https://arxiv.org/pdf/1802.07740.pdf)
-- [Fractal AI: A fragile theory of intelligence](https://arxiv.org/vc/arxiv/papers/1803/1803.05049v1.pdf)
-- [Theory of Cognitive Relativity: A Promising Paradigm for True AI](https://arxiv.org/vc/arxiv/papers/1812/1812.00136v1.pdf)
-- [Theory of Minds: Understanding Behavior in Groups Through Inverse Planning](https://arxiv.org/pdf/1901.06085v1.pdf)
-- [Towards a framework for the evolution of artificial general intelligence](https://arxiv.org/pdf/1903.10410v1.pdf)
-- [The Hanabi Challenge: A New Frontier for AI Research](https://arxiv.org/pdf/1902.00506v1.pdf)
-- [A Conceptual Bio-Inspired Framework for the Evolution of Artificial General Intelligence](https://arxiv.org/pdf/1903.10410.pdf)
-- [Modeling Theory of Mind for Autonomous Agents with Probabilistic Programs](https://arxiv.org/pdf/1812.01569v1.pdf)
-
-
-#### Tasks & Benchmarks
-
 #### Economics of Human-AI Ecosystem
 
 - [Robust Artificial Intelligence and RobustHuman Organizations](https://arxiv.org/pdf/1812.01569v1.pdf)
@@ -76,6 +77,8 @@
 
 - [AGI Safety Researchers](https://futureoflife.org/ai-safety-research/?cn-reloaded=1)
 - [AGI Safety Literature Review](https://arxiv.org/pdf/1805.01109v1.pdf)
+
+----------------
 -----------------
 
 - [gopala-kr/a-week-in-wild-ai](https://github.com/gopala-kr/a-week-in-wild-ai)
