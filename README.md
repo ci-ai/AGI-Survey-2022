@@ -11,6 +11,7 @@
 - [The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence](https://arxiv.org/vc/arxiv/papers/2002/2002.06177v2.pdf)
 - [Perspectives on Research in Artificial Intelligence and Artificial General Intelligence  Relevant to DoD](https://fas.org/irp/agency/dod/jason/ai-dod.pdf)
 - [The Superintelligent Will: Motivation and Instrumental Rationality in Advanced Artificial Agents - (2012) Nick Bostrom ](https://nickbostrom.com/superintelligentwill.pdf)
+- [There is no Artificial General Intelligence](https://arxiv.org/pdf/1906.05833.pdf)
 
 #### Some. but all theories and theories.. and..
 
@@ -54,6 +55,8 @@
 #### Lets connect the biological brains
 
 - [Brain’s Magical Future](https://waitbutwhy.com/2017/04/neuralink.html)
+- [BrainNet: A Multi-Person Brain-to-Brain Interface for Direct Collaboration Between Brains](https://arxiv.org/pdf/1809.08632.pdf)
+- [Neurosciences and 6G: Lessons from and Needs of Communicative Brains](https://arxiv.org/pdf/2004.01834.pdf)
 
 #### No.. Lets align with Nature
 
