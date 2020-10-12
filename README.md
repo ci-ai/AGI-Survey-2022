@@ -25,6 +25,10 @@
 
 - [Theory of Cognitive Relativity: A Promising Paradigm for True AI](https://arxiv.org/vc/arxiv/papers/1812/1812.00136v1.pdf)
 - [Theory of Minds: Understanding Behavior in Groups Through Inverse Planning](https://arxiv.org/pdf/1901.06085v1.pdf)
+- [Towards a framework for the evolution of artificial general intelligence](https://arxiv.org/pdf/1903.10410v1.pdf)
+- [The Hanabi Challenge: A New Frontier for AI Research](https://arxiv.org/pdf/1902.00506v1.pdf)
+- [A Conceptual Bio-Inspired Framework for the Evolution of Artificial General Intelligence](https://arxiv.org/pdf/1903.10410.pdf)
+- [Theory of Minds: Understanding Behavior in Groups Through Inverse Planning](https://arxiv.org/pdf/1901.06085v1.pdf)
 
 ##### Tasks & Benchmarks
 
