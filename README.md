@@ -15,4 +15,8 @@
 - [gopala-kr/SoTA](https://github.com/gopala-kr/SoTA)
 - [gopala-kr/ai-applications](https://github.com/gopala-kr/ai-applications)
 - [gopala-kr/ai-learning-roadmap](https://github.com/gopala-kr/ai-learning-roadmap)
+- [gopala-kr/notebooks](https://github.com/gopala-kr/notebooks)
+- [gopala-kr/kaggle-solutions](https://github.com/gopala-kr/kaggle-solutions)
+- [gopala-kr/Quantum-Dots](https://github.com/gopala-kr/Quantum-Dots)
+- [gopala-kr/trending-repos](https://github.com/gopala-kr/trending-repos)
 ---------------------
