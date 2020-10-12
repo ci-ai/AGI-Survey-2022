@@ -14,4 +14,5 @@
 - [gopala-kr/meta-learning](https://github.com/gopala-kr/meta-learning)
 - [gopala-kr/SoTA](https://github.com/gopala-kr/SoTA)
 - [gopala-kr/ai-applications](https://github.com/gopala-kr/ai-applications)
+- [gopala-kr/ai-learning-roadmap](https://github.com/gopala-kr/ai-learning-roadmap)
 ---------------------
