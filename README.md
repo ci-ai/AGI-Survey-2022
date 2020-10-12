@@ -43,6 +43,7 @@
 
 - [Progress in artificial intelligence](https://en.wikipedia.org/wiki/Progress_in_artificial_intelligence)
 - [AI Impacts Library](https://sites.google.com/site/aiimpactslibrary/ai-timelines/predictions-of-human-level-ai-dates)
+- [PRIMO.ai - Benchmarks](http://primo.ai/index.php?title=Benchmarks)
 - [Measuring the Progress of AI Research](https://www.eff.org/ai/metrics)
 - [A critical analysis of metrics used for measuring progress in artificial intelligence](https://arxiv.org/ftp/arxiv/papers/2008/2008.02577.pdf)
 - [Directory of AI Benchmarks](https://benchmarks.ai/)
@@ -79,7 +80,7 @@
 - [A computational perspective of the role of Thalamus in cognition](https://arxiv.org/pdf/1803.00997v3.pdf)
 - [Lenia - Biology of Artificial Life](https://arxiv.org/pdf/1812.05433v2.pdf)
 
-#### Lets connect the biological brains
+#### Lets connect machines and biological brains
 
 - [Brain’s Magical Future](https://waitbutwhy.com/2017/04/neuralink.html)
 - [BrainNet: A Multi-Person Brain-to-Brain Interface for Direct Collaboration Between Brains](https://arxiv.org/pdf/1809.08632.pdf)
