@@ -9,6 +9,7 @@
 - [On the Measure of Intelligence - (2019) Franc ̧ois Chollet](https://arxiv.org/pdf/1911.01547.pdf)
 - [When Will AI Exceed Human Performance? Evidence from AI Experts](https://arxiv.org/pdf/1705.08807v3.pdf)
 - [Forecasting Transformative AI: An Expert Survey](https://arxiv.org/ftp/arxiv/papers/1901/1901.08579.pdf)
+- [Predictions of human-level AI timelines](https://sites.google.com/site/aiimpactslibrary/ai-timelines/predictions-of-human-level-ai-dates)
 - [The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence](https://arxiv.org/vc/arxiv/papers/2002/2002.06177v2.pdf)
 - [Perspectives on Research in Artificial Intelligence and Artificial General Intelligence  Relevant to DoD](https://fas.org/irp/agency/dod/jason/ai-dod.pdf)
 - [The Superintelligent Will: Motivation and Instrumental Rationality in Advanced Artificial Agents - (2012) Nick Bostrom ](https://nickbostrom.com/superintelligentwill.pdf)
@@ -27,6 +28,7 @@
 - [AI-GAs: AI-generating algorithms, an alternateparadigm for producing general artificial intelligence](https://arxiv.org/pdf/1905.10985.pdf)
 
 #### Approches - Limitations:
+
 - [Provable limitations of deep learning](https://arxiv.org/pdf/1812.06369v2.pdf)
 - [Deep Learning: A Critical Appraisal](https://arxiv.org/ftp/arxiv/papers/1801/1801.00631.pdf)
 - [Measure, Manifold, Learning, and Optimization: A Theory Of Neural Networks](https://arxiv.org/pdf/1811.12783v1.pdf)
@@ -36,8 +38,12 @@
 - [Troubling Trends in Machine Learning Scholarship](https://arxiv.org/pdf/1807.03341v1.pdf)
 - [AI Enabling Technologies: A Survey, MIT 2019](https://arxiv.org/ftp/arxiv/papers/1905/1905.03592.pdf)
 
+
 #### Tasks & Benchmarks - Comparative
 
+- [Progress in artificial intelligence](https://en.wikipedia.org/wiki/Progress_in_artificial_intelligence)
+- [AI Impacts Library](https://sites.google.com/site/aiimpactslibrary/ai-timelines/predictions-of-human-level-ai-dates)
+- [Measuring the Progress of AI Research](https://www.eff.org/ai/metrics)
 - [A critical analysis of metrics used for measuring progress in artificial intelligence](https://arxiv.org/ftp/arxiv/papers/2008/2008.02577.pdf)
 - [Directory of AI Benchmarks](https://benchmarks.ai/)
 - [MLPerf Training benchmark](https://arxiv.org/pdf/1910.01500.pdf)
@@ -45,12 +51,16 @@
 - [DAWNBench: An End-to-End Deep LearningBenchmark and Competition](https://dawn.cs.stanford.edu/benchmark/papers/nips17-dawnbench.pdf)
 - [AIBench Training: Balanced Industry-Standard AI Training Benchmarking](https://arxiv.org/pdf/2004.14690.pdf)
 - [ai-benchmark - Smartphone Hardwares & Mobile SoC's](http://ai-benchmark.com/ranking.html)
+- [deep500/deep500](https://github.com/deep500/deep500) & [AI500](https://www.benchcouncil.org/HPCAI500/files/HPCAI500-Bench18.pdf)
+- [Fathom: Reference Workloads for Modern Deep Learning Methods](https://arxiv.org/pdf/1608.06581.pdf)
 - [Measuring Inference Performance of Machine-Learning Frameworks on Edge-class Devices with the MLMark™Benchmark](https://www.eembc.org/techlit/articles/MLMARK-WHITEPAPER-FINAL-1.pdf)
 - [Ultra-low Power Machine Learning with ULPMark-ML](https://www.eembc.org/ulpmark/)
 - [The Murky World Of AI Benchmarks](https://semiengineering.com/the-murky-world-of-ai-benchmarks/)
 - [Benchmarking Contemporary Deep Learning Hardware and Frameworks:A Survey of Qualitative Metrics](https://arxiv.org/ftp/arxiv/papers/1907/1907.03626.pdf)
 - [Survey and Benchmarking of Machine Learning Accelerator](https://ieeexplore.ieee.org/document/8916327)
-
+- [Algorithmic Progress in Six Domains](https://intelligence.org/files/AlgorithmicProgress.pdf)
+- [Measuring the Occupational Impact of AI: Tasks, Cognitive Abilities and AI Benchmarks](https://ec.europa.eu/jrc/sites/jrcsh/files/jrc119845.pdf)
+- [Consortium of Tech Firms Sets AI Benchmarks](https://www.wsj.com/articles/consortium-of-tech-firms-sets-ai-benchmarks-11561490769)
 
 #### Computational - Limitations
 
@@ -92,6 +102,12 @@
 
 - [Robust Artificial Intelligence and RobustHuman Organizations](https://arxiv.org/pdf/1812.01569v1.pdf)
 - [Value Bias and Lost Utility in Multi-Dimensional Gaps](https://arxiv.org/pdf/1811.06606v1.pdf)
+- [Global AI Survey: AI proves its worth, but few scale impact](https://www.mckinsey.com/featured-insights/artificial-intelligence/global-ai-survey-ai-proves-its-worth-but-few-scale-impact) | [mckinsey](https://www.mckinsey.com/featured-insights/artificial-intelligence)
+- [PwC’s Global Artificial Intelligence Study: Exploiting the AI Revolution](https://www.pwc.com/gx/en/issues/data-and-analytics/publications/artificial-intelligence-study.html)
+- [Benchmarking  National  AI Strategies](https://www.stiftung-nv.de/sites/default/files/benchmarking_ai_strategies.pdf)
+- [Global Talent in the Age of Artificial Intelligence, INSEAD 2020](https://www.insead.edu/sites/default/files/assets/dept/globalindices/docs/GTCI-2020-report.pdf)
+- [Artificial Intelligence Index Report Stanford, 2019](https://hai.stanford.edu/sites/default/files/ai_index_2019_report.pdf)
+- [Government AI Readiness Index 2020](https://www.oxfordinsights.com/government-ai-readiness-index-2020)
 
 #### Safety Organizations
 
