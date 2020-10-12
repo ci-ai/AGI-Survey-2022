@@ -1,5 +1,5 @@
 
-#### ii
+#### tm/i
 -----------
 
 #### Discussions:
@@ -29,8 +29,14 @@
 - [The Hanabi Challenge: A New Frontier for AI Research](https://arxiv.org/pdf/1902.00506v1.pdf)
 - [A Conceptual Bio-Inspired Framework for the Evolution of Artificial General Intelligence](https://arxiv.org/pdf/1903.10410.pdf)
 - [Theory of Minds: Understanding Behavior in Groups Through Inverse Planning](https://arxiv.org/pdf/1901.06085v1.pdf)
+- [Modeling Theory of Mind for Autonomous Agents with Probabilistic Programs](https://arxiv.org/pdf/1812.01569v1.pdf)
 
-##### Tasks & Benchmarks
+#### Tasks & Benchmarks
+
+#### Economics of Intelligent Systems
+
+- [Robust Artificial Intelligence and RobustHuman Organizations](https://arxiv.org/pdf/1812.01569v1.pdf)
+- [Economics of Human-AI Ecosystem: Value Bias and Lost Utility in Multi-Dimensional Gaps](https://arxiv.org/pdf/1811.06606v1.pdf)
 
 #### Safety Organizations
 
