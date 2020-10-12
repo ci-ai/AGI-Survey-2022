@@ -19,4 +19,5 @@
 - [gopala-kr/kaggle-solutions](https://github.com/gopala-kr/kaggle-solutions)
 - [gopala-kr/Quantum-Dots](https://github.com/gopala-kr/Quantum-Dots)
 - [gopala-kr/trending-repos](https://github.com/gopala-kr/trending-repos)
+- [ci-ai/transfer-learning](https://github.com/ci-ai/transfer-learning)
 ---------------------
