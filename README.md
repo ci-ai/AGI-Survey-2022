@@ -68,6 +68,8 @@
 - [Algorithmic Progress in Six Domains](https://intelligence.org/files/AlgorithmicProgress.pdf)
 - [Measuring the Occupational Impact of AI: Tasks, Cognitive Abilities and AI Benchmarks](https://ec.europa.eu/jrc/sites/jrcsh/files/jrc119845.pdf)
 - [Consortium of Tech Firms Sets AI Benchmarks](https://www.wsj.com/articles/consortium-of-tech-firms-sets-ai-benchmarks-11561490769)
+- [Benchmarking the Performance and Energy Efficiency of AI
+Accelerators for AI Training](https://arxiv.org/pdf/1909.06842v8.pdf)
 
 ------------------------------
 
@@ -91,6 +93,7 @@
 - [A Survey on Distributed Machine Learning](https://arxiv.org/ftp/arxiv/papers/1912/1912.09789.pdf)
 - [LIMITS: Lightweight Machine Learning for IoT Systems with Resource Limitations](https://arxiv.org/pdf/2001.10189.pdf)
 - [Deep Learning on Mobile Devices – A Review](https://arxiv.org/ftp/arxiv/papers/1904/1904.09274.pdf)
+- [Survey of Machine Learning Accelerators](https://arxiv.org/pdf/2009.00993v1.pdf)
 
 --------------------------------------
 
