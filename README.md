@@ -67,7 +67,7 @@
 
 - [Green AI](https://arxiv.org/pdf/1907.10597v2.pdf)
 - [AI at Scale](https://innovation.microsoft.com/en-us/exploring-ai-at-scale/)
-- [Intelligence at scale in action](https://github.com/binhnguyennus/awesome-scalability#intelligence)
+- [Intelligence at Scale in Action](https://github.com/binhnguyennus/awesome-scalability#intelligence)
 - [Large-Scale Intelligent Microservices](https://arxiv.org/pdf/2009.08044.pdf)
 - [A Survey on Large-scale Machine Learning](https://arxiv.org/pdf/2008.03911.pdf)
 - [Deploying Scientific AI Networks at Petaflop Scale](https://arxiv.org/ftp/arxiv/papers/2005/2005.10676.pdf)
