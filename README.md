@@ -27,7 +27,7 @@
 - [Modeling Theory of Mind for Autonomous Agents with Probabilistic Programs](https://arxiv.org/pdf/1812.01569v1.pdf)
 - [AI-GAs: AI-generating algorithms, an alternateparadigm for producing general artificial intelligence](https://arxiv.org/pdf/1905.10985.pdf)
 
-#### Approches - Limitations:
+#### Approches - Limitations
 
 - [Provable limitations of deep learning](https://arxiv.org/pdf/1812.06369v2.pdf)
 - [Deep Learning: A Critical Appraisal](https://arxiv.org/ftp/arxiv/papers/1801/1801.00631.pdf)
@@ -66,7 +66,10 @@
 #### Computational - Limitations
 
 - [Green AI](https://arxiv.org/pdf/1907.10597v2.pdf)
-
+- [Large-Scale Intelligent Microservices](https://arxiv.org/pdf/2009.08044.pdf)
+- [A Survey on Large-scale Machine Learning](https://arxiv.org/pdf/2008.03911.pdf)
+- [Deploying Scientific AI Networks at Petaflop Scale](https://arxiv.org/ftp/arxiv/papers/2005/2005.10676.pdf)
+- [Towards Federated Learning at Scale: System Design](https://arxiv.org/pdf/1902.01046.pdf)
 
 #### All Adversaries..yes
 
@@ -114,6 +117,7 @@
 
 - [AGI Safety Researchers](https://futureoflife.org/ai-safety-research/?cn-reloaded=1)
 - [AGI Safety Literature Review](https://arxiv.org/pdf/1805.01109v1.pdf)
+- [The Threats of Artificial Intelligence Scale (TAI)](https://arxiv.org/pdf/2006.07211.pdf)
 
 ----------------
 -----------------
