@@ -67,6 +67,7 @@
 
 - [Green AI](https://arxiv.org/pdf/1907.10597v2.pdf)
 - [AI at Scale](https://innovation.microsoft.com/en-us/exploring-ai-at-scale/)
+- [Intelligence at scale in action](https://github.com/binhnguyennus/awesome-scalability#intelligence)
 - [Large-Scale Intelligent Microservices](https://arxiv.org/pdf/2009.08044.pdf)
 - [A Survey on Large-scale Machine Learning](https://arxiv.org/pdf/2008.03911.pdf)
 - [Deploying Scientific AI Networks at Petaflop Scale](https://arxiv.org/ftp/arxiv/papers/2005/2005.10676.pdf)
@@ -79,6 +80,7 @@
 - [High Performance I/O For Large Scale Deep Learning](https://arxiv.org/ftp/arxiv/papers/2001/2001.01858.pdf)
 - [On Scale-out Deep Learning Training for Cloud](https://arxiv.org/pdf/1801.08030.pdf)
 - [Deep Learning At Scale and At Ease](https://arxiv.org/pdf/1603.07846.pdf)
+- [A Survey on Distributed Machine Learning](https://arxiv.org/ftp/arxiv/papers/1912/1912.09789.pdf)
 
 #### All Adversaries..yes
 
