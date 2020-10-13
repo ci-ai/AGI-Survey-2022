@@ -81,6 +81,8 @@
 - [On Scale-out Deep Learning Training for Cloud](https://arxiv.org/pdf/1801.08030.pdf)
 - [Deep Learning At Scale and At Ease](https://arxiv.org/pdf/1603.07846.pdf)
 - [A Survey on Distributed Machine Learning](https://arxiv.org/ftp/arxiv/papers/1912/1912.09789.pdf)
+- [LIMITS: Lightweight Machine Learning for IoT Systems with Resource Limitations](https://arxiv.org/pdf/2001.10189.pdf)
+- [Deep Learning on Mobile Devices – A Review](https://arxiv.org/ftp/arxiv/papers/1904/1904.09274.pdf)
 
 #### All Adversaries..yes
 
@@ -99,6 +101,7 @@
 - [Brain’s Magical Future](https://waitbutwhy.com/2017/04/neuralink.html)
 - [BrainNet: A Multi-Person Brain-to-Brain Interface for Direct Collaboration Between Brains](https://arxiv.org/pdf/1809.08632.pdf)
 - [Neurosciences and 6G: Lessons from and Needs of Communicative Brains](https://arxiv.org/pdf/2004.01834.pdf)
+- [The Roadmap to 6G – AI Empowered Wireless Networks](https://arxiv.org/pdf/1904.11686.pdf)
 
 #### No.. Lets align with Nature
 
