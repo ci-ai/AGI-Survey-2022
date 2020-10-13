@@ -74,6 +74,11 @@
 - [System Design for Large Scale Machine Learning](https://shivaram.org/publications/shivaram-dissertation.pdf)
 - [Lessons Learned from Building Scalable Machine Learning Pipelines](https://medium.com/xandr-tech/lessons-learned-from-building-scalable-machine-learning-pipelines-822acb3412ad)
 - [ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](https://arxiv.org/pdf/1910.02054.pdf)
+- [Deep Learning Training in Facebook Data Centers: Design of Scale-up and Scale-out Systems](https://arxiv.org/pdf/2003.09518.pdf)
+- [The Computational Limits of Deep Learning, MIT](https://arxiv.org/pdf/2007.05558.pdf)
+- [High Performance I/O For Large Scale Deep Learning](https://arxiv.org/ftp/arxiv/papers/2001/2001.01858.pdf)
+- [On Scale-out Deep Learning Training for Cloud](https://arxiv.org/pdf/1801.08030.pdf)
+- [Deep Learning At Scale and At Ease](https://arxiv.org/pdf/1603.07846.pdf)
 
 #### All Adversaries..yes
 
