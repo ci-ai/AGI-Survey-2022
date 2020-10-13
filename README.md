@@ -66,10 +66,14 @@
 #### Computational - Limitations
 
 - [Green AI](https://arxiv.org/pdf/1907.10597v2.pdf)
+- [AI at Scale](https://innovation.microsoft.com/en-us/exploring-ai-at-scale/)
 - [Large-Scale Intelligent Microservices](https://arxiv.org/pdf/2009.08044.pdf)
 - [A Survey on Large-scale Machine Learning](https://arxiv.org/pdf/2008.03911.pdf)
 - [Deploying Scientific AI Networks at Petaflop Scale](https://arxiv.org/ftp/arxiv/papers/2005/2005.10676.pdf)
 - [Towards Federated Learning at Scale: System Design](https://arxiv.org/pdf/1902.01046.pdf)
+- [System Design for Large Scale Machine Learning](https://shivaram.org/publications/shivaram-dissertation.pdf)
+- [Lessons Learned from Building Scalable Machine Learning Pipelines](https://medium.com/xandr-tech/lessons-learned-from-building-scalable-machine-learning-pipelines-822acb3412ad)
+- [ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](https://arxiv.org/pdf/1910.02054.pdf)
 
 #### All Adversaries..yes
 
