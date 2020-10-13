@@ -37,7 +37,7 @@
 - [We analyzed 16,625 papers to figure out where AI is headed next, 2019](https://www.technologyreview.com/2019/01/25/1436/we-analyzed-16625-papers-to-figure-out-where-ai-is-headed-next/)
 - [Troubling Trends in Machine Learning Scholarship](https://arxiv.org/pdf/1807.03341v1.pdf)
 - [AI Enabling Technologies: A Survey, MIT 2019](https://arxiv.org/ftp/arxiv/papers/1905/1905.03592.pdf)
-
+- [A Berkeley View of Systems Challenges for AI](https://arxiv.org/pdf/1712.05855.pdf)
 
 #### Tasks & Benchmarks - Comparative
 
