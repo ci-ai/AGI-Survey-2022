@@ -15,6 +15,8 @@
 - [The Superintelligent Will: Motivation and Instrumental Rationality in Advanced Artificial Agents - (2012) Nick Bostrom ](https://nickbostrom.com/superintelligentwill.pdf)
 - [There is no Artificial General Intelligence](https://arxiv.org/pdf/1906.05833.pdf)
 
+---------------------
+
 #### Some. but all theories and theories.. and..
 
 - [Machine Theory of Mind](https://arxiv.org/pdf/1802.07740.pdf)
@@ -27,6 +29,8 @@
 - [Modeling Theory of Mind for Autonomous Agents with Probabilistic Programs](https://arxiv.org/pdf/1812.01569v1.pdf)
 - [AI-GAs: AI-generating algorithms, an alternateparadigm for producing general artificial intelligence](https://arxiv.org/pdf/1905.10985.pdf)
 
+--------------------------------
+
 #### Approches - Limitations
 
 - [Provable limitations of deep learning](https://arxiv.org/pdf/1812.06369v2.pdf)
@@ -38,6 +42,8 @@
 - [Troubling Trends in Machine Learning Scholarship](https://arxiv.org/pdf/1807.03341v1.pdf)
 - [AI Enabling Technologies: A Survey, MIT 2019](https://arxiv.org/ftp/arxiv/papers/1905/1905.03592.pdf)
 - [A Berkeley View of Systems Challenges for AI](https://arxiv.org/pdf/1712.05855.pdf)
+
+---------------------------------
 
 #### Tasks & Benchmarks - Comparative
 
@@ -63,6 +69,8 @@
 - [Measuring the Occupational Impact of AI: Tasks, Cognitive Abilities and AI Benchmarks](https://ec.europa.eu/jrc/sites/jrcsh/files/jrc119845.pdf)
 - [Consortium of Tech Firms Sets AI Benchmarks](https://www.wsj.com/articles/consortium-of-tech-firms-sets-ai-benchmarks-11561490769)
 
+------------------------------
+
 #### Computational - Limitations
 
 - [Green AI](https://arxiv.org/pdf/1907.10597v2.pdf)
@@ -84,11 +92,15 @@
 - [LIMITS: Lightweight Machine Learning for IoT Systems with Resource Limitations](https://arxiv.org/pdf/2001.10189.pdf)
 - [Deep Learning on Mobile Devices – A Review](https://arxiv.org/ftp/arxiv/papers/1904/1904.09274.pdf)
 
+--------------------------------------
+
 #### All Adversaries..yes
 
 - [Adversarial Attacks and Defences: A Survey](https://arxiv.org/pdf/1810.00069v1.pdf)
 - [Ten ways to fool the masses with machine learning](https://arxiv.org/ftp/arxiv/papers/1901/1901.01686.pdf)
 - [Opportunities and Challenges in Deep Learning Adversarial Robustness: A Survey](https://arxiv.org/pdf/2007.00753.pdf)
+
+---------------------------
 
 #### Convergence--> Biology+Intelligence==> Artificial Stupidity
 
@@ -96,12 +108,16 @@
 - [A computational perspective of the role of Thalamus in cognition](https://arxiv.org/pdf/1803.00997v3.pdf)
 - [Lenia - Biology of Artificial Life](https://arxiv.org/pdf/1812.05433v2.pdf)
 
+---------------------------
+
 #### Lets connect machines and biological brains
 
 - [Brain’s Magical Future](https://waitbutwhy.com/2017/04/neuralink.html)
 - [BrainNet: A Multi-Person Brain-to-Brain Interface for Direct Collaboration Between Brains](https://arxiv.org/pdf/1809.08632.pdf)
 - [Neurosciences and 6G: Lessons from and Needs of Communicative Brains](https://arxiv.org/pdf/2004.01834.pdf)
 - [The Roadmap to 6G – AI Empowered Wireless Networks](https://arxiv.org/pdf/1904.11686.pdf)
+
+-------------------------------
 
 #### No.. Lets align with Nature
 
@@ -115,6 +131,8 @@
 - [Implications of Quantum Computing for Artificial Intelligence alignment research](https://arxiv.org/ftp/arxiv/papers/1908/1908.07613.pdf)
 - [Computer-inspired Quantum Experiments](https://arxiv.org/pdf/2002.09970.pdf)
 
+----------------------------------------
+
 
 #### Economics of Human-AI Ecosystem
 
@@ -126,6 +144,8 @@
 - [Global Talent in the Age of Artificial Intelligence, INSEAD 2020](https://www.insead.edu/sites/default/files/assets/dept/globalindices/docs/GTCI-2020-report.pdf)
 - [Artificial Intelligence Index Report Stanford, 2019](https://hai.stanford.edu/sites/default/files/ai_index_2019_report.pdf)
 - [Government AI Readiness Index 2020](https://www.oxfordinsights.com/government-ai-readiness-index-2020)
+
+----------------------------
 
 #### Safety Organizations
 
