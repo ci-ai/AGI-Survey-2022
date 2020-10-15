@@ -58,7 +58,7 @@
 - [DAWNBench: An End-to-End Deep LearningBenchmark and Competition](https://dawn.cs.stanford.edu/benchmark/papers/nips17-dawnbench.pdf)
 - [AIBench Training: Balanced Industry-Standard AI Training Benchmarking](https://arxiv.org/pdf/2004.14690.pdf)
 - [ai-benchmark - Smartphone Hardwares & Mobile SoC's](http://ai-benchmark.com/ranking.html)
-- [deep500/deep500](https://github.com/deep500/deep500) & [AI500](https://www.benchcouncil.org/HPCAI500/files/HPCAI500-Bench18.pdf)
+- [deep500/deep500](https://github.com/deep500/deep500) and [AI500](https://www.benchcouncil.org/HPCAI500/files/HPCAI500-Bench18.pdf)
 - [Fathom: Reference Workloads for Modern Deep Learning Methods](https://arxiv.org/pdf/1608.06581.pdf)
 - [Measuring Inference Performance of Machine-Learning Frameworks on Edge-class Devices with the MLMark™Benchmark](https://www.eembc.org/techlit/articles/MLMARK-WHITEPAPER-FINAL-1.pdf)
 - [Ultra-low Power Machine Learning with ULPMark-ML](https://www.eembc.org/ulpmark/)
@@ -94,6 +94,11 @@ Accelerators for AI Training](https://arxiv.org/pdf/1909.06842v8.pdf)
 - [LIMITS: Lightweight Machine Learning for IoT Systems with Resource Limitations](https://arxiv.org/pdf/2001.10189.pdf)
 - [Deep Learning on Mobile Devices – A Review](https://arxiv.org/ftp/arxiv/papers/1904/1904.09274.pdf)
 - [Survey of Machine Learning Accelerators](https://arxiv.org/pdf/2009.00993v1.pdf)
+
+##### Datasets:
+
+- [Survey on Data Collection forMachine Learning](https://arxiv.org/pdf/1811.03402.pdf)
+- [datasets for machine-learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
 
 --------------------------------------
 
