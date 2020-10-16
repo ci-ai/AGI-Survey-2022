@@ -71,6 +71,11 @@
 - [Benchmarking the Performance and Energy Efficiency of AI
 Accelerators for AI Training](https://arxiv.org/pdf/1909.06842v8.pdf)
 
+##### Datasets:
+
+- [Survey on Data Collection forMachine Learning](https://arxiv.org/pdf/1811.03402.pdf)
+- [datasets for machine-learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
+- [arXiv dataset and metadata of 1.7M+ scholarly papers across STEM](https://www.kaggle.com/Cornell-University/arxiv)
 ------------------------------
 
 #### Computational - Limitations
@@ -95,10 +100,6 @@ Accelerators for AI Training](https://arxiv.org/pdf/1909.06842v8.pdf)
 - [Deep Learning on Mobile Devices – A Review](https://arxiv.org/ftp/arxiv/papers/1904/1904.09274.pdf)
 - [Survey of Machine Learning Accelerators](https://arxiv.org/pdf/2009.00993v1.pdf)
 
-##### Datasets:
-
-- [Survey on Data Collection forMachine Learning](https://arxiv.org/pdf/1811.03402.pdf)
-- [datasets for machine-learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
 
 --------------------------------------
 
