@@ -70,8 +70,8 @@
 - [Algorithmic Progress in Six Domains](https://intelligence.org/files/AlgorithmicProgress.pdf)
 - [Measuring the Occupational Impact of AI: Tasks, Cognitive Abilities and AI Benchmarks](https://ec.europa.eu/jrc/sites/jrcsh/files/jrc119845.pdf)
 - [Consortium of Tech Firms Sets AI Benchmarks](https://www.wsj.com/articles/consortium-of-tech-firms-sets-ai-benchmarks-11561490769)
-- [Benchmarking the Performance and Energy Efficiency of AI
-Accelerators for AI Training](https://arxiv.org/pdf/1909.06842v8.pdf)
+- [Benchmarking the Performance and Energy Efficiency of AI Accelerators for AI Training](https://arxiv.org/pdf/1909.06842v8.pdf)
+- [gluebenchmark](https://gluebenchmark.com/)
 
 ##### Datasets:
 
