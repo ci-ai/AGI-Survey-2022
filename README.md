@@ -164,6 +164,7 @@
 - [Who’s Ahead in AI Research in 2020? Insights from the International Conference on Machine Learning (ICML 2020)](https://medium.com/@chuvpilo/whos-ahead-in-ai-research-in-2020-2009da5cd799)
 - [Mapped: The State of Facial Recognition Around the World](https://www.visualcapitalist.com/facial-recognition-world-map/?utm_source=morning_brew)
 - [AI Strategies & Public Sector Components](https://oecd-opsi.org/projects/ai/strategies/)
+- [Tackling Climate Change with Machine Learning](https://arxiv.org/pdf/1906.05433.pdf)
 
 ----------------------------
 
