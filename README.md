@@ -100,7 +100,7 @@ Accelerators for AI Training](https://arxiv.org/pdf/1909.06842v8.pdf)
 - [LIMITS: Lightweight Machine Learning for IoT Systems with Resource Limitations](https://arxiv.org/pdf/2001.10189.pdf)
 - [Deep Learning on Mobile Devices – A Review](https://arxiv.org/ftp/arxiv/papers/1904/1904.09274.pdf)
 - [Survey of Machine Learning Accelerators](https://arxiv.org/pdf/2009.00993v1.pdf)
-
+- [Exascale Deep Learning for Scientific Inverse Problems](https://arxiv.org/pdf/1909.11150.pdf)
 
 --------------------------------------
 
