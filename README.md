@@ -74,6 +74,8 @@
 - [SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems](https://arxiv.org/pdf/1905.00537.pdf)
 - [gluebenchmark](https://gluebenchmark.com/)
 - [Nvidia Dominates Latest MLPerf Training Benchmark Results](https://www.hpcwire.com/2020/07/29/nvidia-dominates-latest-mlperf-training-benchmark-results/)
+- [Open Source Growth Benchmarks and the 20 Fastest-Growing OSS Startups](https://medium.com/runacapital/open-source-growth-benchmarks-and-the-20-fastest-growing-oss-startups-d3556a669fe6)
+
 
 ##### Datasets:
 
