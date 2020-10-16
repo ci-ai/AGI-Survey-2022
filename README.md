@@ -10,6 +10,7 @@
 - [When Will AI Exceed Human Performance? Evidence from AI Experts](https://arxiv.org/pdf/1705.08807v3.pdf)
 - [Forecasting Transformative AI: An Expert Survey](https://arxiv.org/ftp/arxiv/papers/1901/1901.08579.pdf)
 - [Predictions of human-level AI timelines](https://sites.google.com/site/aiimpactslibrary/ai-timelines/predictions-of-human-level-ai-dates)
+- [AI Timeline Surveys](https://aiimpacts.org/ai-timeline-surveys/)
 - [The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence](https://arxiv.org/vc/arxiv/papers/2002/2002.06177v2.pdf)
 - [Perspectives on Research in Artificial Intelligence and Artificial General Intelligence  Relevant to DoD](https://fas.org/irp/agency/dod/jason/ai-dod.pdf)
 - [The Superintelligent Will: Motivation and Instrumental Rationality in Advanced Artificial Agents - (2012) Nick Bostrom ](https://nickbostrom.com/superintelligentwill.pdf)
