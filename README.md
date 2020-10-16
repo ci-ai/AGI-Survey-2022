@@ -155,12 +155,14 @@ Accelerators for AI Training](https://arxiv.org/pdf/1909.06842v8.pdf)
 
 ----------------------------
 
-#### Safety Organizations
+#### Safety Measures & Organizations
 
 - [AGI Safety Researchers](https://futureoflife.org/ai-safety-research/?cn-reloaded=1)
 - [AGI Safety Literature Review](https://arxiv.org/pdf/1805.01109v1.pdf)
 - [The Threats of Artificial Intelligence Scale (TAI)](https://arxiv.org/pdf/2006.07211.pdf)
-
+- [A Survey on Computational Propaganda Detection](https://arxiv.org/pdf/2007.08024v1.pdf)
+- [Technologies for Trustworthy Machine Learning: A Surveyin a Socio-Technical Context](https://arxiv.org/pdf/2007.08911v1.pdf)
+- [A Survey of Fake News: Fundamental Theories, Detection Methods, and Opportunities](https://arxiv.org/pdf/1812.00315v2.pdf)
 ----------------
 -----------------
 
