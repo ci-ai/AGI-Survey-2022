@@ -156,7 +156,8 @@
 - [Global Talent in the Age of Artificial Intelligence, INSEAD 2020](https://www.insead.edu/sites/default/files/assets/dept/globalindices/docs/GTCI-2020-report.pdf)
 - [Artificial Intelligence Index Report Stanford, 2019](https://hai.stanford.edu/sites/default/files/ai_index_2019_report.pdf)
 - [Government AI Readiness Index 2020](https://www.oxfordinsights.com/government-ai-readiness-index-2020)
-- [Artificial Intelligence, Education, andEntrepreneurship∗](http://gofman.info/AI/AI_GofmanJin.pdf)
+- [Artificial Intelligence, Education, and Entrepreneurship∗](http://gofman.info/AI/AI_GofmanJin.pdf)
+- [The Global AI Talent Tracker](https://macropolo.org/digital-projects/the-global-ai-talent-tracker/)
 
 ----------------------------
 
