@@ -164,6 +164,8 @@ Accelerators for AI Training](https://arxiv.org/pdf/1909.06842v8.pdf)
 - [A Survey on Computational Propaganda Detection](https://arxiv.org/pdf/2007.08024v1.pdf)
 - [Technologies for Trustworthy Machine Learning: A Surveyin a Socio-Technical Context](https://arxiv.org/pdf/2007.08911v1.pdf)
 - [A Survey of Fake News: Fundamental Theories, Detection Methods, and Opportunities](https://arxiv.org/pdf/1812.00315v2.pdf)
+- [A Survey of Artificial General Intelligence Projects for Ethics, Risk, and Policy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741)
+
 ----------------
 -----------------
 
