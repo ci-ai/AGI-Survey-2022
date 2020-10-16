@@ -53,6 +53,7 @@
 - [PRIMO.ai - Benchmarks](http://primo.ai/index.php?title=Benchmarks)
 - [Measuring the Progress of AI Research](https://www.eff.org/ai/metrics)
 - [State of AI Report 2020](https://www.stateof.ai/)
+- [paperswithcode.com/trends](https://paperswithcode.com/trends)
 - [A critical analysis of metrics used for measuring progress in artificial intelligence](https://arxiv.org/ftp/arxiv/papers/2008/2008.02577.pdf)
 - [Directory of AI Benchmarks](https://benchmarks.ai/)
 - [MLPerf Training benchmark](https://arxiv.org/pdf/1910.01500.pdf)
