@@ -162,6 +162,8 @@
 - [Artificial Intelligence, Education, and Entrepreneurship∗](http://gofman.info/AI/AI_GofmanJin.pdf)
 - [The Global AI Talent Tracker](https://macropolo.org/digital-projects/the-global-ai-talent-tracker/)
 - [Who’s Ahead in AI Research in 2020? Insights from the International Conference on Machine Learning (ICML 2020)](https://medium.com/@chuvpilo/whos-ahead-in-ai-research-in-2020-2009da5cd799)
+- [Mapped: The State of Facial Recognition Around the World](https://www.visualcapitalist.com/facial-recognition-world-map/?utm_source=morning_brew)
+- [AI Strategies & Public Sector Components](https://oecd-opsi.org/projects/ai/strategies/)
 
 ----------------------------
 
