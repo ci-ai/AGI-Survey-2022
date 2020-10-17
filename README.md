@@ -88,6 +88,9 @@
 - [Big Data Analytics for Large Scale Wireless Networks: Challenges and Opportunities](https://arxiv.org/pdf/1909.08069.pdf)
 - [A Survey on Data Collection for Machine Learning: a Big Data -- AI Integration Perspective](https://arxiv.org/pdf/1811.03402.pdf)
 - [Data Science: A Comprehensive Overview](https://arxiv.org/pdf/2007.03606.pdf)
+- [Machine Learning in Python: Main developments andtechnology trends in data science, machine learning,and artificial intelligence](https://arxiv.org/pdf/2002.04803.pdf)
+- [How can AI Automate End-to-End Data Science?](https://arxiv.org/pdf/1910.14436.pdf)
+- [Data Science through the looking glass and what we found there](https://arxiv.org/pdf/1912.09536.pdf)
 
 ------------------------------
 
