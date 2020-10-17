@@ -76,12 +76,15 @@
 - [Nvidia Dominates Latest MLPerf Training Benchmark Results](https://www.hpcwire.com/2020/07/29/nvidia-dominates-latest-mlperf-training-benchmark-results/)
 - [Open Source Growth Benchmarks and the 20 Fastest-Growing OSS Startups](https://medium.com/runacapital/open-source-growth-benchmarks-and-the-20-fastest-growing-oss-startups-d3556a669fe6)
 
+----------------------------------
 
-##### Datasets:
+##### Data
 
 - [Survey on Data Collection forMachine Learning](https://arxiv.org/pdf/1811.03402.pdf)
 - [datasets for machine-learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
 - [arXiv dataset and metadata of 1.7M+ scholarly papers across STEM](https://www.kaggle.com/Cornell-University/arxiv)
+- [Taxonomy of Big Data: A Survey](https://arxiv.org/pdf/1808.08474.pdf)
+- [A Survey of Big Data Machine Learning Applications Optimization in Cloud Data Centers and Networks](https://arxiv.org/ftp/arxiv/papers/1910/1910.00731.pdf)
 ------------------------------
 
 #### Computational - Limitations
