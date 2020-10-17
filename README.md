@@ -95,7 +95,7 @@
 - [Data Science through the looking glass and what we found there](https://arxiv.org/pdf/1912.09536.pdf)
 - [Software Engineering for Machine Learning:A Case Study](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf)
 - [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
-- [AutoML: A Survey of the State-of-the-Art](https://arxiv.org/pdf/1908.00709.pdf)
+- [Machine Learning Testing:Survey, Landscapes and Horizons](https://arxiv.org/pdf/1906.10742.pdf)
 
 ------------------------------
 
