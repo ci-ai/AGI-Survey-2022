@@ -86,6 +86,7 @@
 - [State-of-Art-Reviewing: A Radical Proposal to Improve Scientific Publication](https://arxiv.org/pdf/2003.14415.pdf)
 - [Overview: State-of-the-Art Machine Learning Algorithms per Discipline & per Task](https://towardsdatascience.com/overview-state-of-the-art-machine-learning-algorithms-per-discipline-per-task-c1a16a66b8bb)
 
+
 ----------------------------------
 
 #### Data 
@@ -210,6 +211,8 @@
 - [A Survey of Artificial General Intelligence Projects for Ethics, Risk, and Policy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741)
 - [Technologies for Trustworthy Machine Learning: A Survey in a Socio-Technical Context](https://arxiv.org/pdf/2007.08911.pdf)
 - [A Survey on Bias and Fairness in Machine Learning](https://arxiv.org/pdf/1908.09635.pdf)
+- [The State of AI Ethics Report (June 2020)](https://arxiv.org/ftp/arxiv/papers/2006/2006.14662.pdf)
+
 ----------------
 -----------------
 
