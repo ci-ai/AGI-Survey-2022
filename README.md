@@ -43,8 +43,8 @@
 - [Troubling Trends in Machine Learning Scholarship](https://arxiv.org/pdf/1807.03341v1.pdf)
 - [AI Enabling Technologies: A Survey, MIT 2019](https://arxiv.org/ftp/arxiv/papers/1905/1905.03592.pdf)
 - [A Berkeley View of Systems Challenges for AI](https://arxiv.org/pdf/1712.05855.pdf)
-- [State of AI Report 2020](https://www.stateof.ai/) | [2019](https://www.stateof.ai/2019) | [2018](https://www.stateof.ai/2018)
-- [Ten Research Challenge Areas in Data Science](http://www.cs.cmu.edu/~wing/publications/Wing2020a.pdf)
+
+
 
 ---------------------------------
 
@@ -78,17 +78,28 @@
 - [Nvidia Dominates Latest MLPerf Training Benchmark Results](https://www.hpcwire.com/2020/07/29/nvidia-dominates-latest-mlperf-training-benchmark-results/)
 - [Open Source Growth Benchmarks and the 20 Fastest-Growing OSS Startups](https://medium.com/runacapital/open-source-growth-benchmarks-and-the-20-fastest-growing-oss-startups-d3556a669fe6)
 
+-----------------------
+#### State of the Art
+
+- [paperswithcode.com/sota](https://paperswithcode.com/sota)
+- [State of AI Report 2020](https://www.stateof.ai/) | [2019](https://www.stateof.ai/2019) | [2018](https://www.stateof.ai/2018)
+
 ----------------------------------
 
-##### Data 
+#### Data 
 
-- [Survey on Data Collection forMachine Learning](https://arxiv.org/pdf/1811.03402.pdf)
+- [A Survey on Data Collection for Machine Learning: a Big Data -- AI Integration Perspective](https://arxiv.org/pdf/1811.03402.pdf)
 - [datasets for machine-learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
 - [arXiv dataset and metadata of 1.7M+ scholarly papers across STEM](https://www.kaggle.com/Cornell-University/arxiv)
+
+
+--------------------
+
+#### Current Practices - Limitations
+
 - [Taxonomy of Big Data: A Survey](https://arxiv.org/pdf/1808.08474.pdf)
 - [A Survey of Big Data Machine Learning Applications Optimization in Cloud Data Centers and Networks](https://arxiv.org/ftp/arxiv/papers/1910/1910.00731.pdf)
 - [Big Data Analytics for Large Scale Wireless Networks: Challenges and Opportunities](https://arxiv.org/pdf/1909.08069.pdf)
-- [A Survey on Data Collection for Machine Learning: a Big Data -- AI Integration Perspective](https://arxiv.org/pdf/1811.03402.pdf)
 - [Data Science: A Comprehensive Overview](https://arxiv.org/pdf/2007.03606.pdf)
 - [Machine Learning in Python: Main developments andtechnology trends in data science, machine learning,and artificial intelligence](https://arxiv.org/pdf/2002.04803.pdf)
 - [How can AI Automate End-to-End Data Science?](https://arxiv.org/pdf/1910.14436.pdf)
@@ -97,6 +108,7 @@
 - [Software Engineering for Machine Learning:A Case Study](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf)
 - [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
 - [Machine Learning Testing:Survey, Landscapes and Horizons](https://arxiv.org/pdf/1906.10742.pdf)
+- [Ten Research Challenge Areas in Data Science](http://www.cs.cmu.edu/~wing/publications/Wing2020a.pdf)
 
 ------------------------------
 
