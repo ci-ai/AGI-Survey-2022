@@ -85,6 +85,10 @@
 - [arXiv dataset and metadata of 1.7M+ scholarly papers across STEM](https://www.kaggle.com/Cornell-University/arxiv)
 - [Taxonomy of Big Data: A Survey](https://arxiv.org/pdf/1808.08474.pdf)
 - [A Survey of Big Data Machine Learning Applications Optimization in Cloud Data Centers and Networks](https://arxiv.org/ftp/arxiv/papers/1910/1910.00731.pdf)
+- [Big Data Analytics for Large Scale Wireless Networks: Challenges and Opportunities](https://arxiv.org/pdf/1909.08069.pdf)
+- [A Survey on Data Collection for Machine Learning: a Big Data -- AI Integration Perspective](https://arxiv.org/pdf/1811.03402.pdf)
+- [Data Science: A Comprehensive Overview](https://arxiv.org/pdf/2007.03606.pdf)
+
 ------------------------------
 
 #### Computational - Limitations
