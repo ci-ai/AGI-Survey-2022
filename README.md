@@ -44,6 +44,8 @@
 - [AI Enabling Technologies: A Survey, MIT 2019](https://arxiv.org/ftp/arxiv/papers/1905/1905.03592.pdf)
 - [A Berkeley View of Systems Challenges for AI](https://arxiv.org/pdf/1712.05855.pdf)
 - [State of AI Report 2020](https://www.stateof.ai/) | [2019](https://www.stateof.ai/2019) | [2018](https://www.stateof.ai/2018)
+- [Ten Research Challenge Areas in Data Science](http://www.cs.cmu.edu/~wing/publications/Wing2020a.pdf)
+
 ---------------------------------
 
 #### Tasks & Benchmarks - Comparative
@@ -78,7 +80,7 @@
 
 ----------------------------------
 
-##### Data
+##### Data 
 
 - [Survey on Data Collection forMachine Learning](https://arxiv.org/pdf/1811.03402.pdf)
 - [datasets for machine-learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
@@ -91,6 +93,9 @@
 - [Machine Learning in Python: Main developments andtechnology trends in data science, machine learning,and artificial intelligence](https://arxiv.org/pdf/2002.04803.pdf)
 - [How can AI Automate End-to-End Data Science?](https://arxiv.org/pdf/1910.14436.pdf)
 - [Data Science through the looking glass and what we found there](https://arxiv.org/pdf/1912.09536.pdf)
+- [Software Engineering for Machine Learning:A Case Study](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf)
+- [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
+- [AutoML: A Survey of the State-of-the-Art](https://arxiv.org/pdf/1908.00709.pdf)
 
 ------------------------------
 
@@ -187,7 +192,8 @@
 - [Technologies for Trustworthy Machine Learning: A Surveyin a Socio-Technical Context](https://arxiv.org/pdf/2007.08911v1.pdf)
 - [A Survey of Fake News: Fundamental Theories, Detection Methods, and Opportunities](https://arxiv.org/pdf/1812.00315v2.pdf)
 - [A Survey of Artificial General Intelligence Projects for Ethics, Risk, and Policy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741)
-
+- [Technologies for Trustworthy Machine Learning: A Survey in a Socio-Technical Context](https://arxiv.org/pdf/2007.08911.pdf)
+- [A Survey on Bias and Fairness in Machine Learning](https://arxiv.org/pdf/1908.09635.pdf)
 ----------------
 -----------------
 
