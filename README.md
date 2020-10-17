@@ -43,7 +43,7 @@
 - [Troubling Trends in Machine Learning Scholarship](https://arxiv.org/pdf/1807.03341v1.pdf)
 - [AI Enabling Technologies: A Survey, MIT 2019](https://arxiv.org/ftp/arxiv/papers/1905/1905.03592.pdf)
 - [A Berkeley View of Systems Challenges for AI](https://arxiv.org/pdf/1712.05855.pdf)
-
+- [State of AI Report 2020](https://www.stateof.ai/) | [2019](https://www.stateof.ai/2019) | [2018](https://www.stateof.ai/2018)
 ---------------------------------
 
 #### Tasks & Benchmarks - Comparative
@@ -52,7 +52,6 @@
 - [AI Impacts Library](https://sites.google.com/site/aiimpactslibrary/ai-timelines/predictions-of-human-level-ai-dates)
 - [PRIMO.ai - Benchmarks](http://primo.ai/index.php?title=Benchmarks)
 - [Measuring the Progress of AI Research](https://www.eff.org/ai/metrics)
-- [State of AI Report 2020](https://www.stateof.ai/)
 - [paperswithcode.com/trends](https://paperswithcode.com/trends)
 - [A critical analysis of metrics used for measuring progress in artificial intelligence](https://arxiv.org/ftp/arxiv/papers/2008/2008.02577.pdf)
 - [Directory of AI Benchmarks](https://benchmarks.ai/)
