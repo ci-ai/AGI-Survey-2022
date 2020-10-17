@@ -92,6 +92,7 @@
 - [Data Science: A Comprehensive Overview](https://arxiv.org/pdf/2007.03606.pdf)
 - [Machine Learning in Python: Main developments andtechnology trends in data science, machine learning,and artificial intelligence](https://arxiv.org/pdf/2002.04803.pdf)
 - [How can AI Automate End-to-End Data Science?](https://arxiv.org/pdf/1910.14436.pdf)
+- [Human-AI Collaboration in Data Science: Exploring DataScientists’ Perceptions of Automated AI](https://arxiv.org/pdf/1909.02309.pdf)
 - [Data Science through the looking glass and what we found there](https://arxiv.org/pdf/1912.09536.pdf)
 - [Software Engineering for Machine Learning:A Case Study](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf)
 - [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
@@ -129,7 +130,7 @@
 - [Adversarial Attacks and Defences: A Survey](https://arxiv.org/pdf/1810.00069v1.pdf)
 - [Ten ways to fool the masses with machine learning](https://arxiv.org/ftp/arxiv/papers/1901/1901.01686.pdf)
 - [Opportunities and Challenges in Deep Learning Adversarial Robustness: A Survey](https://arxiv.org/pdf/2007.00753.pdf)
-
+- [Challenges of Privacy-Preserving Machine Learning in IoT](https://arxiv.org/pdf/1909.09804.pdf)
 ---------------------------
 
 #### Convergence--> Biology+Intelligence==> Artificial Stupidity
