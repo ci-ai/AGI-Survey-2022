@@ -113,6 +113,7 @@
 - [Machine Learning Testing:Survey, Landscapes and Horizons](https://arxiv.org/pdf/1906.10742.pdf)
 - [Ten Research Challenge Areas in Data Science](http://www.cs.cmu.edu/~wing/publications/Wing2020a.pdf)
 - [Explainable Artificial Intelligence: a Systematic Review](https://arxiv.org/pdf/2006.00093.pdf)
+- [Architecture for High-Throughput Low-Latency Big Data Pipeline on Cloud](https://towardsdatascience.com/scalable-efficient-big-data-analytics-machine-learning-pipeline-architecture-on-cloud-4d59efc092b5)
 
 ------------------------------
 
