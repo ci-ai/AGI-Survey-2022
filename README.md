@@ -114,6 +114,8 @@
 - [Ten Research Challenge Areas in Data Science](http://www.cs.cmu.edu/~wing/publications/Wing2020a.pdf)
 - [Explainable Artificial Intelligence: a Systematic Review](https://arxiv.org/pdf/2006.00093.pdf)
 - [Architecture for High-Throughput Low-Latency Big Data Pipeline on Cloud](https://towardsdatascience.com/scalable-efficient-big-data-analytics-machine-learning-pipeline-architecture-on-cloud-4d59efc092b5)
+- [DevOps for ML and other Half-Truths: Processes and Tools for the ML Life Cycle](https://towardsdatascience.com/devops-for-ml-and-other-half-truths-processes-and-tools-for-the-ml-life-cycle-b642ece2d6c0)
+- [Data science on industrial data -- Today's challenges in brown field applications](https://arxiv.org/pdf/2006.05757v1.pdf)
 
 ------------------------------
 
