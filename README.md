@@ -126,6 +126,7 @@
 - [DevOps for ML and other Half-Truths: Processes and Tools for the ML Life Cycle](https://towardsdatascience.com/devops-for-ml-and-other-half-truths-processes-and-tools-for-the-ml-life-cycle-b642ece2d6c0)
 - [Data science on industrial data -- Today's challenges in brown field applications](https://arxiv.org/pdf/2006.05757v1.pdf)
 - [Data Science and Digital Systems:  The 3Ds of Machine LearningSystems Design](https://arxiv.org/pdf/2009.04462v1.pdf)
+- [2020 Machine Learning Roadmap](https://www.youtube.com/watch?v=pHiMN_gy9mk)
 
 ------------------------------
 
@@ -167,6 +168,7 @@
 - [Self-Organization and Artificial Life: A Review](https://arxiv.org/pdf/1804.01144v1.pdf)
 - [A computational perspective of the role of Thalamus in cognition](https://arxiv.org/pdf/1803.00997v3.pdf)
 - [Lenia - Biology of Artificial Life](https://arxiv.org/pdf/1812.05433v2.pdf)
+- [A Roadmap for Reverse-Architecting the Brain’s Neocortex](https://www.youtube.com/watch?v=HIP9OHEZnmc)
 
 ---------------------------
 
