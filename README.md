@@ -128,7 +128,7 @@
 #### Computational - Limitations
 
 - [Green AI](https://arxiv.org/pdf/1907.10597v2.pdf)
-- [AI at Scale](https://innovation.microsoft.com/en-us/exploring-ai-at-scale/)
+- [AI at Scale](https://innovation.microsoft.com/en-us/exploring-ai-at-scale/) | [MSR1](https://www.youtube.com/watch?v=8LZZg7YaZKE) | [MSR2](https://www.youtube.com/watch?v=tC01FRB0M7w)
 - [Intelligence at Scale in Action](https://github.com/binhnguyennus/awesome-scalability#intelligence)
 - [Large-Scale Intelligent Microservices](https://arxiv.org/pdf/2009.08044.pdf)
 - [A Survey on Large-scale Machine Learning](https://arxiv.org/pdf/2008.03911.pdf)
