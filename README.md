@@ -84,6 +84,7 @@
 - [paperswithcode.com/sota](https://paperswithcode.com/sota)
 - [stateoftheart.ai](https://www.stateoftheart.ai/)
 - [State of AI Report 2020](https://www.stateof.ai/) | [2019](https://www.stateof.ai/2019) | [2018](https://www.stateof.ai/2018)
+- [Deep Learning State of the Art (2020) | MIT Deep Learning Series](https://www.youtube.com/watch?v=0VH1Lim8gL8)
 - [State-of-Art-Reviewing: A Radical Proposal to Improve Scientific Publication](https://arxiv.org/pdf/2003.14415.pdf)
 - [Overview: State-of-the-Art Machine Learning Algorithms per Discipline & per Task](https://towardsdatascience.com/overview-state-of-the-art-machine-learning-algorithms-per-discipline-per-task-c1a16a66b8bb)
 - [ONNX Model Zoo](https://github.com/onnx/models)
