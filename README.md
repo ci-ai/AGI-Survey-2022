@@ -192,10 +192,11 @@
 
 #### Economics of Human-AI Ecosystem
 
-- [Robust Artificial Intelligence and RobustHuman Organizations](https://arxiv.org/pdf/1812.01569v1.pdf)
+- [Robust Artificial Intelligence and Robust Human Organizations](https://arxiv.org/pdf/1812.01569v1.pdf)
 - [Value Bias and Lost Utility in Multi-Dimensional Gaps](https://arxiv.org/pdf/1811.06606v1.pdf)
 - [Global AI Survey: AI proves its worth, but few scale impact](https://www.mckinsey.com/featured-insights/artificial-intelligence/global-ai-survey-ai-proves-its-worth-but-few-scale-impact) | [mckinsey](https://www.mckinsey.com/featured-insights/artificial-intelligence)
 - [PwC’s Global Artificial Intelligence Study: Exploiting the AI Revolution](https://www.pwc.com/gx/en/issues/data-and-analytics/publications/artificial-intelligence-study.html)
+- [MIT Human-Centered Artificial Intelligence (AI) 2019](https://www.youtube.com/watch?v=bmjamLZ3v8A)
 - [Benchmarking  National  AI Strategies](https://www.stiftung-nv.de/sites/default/files/benchmarking_ai_strategies.pdf)
 - [Global Talent in the Age of Artificial Intelligence, INSEAD 2020](https://www.insead.edu/sites/default/files/assets/dept/globalindices/docs/GTCI-2020-report.pdf)
 - [Artificial Intelligence Index Report Stanford, 2019](https://hai.stanford.edu/sites/default/files/ai_index_2019_report.pdf)
