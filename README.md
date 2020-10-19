@@ -60,6 +60,9 @@
 - [Directory of AI Benchmarks](https://benchmarks.ai/)
 - [MLPerf Training benchmark](https://arxiv.org/pdf/1910.01500.pdf)
 - [MLPerf Inference Benchmark](https://arxiv.org/pdf/1911.02549.pdf)
+- [The Vision Behind MLPerf: Benchmarking ML Systems, Software Frameworks and Hardware Accelerators](https://www.youtube.com/watch?v=nj0QfmNhh8w)
+- [MLPerf: A Benchmark Suite for Machine Learning - David Patterson (UC Berkeley)](https://www.youtube.com/watch?v=hQRBLW6giRc)
+- [MLPerf: A Benchmark Suite for Machine Learning - Gu-Yeon Wei (Harvard University)](https://www.youtube.com/watch?v=MKII0KXDqn4)
 - [DAWNBench: An End-to-End Deep LearningBenchmark and Competition](https://dawn.cs.stanford.edu/benchmark/papers/nips17-dawnbench.pdf)
 - [AIBench Training: Balanced Industry-Standard AI Training Benchmarking](https://arxiv.org/pdf/2004.14690.pdf)
 - [ai-benchmark - Smartphone Hardwares & Mobile SoC's](http://ai-benchmark.com/ranking.html)
@@ -77,6 +80,7 @@
 - [SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems](https://arxiv.org/pdf/1905.00537.pdf)
 - [gluebenchmark](https://gluebenchmark.com/)
 - [Nvidia Dominates Latest MLPerf Training Benchmark Results](https://www.hpcwire.com/2020/07/29/nvidia-dominates-latest-mlperf-training-benchmark-results/)
+- [ML Perf v0.7 Results Released -- NVIDIA Breaks 16 AI Performance Records](https://www.youtube.com/watch?v=Ol00HdA7ebM)
 - [Open Source Growth Benchmarks and the 20 Fastest-Growing OSS Startups](https://medium.com/runacapital/open-source-growth-benchmarks-and-the-20-fastest-growing-oss-startups-d3556a669fe6)
 
 -----------------------
