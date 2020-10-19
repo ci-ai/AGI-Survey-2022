@@ -60,6 +60,7 @@
 - [Directory of AI Benchmarks](https://benchmarks.ai/)
 - [MLPerf Training benchmark](https://arxiv.org/pdf/1910.01500.pdf)
 - [MLPerf Inference Benchmark](https://arxiv.org/pdf/1911.02549.pdf)
+- [Demystifying the MLPerf Training Benchmark Suite](https://www.youtube.com/watch?v=txtvMhzEDu8)
 - [The Vision Behind MLPerf: Benchmarking ML Systems, Software Frameworks and Hardware Accelerators](https://www.youtube.com/watch?v=nj0QfmNhh8w)
 - [MLPerf: A Benchmark Suite for Machine Learning - David Patterson (UC Berkeley)](https://www.youtube.com/watch?v=hQRBLW6giRc)
 - [MLPerf: A Benchmark Suite for Machine Learning - Gu-Yeon Wei (Harvard University)](https://www.youtube.com/watch?v=MKII0KXDqn4)
