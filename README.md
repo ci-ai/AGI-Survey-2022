@@ -6,7 +6,7 @@
 
 - [How Did Humans Become So Creative? A Computational Approach](https://arxiv.org/ftp/arxiv/papers/1308/1308.5032.pdf)
 - [The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities, 2019](https://arxiv.org/pdf/1803.03453v1.pdf)
-- [On the Measure of Intelligence - (2019) Franc ̧ois Chollet](https://arxiv.org/pdf/1911.01547.pdf)
+- [On the Measure of Intelligence - (2019) Franc ̧ois Chollet](https://arxiv.org/pdf/1911.01547.pdf) | [Paper Explained Part1](https://www.youtube.com/watch?v=3_qGrmD6iQY) | [Part2](https://www.youtube.com/watch?v=THcuTJbeD34) | [Part2](https://www.youtube.com/watch?v=cuyM63ugsxI) | [Part3](https://www.youtube.com/watch?v=O9kFX33nUcU)
 - [When Will AI Exceed Human Performance? Evidence from AI Experts](https://arxiv.org/pdf/1705.08807v3.pdf)
 - [Forecasting Transformative AI: An Expert Survey](https://arxiv.org/ftp/arxiv/papers/1901/1901.08579.pdf)
 - [Predictions of human-level AI timelines](https://sites.google.com/site/aiimpactslibrary/ai-timelines/predictions-of-human-level-ai-dates)
