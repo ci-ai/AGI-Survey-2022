@@ -229,6 +229,7 @@
 - [Technologies for Trustworthy Machine Learning: A Survey in a Socio-Technical Context](https://arxiv.org/pdf/2007.08911.pdf)
 - [A Survey on Bias and Fairness in Machine Learning](https://arxiv.org/pdf/1908.09635.pdf)
 - [The State of AI Ethics Report (June 2020)](https://arxiv.org/ftp/arxiv/papers/2006/2006.14662.pdf)
+- [AI Ethics Guidelines Global Inventory](https://inventory.algorithmwatch.org/)
 
 ----------------
 -----------------
