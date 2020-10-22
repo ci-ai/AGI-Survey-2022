@@ -2,6 +2,11 @@
 #### tm/i
 -----------
 
+[AGI Outline & Contents](https://www.springer.com/cda/content/document/cda_downloaddocument/9783540237334-t1.pdf?SGWID=0-0-45-330093-p43950079)
+
+
+
+------------
 #### Discussions:
 
 - [How Did Humans Become So Creative? A Computational Approach](https://arxiv.org/ftp/arxiv/papers/1308/1308.5032.pdf)
@@ -16,7 +21,7 @@
 - [Perspectives on Research in Artificial Intelligence and Artificial General Intelligence  Relevant to DoD](https://fas.org/irp/agency/dod/jason/ai-dod.pdf)
 - [The Superintelligent Will: Motivation and Instrumental Rationality in Advanced Artificial Agents - (2012) Nick Bostrom ](https://nickbostrom.com/superintelligentwill.pdf)
 - [There is no Artificial General Intelligence](https://arxiv.org/pdf/1906.05833.pdf)
-
+- [Artificial General Intelligence — A gentle introduction, Pei Wang](https://cis.temple.edu/~pwang/AGI-Intro.html)
 ---------------------
 
 #### Some. but all theories and theories.. and..
@@ -164,16 +169,17 @@
 - [Challenges of Privacy-Preserving Machine Learning in IoT](https://arxiv.org/pdf/1909.09804.pdf)
 ---------------------------
 
-#### Convergence--> Biology+Intelligence==> Artificial Stupidity
+#### Convergence--> Biology+Intelligence=> Artificial Stupidity
 
 - [Self-Organization and Artificial Life: A Review](https://arxiv.org/pdf/1804.01144v1.pdf)
 - [A computational perspective of the role of Thalamus in cognition](https://arxiv.org/pdf/1803.00997v3.pdf)
 - [Lenia - Biology of Artificial Life](https://arxiv.org/pdf/1812.05433v2.pdf)
 - [A Roadmap for Reverse-Architecting the Brain’s Neocortex](https://www.youtube.com/watch?v=HIP9OHEZnmc)
-
+- [Whole Brain Emulation - A Roadmap](http://www.fhi.ox.ac.uk/Reports/2008-3.pdf)
 ---------------------------
 
 #### Lets connect machines and biological brains
+
 
 - [Brain’s Magical Future](https://waitbutwhy.com/2017/04/neuralink.html)
 - [BrainNet: A Multi-Person Brain-to-Brain Interface for Direct Collaboration Between Brains](https://arxiv.org/pdf/1809.08632.pdf)
@@ -219,6 +225,8 @@
 
 #### Safety Measures & Organizations
 
+- [AGI Society](http://www.agi-society.org/)
+- [AGI Conferences](http://agi-conf.org/)
 - [AGI Safety Researchers](https://futureoflife.org/ai-safety-research/?cn-reloaded=1)
 - [AGI Safety Literature Review](https://arxiv.org/pdf/1805.01109v1.pdf)
 - [The Threats of Artificial Intelligence Scale (TAI)](https://arxiv.org/pdf/2006.07211.pdf)
