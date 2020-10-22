@@ -253,6 +253,11 @@
 - [Potential Risks from Advanced Artificial Intelligence](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence)
 - [Responses to catastrophic AGI risk: a survey](https://iopscience.iop.org/article/10.1088/0031-8949/90/1/018001)
 - [CAPTCHA:Using Hard AI Problems For Security](http://www.captcha.net/captcha_crypt.pdf)
+- [The implausibility of intelligence explosion, François Chollet](https://medium.com/@francois.chollet/the-impossibility-of-intelligence-explosion-5be4a9eda6ec)
+- [Intelligence Explosion FAQ](https://intelligence.org/ie-faq/)
+- [“Singularity” is improperly used in AI](http://bootstrappingartificialintelligence.fr/WordPress3/)
+- [Why an Intelligence Explosion is Probable](https://hplusmagazine.com/2011/03/07/why-an-intelligence-explosion-is-probable/)
+- [The Coming Technological Singularity: How to Survive in the Post-Human Era](https://edoras.sdsu.edu/~vinge/misc/singularity.html)
 - [Global Solutions vs. Local Solutions for the AI Safety Problem](https://res.mdpi.com/d_attachment/BDCC/BDCC-03-00016/article_deploy/BDCC-03-00016.pdf)
 
 
