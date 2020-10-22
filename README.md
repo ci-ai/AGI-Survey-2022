@@ -259,7 +259,7 @@
 - [Why an Intelligence Explosion is Probable](https://hplusmagazine.com/2011/03/07/why-an-intelligence-explosion-is-probable/)
 - [The Coming Technological Singularity: How to Survive in the Post-Human Era](https://edoras.sdsu.edu/~vinge/misc/singularity.html)
 - [Global Solutions vs. Local Solutions for the AI Safety Problem](https://res.mdpi.com/d_attachment/BDCC/BDCC-03-00016/article_deploy/BDCC-03-00016.pdf)
-
+- [Nick Bostrom : Existential Risks - Analyzing Human Extinction Scenarios and Related Hazards](https://www.nickbostrom.com/existential/risks.html)
 
 ----------------
 -----------------
