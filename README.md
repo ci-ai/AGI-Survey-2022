@@ -4,8 +4,6 @@
 
 [AGI Outline & Contents](https://www.springer.com/cda/content/document/cda_downloaddocument/9783540237334-t1.pdf?SGWID=0-0-45-330093-p43950079)
 
-
-
 ------------
 #### Discussions:
 
@@ -16,12 +14,20 @@
 - [Forecasting Transformative AI: An Expert Survey](https://arxiv.org/ftp/arxiv/papers/1901/1901.08579.pdf)
 - [Predictions of human-level AI timelines](https://sites.google.com/site/aiimpactslibrary/ai-timelines/predictions-of-human-level-ai-dates)
 - [AI Timeline Surveys](https://aiimpacts.org/ai-timeline-surveys/)
-- [AI Podcast Series - Lex Fridman](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
+- [AI Podcast Series - Lex Fridman](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4) | [Apple Podcast](https://podcasts.apple.com/us/podcast/lex-fridman-podcast/id1434243584)
 - [The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence](https://arxiv.org/vc/arxiv/papers/2002/2002.06177v2.pdf)
 - [Perspectives on Research in Artificial Intelligence and Artificial General Intelligence  Relevant to DoD](https://fas.org/irp/agency/dod/jason/ai-dod.pdf)
 - [The Superintelligent Will: Motivation and Instrumental Rationality in Advanced Artificial Agents - (2012) Nick Bostrom ](https://nickbostrom.com/superintelligentwill.pdf)
 - [There is no Artificial General Intelligence](https://arxiv.org/pdf/1906.05833.pdf)
 - [Artificial General Intelligence — A gentle introduction, Pei Wang](https://cis.temple.edu/~pwang/AGI-Intro.html)
+- [What Do We Know about AI Timelines?](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/ai-timelines)
+- [What should we learn from past AI forecasts?](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/what-should-we-learn-past-ai-forecasts)
+- [Toward a Unified Artificial Intelligence](https://cis.temple.edu/~pwang/Publication/unifiedAI.pdf)
+- [Tech Luminaries Address Singularity](https://spectrum.ieee.org/computing/hardware/tech-luminaries-address-singularity)
+- [IEEE Special Report: The Singularity](https://spectrum.ieee.org/static/singularity)
+- [Beyond MAD?: the race for artificial general intelligence](https://www.itu.int/en/journal/001/Documents/itu2018-9.pdf)
+- [We’re entering the AI twilight zone between narrow and general AI](https://venturebeat.com/2020/09/03/were-entering-the-ai-twilight-zone-between-narrow-and-general-ai/)
+
 ---------------------
 
 #### Some. but all theories and theories.. and..
@@ -176,6 +182,8 @@
 - [Lenia - Biology of Artificial Life](https://arxiv.org/pdf/1812.05433v2.pdf)
 - [A Roadmap for Reverse-Architecting the Brain’s Neocortex](https://www.youtube.com/watch?v=HIP9OHEZnmc)
 - [Whole Brain Emulation - A Roadmap](http://www.fhi.ox.ac.uk/Reports/2008-3.pdf)
+- [The Explanation of Human Intelligence](https://web.archive.org/web/20050405071037/http://genesis.csail.mit.edu/HIE/white.html)
+
 ---------------------------
 
 #### Lets connect machines and biological brains
@@ -220,13 +228,17 @@
 - [Mapped: The State of Facial Recognition Around the World](https://www.visualcapitalist.com/facial-recognition-world-map/?utm_source=morning_brew)
 - [AI Strategies & Public Sector Components](https://oecd-opsi.org/projects/ai/strategies/)
 - [Tackling Climate Change with Machine Learning](https://arxiv.org/pdf/1906.05433.pdf)
+- [Artificial General Intelligence: Coordination & Great Powers](https://foresight.org/wp-content/uploads/2018/11/AGI-Coordination-Geat-Powers-Report.pdf)
 
 ----------------------------
 
-#### Safety Measures & Organizations
+#### AGI Risk, Safety Measures & Organizations
 
 - [AGI Society](http://www.agi-society.org/)
 - [AGI Conferences](http://agi-conf.org/)
+- [Cambridge Centre for the Study of Existential Risk](https://www.cser.ac.uk/)
+- [Oxford Future of Humanity Institute](https://www.fhi.ox.ac.uk/)
+- [Machine Intelligence Research Institute](https://intelligence.org/blog/)
 - [AGI Safety Researchers](https://futureoflife.org/ai-safety-research/?cn-reloaded=1)
 - [AGI Safety Literature Review](https://arxiv.org/pdf/1805.01109v1.pdf)
 - [The Threats of Artificial Intelligence Scale (TAI)](https://arxiv.org/pdf/2006.07211.pdf)
@@ -238,6 +250,11 @@
 - [A Survey on Bias and Fairness in Machine Learning](https://arxiv.org/pdf/1908.09635.pdf)
 - [The State of AI Ethics Report (June 2020)](https://arxiv.org/ftp/arxiv/papers/2006/2006.14662.pdf)
 - [AI Ethics Guidelines Global Inventory](https://inventory.algorithmwatch.org/)
+- [Potential Risks from Advanced Artificial Intelligence](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence)
+- [Responses to catastrophic AGI risk: a survey](https://iopscience.iop.org/article/10.1088/0031-8949/90/1/018001)
+- [CAPTCHA:Using Hard AI Problems For Security](http://www.captcha.net/captcha_crypt.pdf)
+- [Global Solutions vs. Local Solutions for the AI Safety Problem](https://res.mdpi.com/d_attachment/BDCC/BDCC-03-00016/article_deploy/BDCC-03-00016.pdf)
+
 
 ----------------
 -----------------
