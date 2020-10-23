@@ -263,6 +263,7 @@
 - [Singularity Comments](https://mason.gmu.edu/~rhanson/vc.html#hanson)
 - [An overview of models of technological singularity](http://agi-conf.org/2010/wp-content/uploads/2009/06/agi10singmodels2.pdf)
 - [The Singularity: A Philosophical Analysis](http://consc.net/papers/singularity.pdf)
+- [Intelligence Explosion:Evidence and Import](http://intelligence.org/files/IE-EI.pdf)
 
 ----------------
 -----------------
