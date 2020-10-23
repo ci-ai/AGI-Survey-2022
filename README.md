@@ -142,7 +142,7 @@
 - [Data science on industrial data -- Today's challenges in brown field applications](https://arxiv.org/pdf/2006.05757v1.pdf)
 - [Data Science and Digital Systems:  The 3Ds of Machine LearningSystems Design](https://arxiv.org/pdf/2009.04462v1.pdf)
 - [2020 Machine Learning Roadmap](https://www.youtube.com/watch?v=pHiMN_gy9mk)
-
+- [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap)
 ------------------------------
 
 #### Computational - Limitations
