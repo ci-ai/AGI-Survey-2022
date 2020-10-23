@@ -30,6 +30,7 @@
 - [The 21st Century Singularity and Global Futures - A Big History Perspective](https://link.springer.com/book/10.1007/978-3-030-33730-8)
 - [Superintelligence — Semi-hard Takeoff Scenarios](https://hplusmagazine.com/2014/09/26/superintelligence-semi-hard-takeoff-scenarios/)
 - [The timescale of artificial intelligence: Reflections on social effects](https://theworld.com/~rjs/timesc.pdf)
+- [Nick Bostrom's](https://www.nickbostrom.com/)
 
 ---------------------
 
