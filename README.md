@@ -28,6 +28,8 @@
 - [Beyond MAD?: the race for artificial general intelligence](https://www.itu.int/en/journal/001/Documents/itu2018-9.pdf)
 - [We’re entering the AI twilight zone between narrow and general AI](https://venturebeat.com/2020/09/03/were-entering-the-ai-twilight-zone-between-narrow-and-general-ai/)
 - [The 21st Century Singularity and Global Futures - A Big History Perspective](https://link.springer.com/book/10.1007/978-3-030-33730-8)
+- [Superintelligence — Semi-hard Takeoff Scenarios](https://hplusmagazine.com/2014/09/26/superintelligence-semi-hard-takeoff-scenarios/)
+- [The timescale of artificial intelligence: Reflections on social effects](https://theworld.com/~rjs/timesc.pdf)
 
 ---------------------
 
@@ -194,6 +196,8 @@
 - [BrainNet: A Multi-Person Brain-to-Brain Interface for Direct Collaboration Between Brains](https://arxiv.org/pdf/1809.08632.pdf)
 - [Neurosciences and 6G: Lessons from and Needs of Communicative Brains](https://arxiv.org/pdf/2004.01834.pdf)
 - [The Roadmap to 6G – AI Empowered Wireless Networks](https://arxiv.org/pdf/1904.11686.pdf)
+- [The Transhumanist FAQ](https://hplusmagazine.com/transhumanist-faq/)
+- [Nanotechnology:The Future is Coming Sooner Than You Think](http://thenewatlantis.com/wp-content/uploads/legacy-pdfs/20120213_TheFutureisComingSoonerThanYouThink.pdf)
 
 -------------------------------
 
