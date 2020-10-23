@@ -260,6 +260,9 @@
 - [The Coming Technological Singularity: How to Survive in the Post-Human Era](https://edoras.sdsu.edu/~vinge/misc/singularity.html)
 - [Global Solutions vs. Local Solutions for the AI Safety Problem](https://res.mdpi.com/d_attachment/BDCC/BDCC-03-00016/article_deploy/BDCC-03-00016.pdf)
 - [Nick Bostrom : Existential Risks - Analyzing Human Extinction Scenarios and Related Hazards](https://www.nickbostrom.com/existential/risks.html)
+- [Singularity Comments](https://mason.gmu.edu/~rhanson/vc.html#hanson)
+- [An overview of models of technological singularity](http://agi-conf.org/2010/wp-content/uploads/2009/06/agi10singmodels2.pdf)
+- [The Singularity: A Philosophical Analysis](http://consc.net/papers/singularity.pdf)
 
 ----------------
 -----------------
