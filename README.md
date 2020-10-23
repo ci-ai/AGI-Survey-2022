@@ -31,6 +31,7 @@
 - [Superintelligence — Semi-hard Takeoff Scenarios](https://hplusmagazine.com/2014/09/26/superintelligence-semi-hard-takeoff-scenarios/)
 - [The timescale of artificial intelligence: Reflections on social effects](https://theworld.com/~rjs/timesc.pdf)
 - [Nick Bostrom's](https://www.nickbostrom.com/)
+- [Future Progress in Artificial Intelligence: A Survey of Expert Opinion, Müller, Vincent C. and Bostrom, Nick (2016)](https://philpapers.org/archive/MLLFPI)
 
 ---------------------
 
