@@ -9,7 +9,7 @@
 
 - [How Did Humans Become So Creative? A Computational Approach](https://arxiv.org/ftp/arxiv/papers/1308/1308.5032.pdf)
 - [The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities, 2019](https://arxiv.org/pdf/1803.03453v1.pdf)
-- [On the Measure of Intelligence - (2019) Franc ̧ois Chollet](https://arxiv.org/pdf/1911.01547.pdf) | [Paper Explained Part1](https://www.youtube.com/watch?v=3_qGrmD6iQY) | [Part2](https://www.youtube.com/watch?v=THcuTJbeD34) | [Part2](https://www.youtube.com/watch?v=cuyM63ugsxI) | [Part3](https://www.youtube.com/watch?v=O9kFX33nUcU)
+- [On the Measure of Intelligence - (2019) Franc ̧ois Chollet](https://arxiv.org/pdf/1911.01547.pdf) | [Paper Explained Part1](https://www.youtube.com/watch?v=3_qGrmD6iQY) | [Part2](https://www.youtube.com/watch?v=THcuTJbeD34) | [Part3](https://www.youtube.com/watch?v=cuyM63ugsxI) | [Part4](https://www.youtube.com/watch?v=O9kFX33nUcU)
 - [When Will AI Exceed Human Performance? Evidence from AI Experts](https://arxiv.org/pdf/1705.08807v3.pdf)
 - [Forecasting Transformative AI: An Expert Survey](https://arxiv.org/ftp/arxiv/papers/1901/1901.08579.pdf)
 - [Predictions of human-level AI timelines](https://sites.google.com/site/aiimpactslibrary/ai-timelines/predictions-of-human-level-ai-dates)
@@ -27,6 +27,7 @@
 - [IEEE Special Report: The Singularity](https://spectrum.ieee.org/static/singularity)
 - [Beyond MAD?: the race for artificial general intelligence](https://www.itu.int/en/journal/001/Documents/itu2018-9.pdf)
 - [We’re entering the AI twilight zone between narrow and general AI](https://venturebeat.com/2020/09/03/were-entering-the-ai-twilight-zone-between-narrow-and-general-ai/)
+- [The 21st Century Singularity and Global Futures - A Big History Perspective](https://link.springer.com/book/10.1007/978-3-030-33730-8)
 
 ---------------------
 
@@ -243,10 +244,9 @@
 - [AGI Safety Literature Review](https://arxiv.org/pdf/1805.01109v1.pdf)
 - [The Threats of Artificial Intelligence Scale (TAI)](https://arxiv.org/pdf/2006.07211.pdf)
 - [A Survey on Computational Propaganda Detection](https://arxiv.org/pdf/2007.08024v1.pdf)
-- [Technologies for Trustworthy Machine Learning: A Surveyin a Socio-Technical Context](https://arxiv.org/pdf/2007.08911v1.pdf)
+- [Technologies for Trustworthy Machine Learning: A Survey in a Socio-Technical Context](https://arxiv.org/pdf/2007.08911v1.pdf)
 - [A Survey of Fake News: Fundamental Theories, Detection Methods, and Opportunities](https://arxiv.org/pdf/1812.00315v2.pdf)
 - [A Survey of Artificial General Intelligence Projects for Ethics, Risk, and Policy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741)
-- [Technologies for Trustworthy Machine Learning: A Survey in a Socio-Technical Context](https://arxiv.org/pdf/2007.08911.pdf)
 - [A Survey on Bias and Fairness in Machine Learning](https://arxiv.org/pdf/1908.09635.pdf)
 - [The State of AI Ethics Report (June 2020)](https://arxiv.org/ftp/arxiv/papers/2006/2006.14662.pdf)
 - [AI Ethics Guidelines Global Inventory](https://inventory.algorithmwatch.org/)
