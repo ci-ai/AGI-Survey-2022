@@ -42,7 +42,7 @@
 - [A Conceptual Bio-Inspired Framework for the Evolution of Artificial General Intelligence](https://arxiv.org/pdf/1903.10410.pdf)
 - [Modeling Theory of Mind for Autonomous Agents with Probabilistic Programs](https://arxiv.org/pdf/1812.01569v1.pdf)
 - [AI-GAs: AI-generating algorithms, an alternateparadigm for producing general artificial intelligence](https://arxiv.org/pdf/1905.10985.pdf)
-
+- [The Technology of Mind and a New Social Contract](https://jetpress.org/v17/hibbard.htm)
 --------------------------------
 
 #### Approches - Limitations
@@ -264,6 +264,8 @@
 - [An overview of models of technological singularity](http://agi-conf.org/2010/wp-content/uploads/2009/06/agi10singmodels2.pdf)
 - [The Singularity: A Philosophical Analysis](http://consc.net/papers/singularity.pdf)
 - [Intelligence Explosion:Evidence and Import](http://intelligence.org/files/IE-EI.pdf)
+- [The Human Future: Upgrade or Replacement?](https://thehumanist.com/magazine/july-august-2013/features/the-human-future-upgrade-or-replacement)
+- [The Singularity Is Further Than It Appears](http://www.antipope.org/charlie/blog-static/2014/02/the-singularity-is-further-tha.html)
 
 ----------------
 -----------------
