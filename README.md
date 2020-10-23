@@ -59,8 +59,7 @@
 - [Troubling Trends in Machine Learning Scholarship](https://arxiv.org/pdf/1807.03341v1.pdf)
 - [AI Enabling Technologies: A Survey, MIT 2019](https://arxiv.org/ftp/arxiv/papers/1905/1905.03592.pdf)
 - [A Berkeley View of Systems Challenges for AI](https://arxiv.org/pdf/1712.05855.pdf)
-
-
+- [Vincent C. Müller - "Challenges for Artificial Cognitive Systems"](https://www.youtube.com/watch?v=LoQ3GL7R7R8)
 
 ---------------------------------
 
@@ -272,6 +271,8 @@
 - [Intelligence Explosion:Evidence and Import](http://intelligence.org/files/IE-EI.pdf)
 - [The Human Future: Upgrade or Replacement?](https://thehumanist.com/magazine/july-august-2013/features/the-human-future-upgrade-or-replacement)
 - [The Singularity Is Further Than It Appears](http://www.antipope.org/charlie/blog-static/2014/02/the-singularity-is-further-tha.html)
+- [Artificial Intelligence as a Positive andNegative Factor in Global Risk](http://intelligence.org/files/AIPosNegFactor.pdf)
+- [BILL JOY - Why the Future Doesn't Need Us](https://www.wired.com/2000/04/joy-2/)
 
 ----------------
 -----------------
