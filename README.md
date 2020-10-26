@@ -275,6 +275,7 @@
 - [Artificial Intelligence as a Positive andNegative Factor in Global Risk](http://intelligence.org/files/AIPosNegFactor.pdf)
 - [BILL JOY - Why the Future Doesn't Need Us](https://www.wired.com/2000/04/joy-2/)
 - [Ethical behavior in humans and machines - Evaluating trainingd at a quality for beneficial machine learning](https://arxiv.org/ftp/arxiv/papers/2008/2008.11463.pdf)
+- [Ethical Artificial Intelligence](https://arxiv.org/ftp/arxiv/papers/1411/1411.1373.pdf)
 
 ----------------
 -----------------
