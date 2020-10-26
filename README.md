@@ -277,6 +277,7 @@
 - [Ethical behavior in humans and machines - Evaluating trainingd at a quality for beneficial machine learning](https://arxiv.org/ftp/arxiv/papers/2008/2008.11463.pdf)
 - [Ethical Artificial Intelligence](https://arxiv.org/ftp/arxiv/papers/1411/1411.1373.pdf)
 - [Chappie and the Future of Moral Machines](https://slate.com/technology/2015/03/chappie-robot-ethics-the-film-raises-interesting-questions-about-morality.html)
+- [Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-based Approaches to Principles for AI](https://dash.harvard.edu/handle/1/42160420)
 
 ----------------
 -----------------
