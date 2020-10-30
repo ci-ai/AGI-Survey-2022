@@ -283,7 +283,7 @@
 ----------------
 -----------------
 
-- A Week in Wild AI - [gopala-kr/a-week-in-wild-ai](https://github.com/gopala-kr/a-week-in-wild-ai)
+- A Week in Wild AI - [gopala-kr/a-week-in-wild-ai](https://github.com/gopala-kr/a-week-in-wild-ai) | [daviddao/awful-ai](https://github.com/daviddao/awful-ai)
 - AI Academic Survey- [gopala-kr/summary](https://github.com/gopala-kr/summary)
 - AI and Hardware Survey - [gopala-kr/DL-on-Silicon](https://github.com/gopala-kr/DL-on-Silicon)
 - Computer Vision Tasks and CNN Surveys - [gopala-kr/ConvNets OR CV Tasks](https://github.com/gopala-kr/ConvNets)
