@@ -144,6 +144,7 @@
 - [Data Science and Digital Systems:  The 3Ds of Machine LearningSystems Design](https://arxiv.org/pdf/2009.04462v1.pdf)
 - [2020 Machine Learning Roadmap](https://www.youtube.com/watch?v=pHiMN_gy9mk)
 - [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap)
+- [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops)
 ------------------------------
 
 #### Computational - Limitations
