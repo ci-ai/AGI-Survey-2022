@@ -283,10 +283,10 @@
 ----------------
 -----------------
 
-- [gopala-kr/a-week-in-wild-ai](https://github.com/gopala-kr/a-week-in-wild-ai)
-- [gopala-kr/summary](https://github.com/gopala-kr/summary)
-- [gopala-kr/DL-on-Silicon](https://github.com/gopala-kr/DL-on-Silicon)
-- [gopala-kr/ConvNets OR CV Tasks](https://github.com/gopala-kr/ConvNets)
+- A Week in Wild AI - [gopala-kr/a-week-in-wild-ai](https://github.com/gopala-kr/a-week-in-wild-ai)
+- AI Academic Survey- [gopala-kr/summary](https://github.com/gopala-kr/summary)
+- AI and Hardware Survey - [gopala-kr/DL-on-Silicon](https://github.com/gopala-kr/DL-on-Silicon)
+- Computer Vision Tasks and CNN Surveys - [gopala-kr/ConvNets OR CV Tasks](https://github.com/gopala-kr/ConvNets)
 - [gopala-kr/language-models](https://github.com/gopala-kr/language-models)
 - [gopala-kr/generative-models](https://github.com/gopala-kr/generative-models)
 - [gopala-kr/autoencoders](https://github.com/gopala-kr/autoencoders)
