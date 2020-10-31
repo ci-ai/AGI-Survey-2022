@@ -282,6 +282,7 @@
 - [Chappie and the Future of Moral Machines](https://slate.com/technology/2015/03/chappie-robot-ethics-the-film-raises-interesting-questions-about-morality.html)
 - [Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-based Approaches to Principles for AI](https://dash.harvard.edu/handle/1/42160420)
 - [A Case for Machine Ethics in Modeling Human-Level Intelligent Agents](https://www.kritike.org/journal/issue_22/boyles_june2018.pdf)
+- [sam-altmans-manifest-destiny](https://www.newyorker.com/magazine/2016/10/10/sam-altmans-manifest-destiny)
 
 ----------------
 -----------------
