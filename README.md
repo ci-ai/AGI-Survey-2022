@@ -32,6 +32,8 @@
 - [The timescale of artificial intelligence: Reflections on social effects](https://theworld.com/~rjs/timesc.pdf)
 - [Nick Bostrom's](https://www.nickbostrom.com/) | [Simulation and Superintelligence](https://www.youtube.com/watch?v=rfKiTGj-zeQ)
 - [Future Progress in Artificial Intelligence: A Survey of Expert Opinion, Müller, Vincent C. and Bostrom, Nick (2016)](https://philpapers.org/archive/MLLFPI)
+- [Reframing Superintelligence Comprehensive AI Servicesas General Intelligence](https://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_Superintelligence_FHI-TR-2019-1.1-1.pdf)
+
 
 ---------------------
 
