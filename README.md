@@ -240,6 +240,7 @@
 - [Tackling Climate Change with Machine Learning](https://arxiv.org/pdf/1906.05433.pdf)
 - [Artificial General Intelligence: Coordination & Great Powers](https://foresight.org/wp-content/uploads/2018/11/AGI-Coordination-Geat-Powers-Report.pdf)
 - [The President in Conversation With MIT’s Joi Ito and WIRED’s Scott Dadich](https://www.wired.com/2016/10/president-obama-mit-joi-ito-interview/)
+- [Intelligence Explosion Microeconomics](https://intelligence.org/files/IEM.pdf)
 
 ----------------------------
 
