@@ -289,6 +289,7 @@
 - [Creating Friendly AI 1.0:The Analysis and Design ofBenevolent Goal Architectures](https://intelligence.org/files/CFAI.pdf)
 - [The Problem with ‘Friendly’ Artificial Intelligence](https://www.thenewatlantis.com/publications/the-problem-with-friendly-artificial-intelligence)
 - [The Persistent Peril of the Artificial Slave](https://www.academia.edu/704751/_The_Persistent_Peril_of_the_Artificial_Slave_)
+- [Rise of Concerns about AI: Reflections and Directions](http://erichorvitz.com/CACM_Oct_2015-VP.pdf)
 
 ----------------
 -----------------
