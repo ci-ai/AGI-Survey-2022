@@ -34,6 +34,7 @@
 - [Future Progress in Artificial Intelligence: A Survey of Expert Opinion, Müller, Vincent C. and Bostrom, Nick (2016)](https://philpapers.org/archive/MLLFPI)
 - [Reframing Superintelligence Comprehensive AI Servicesas General Intelligence](https://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_Superintelligence_FHI-TR-2019-1.1-1.pdf)
 - [Research Priorities for Robust and Beneficial Artificial Intelligence](https://futureoflife.org/data/documents/research_priorities.pdf) | [An Open Letter](https://futureoflife.org/ai-open-letter)
+- [The Hanson-Yudkowsky : AI-Foom Debate](http://intelligence.org/files/AIFoomDebate.pdf)
 
 
 ---------------------
