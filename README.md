@@ -248,6 +248,7 @@
 
 - [AGI Society](http://www.agi-society.org/)
 - [AGI Conferences](http://agi-conf.org/)
+- [ai-principles](https://futureoflife.org/ai-principles/)
 - [Cambridge Centre for the Study of Existential Risk](https://www.cser.ac.uk/)
 - [Oxford Future of Humanity Institute](https://www.fhi.ox.ac.uk/)
 - [Machine Intelligence Research Institute](https://intelligence.org/blog/)
