@@ -283,6 +283,7 @@
 - [Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-based Approaches to Principles for AI](https://dash.harvard.edu/handle/1/42160420)
 - [A Case for Machine Ethics in Modeling Human-Level Intelligent Agents](https://www.kritike.org/journal/issue_22/boyles_june2018.pdf)
 - [sam-altmans-manifest-destiny](https://www.newyorker.com/magazine/2016/10/10/sam-altmans-manifest-destiny)
+- [Artificial Intelligence May Doom The Human Race Within A Century, Oxford Professor Says](https://www.huffingtonpost.in/entry/artificial-intelligence-oxford_n_5689858?ri18n=true)
 
 ----------------
 -----------------
