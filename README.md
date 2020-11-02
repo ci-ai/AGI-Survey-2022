@@ -295,6 +295,7 @@
 - [The Precipice: Existential Risk and the Future of Humanity | Toby Ord | EA Global: London 2019](https://www.youtube.com/watch?v=eMMAJRH94xY)
 - [Superintelligence Skepticism as a Political Tool](https://www.mdpi.com/2078-2489/9/9/209/htm)
 - [Countering Superintelligence Misinformation](https://www.mdpi.com/2078-2489/9/10/244/htm)
+- [The Wrong Cognitive Measuring Stick](https://slate.com/technology/2016/04/why-its-a-mistake-to-compare-a-i-with-human-intelligence.html)
 
 ----------------
 -----------------
