@@ -302,6 +302,7 @@
 - [Specifying AI safety problems in simple environments](https://deepmind.com/blog/article/specifying-ai-safety-problems)
 - [Human compatible : artificial intelligence and the problem of control](https://archive.org/details/humancompatiblea0000russ)
 - [Avoiding Unintended AI Behaviors](http://agi-conference.org/2012/wp-content/uploads/2012/12/paper_56.pdf)
+- [AI safety via debate](https://arxiv.org/pdf/1805.00899.pdf)
 
 ----------------
 -----------------
