@@ -245,7 +245,7 @@
 
 ----------------------------
 
-#### AGI Risk, Safety Measures & Organizations
+#### AGI Risks, Safety Measures & Organizations
 
 - [AGI Society](http://www.agi-society.org/)
 - [AGI Conferences](http://agi-conf.org/)
@@ -296,6 +296,7 @@
 - [Superintelligence Skepticism as a Political Tool](https://www.mdpi.com/2078-2489/9/9/209/htm)
 - [Countering Superintelligence Misinformation](https://www.mdpi.com/2078-2489/9/10/244/htm)
 - [The Wrong Cognitive Measuring Stick](https://slate.com/technology/2016/04/why-its-a-mistake-to-compare-a-i-with-human-intelligence.html)
+- [AI Alignment Podcast: AI Alignment through Debate with Geoffrey Irving](https://futureoflife.org/2019/03/06/ai-alignment-through-debate-with-geoffrey-irving/)
 
 ----------------
 -----------------
