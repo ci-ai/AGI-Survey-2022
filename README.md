@@ -303,6 +303,7 @@
 - [Human compatible : artificial intelligence and the problem of control](https://archive.org/details/humancompatiblea0000russ)
 - [Avoiding Unintended AI Behaviors](http://agi-conference.org/2012/wp-content/uploads/2012/12/paper_56.pdf)
 - [AI safety via debate](https://arxiv.org/pdf/1805.00899.pdf)
+- [Thinking inside the box: using and controlling an Oracle AI](https://www.youtube.com/watch?v=oAHIa651Wa0)
 
 ----------------
 -----------------
