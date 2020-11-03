@@ -297,6 +297,11 @@
 - [Countering Superintelligence Misinformation](https://www.mdpi.com/2078-2489/9/10/244/htm)
 - [The Wrong Cognitive Measuring Stick](https://slate.com/technology/2016/04/why-its-a-mistake-to-compare-a-i-with-human-intelligence.html)
 - [AI Alignment Podcast: AI Alignment through Debate with Geoffrey Irving](https://futureoflife.org/2019/03/06/ai-alignment-through-debate-with-geoffrey-irving/)
+- [Google developing kill switch for AI](https://www.bbc.com/news/technology-36472140)
+- [‘Press the big red button’: Computer experts want kill switch to stop robots from going rogue](https://www.washingtonpost.com/news/morning-mix/wp/2016/06/09/press-the-big-red-button-computer-experts-want-kill-switch-to-stop-robots-from-going-rogue/)
+- [Specifying AI safety problems in simple environments](https://deepmind.com/blog/article/specifying-ai-safety-problems)
+- [Human compatible : artificial intelligence and the problem of control](https://archive.org/details/humancompatiblea0000russ)
+- [Avoiding Unintended AI Behaviors](http://agi-conference.org/2012/wp-content/uploads/2012/12/paper_56.pdf)
 
 ----------------
 -----------------
