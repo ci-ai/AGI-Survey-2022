@@ -174,6 +174,7 @@
 - [Deep Learning on Mobile Devices – A Review](https://arxiv.org/ftp/arxiv/papers/1904/1904.09274.pdf)
 - [Survey of Machine Learning Accelerators](https://arxiv.org/pdf/2009.00993v1.pdf)
 - [Exascale Deep Learning for Scientific Inverse Problems](https://arxiv.org/pdf/1909.11150.pdf)
+- [The Lives and Death of Moore's Law](https://firstmonday.org/ojs/index.php/fm/article/view/1000/921)
 
 --------------------------------------
 
@@ -199,6 +200,7 @@
 - [Accelerating Change](https://web.archive.org/web/20110304064527/http://www.techcast.org/Upload/PDFs/633427424769769211_TCAlLeedahl-AcceleratingChange.pdf)
 - [The Law of Accelerating Returns by Ray Kurzweil](https://web.archive.org/web/20100619033859/http://www.kurzweilai.net/articles/art0134.html?printable=1)
 - [The Beginning and the End: The Meaning of Life in a Cosmological Perspective](https://arxiv.org/ftp/arxiv/papers/1301/1301.1648.pdf)
+- [The Pace and Proliferation of Biological Technologies](https://pdfs.semanticscholar.org/ec32/5363a7b3e4fce43b02cd886b8f3869fc0d8a.pdf?_ga=2.18167294.677790609.1604606470-107614974.1604606470)
 
 ---------------------------
 
@@ -211,7 +213,7 @@
 - [The Roadmap to 6G – AI Empowered Wireless Networks](https://arxiv.org/pdf/1904.11686.pdf)
 - [The Transhumanist FAQ](https://hplusmagazine.com/transhumanist-faq/)
 - [Nanotechnology:The Future is Coming Sooner Than You Think](http://thenewatlantis.com/wp-content/uploads/legacy-pdfs/20120213_TheFutureisComingSoonerThanYouThink.pdf)
-
+- [BANG Theory : A mix of Bits, Atoms, Neurons and Genes (B.A.N.G.)](https://web.archive.org/web/20070925235057/http://www.etcgroup.org/upload/publication/169/01/combang2003.pdf)
 -------------------------------
 
 #### No.. Lets align with Nature
