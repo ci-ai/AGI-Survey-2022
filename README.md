@@ -188,6 +188,7 @@
 
 - [Is History Converging? Again?](http://people.idsia.ch/~juergen/history.html)
 - [New Millennium AI and the Convergence of History, 2006](https://arxiv.org/pdf/cs/0606081.pdf) | [Update of 2012](http://people.idsia.ch/~juergen/newmillenniumai2012.pdf)
+- [Secular Cycles and Millennial Trends](https://escholarship.org/uc/item/9c96x0p1)
 - [Self-Organization and Artificial Life: A Review](https://arxiv.org/pdf/1804.01144v1.pdf)
 - [A computational perspective of the role of Thalamus in cognition](https://arxiv.org/pdf/1803.00997v3.pdf)
 - [Lenia - Biology of Artificial Life](https://arxiv.org/pdf/1812.05433v2.pdf)
@@ -195,6 +196,9 @@
 - [Whole Brain Emulation - A Roadmap](http://www.fhi.ox.ac.uk/Reports/2008-3.pdf)
 - [The Explanation of Human Intelligence](https://web.archive.org/web/20050405071037/http://genesis.csail.mit.edu/HIE/white.html)
 - [Accelerating Change](https://web.archive.org/web/20110304064527/http://www.techcast.org/Upload/PDFs/633427424769769211_TCAlLeedahl-AcceleratingChange.pdf)
+- [The Law of Accelerating Returns by Ray Kurzweil](https://web.archive.org/web/20100619033859/http://www.kurzweilai.net/articles/art0134.html?printable=1)
+- [The Beginning and the End: The Meaning of Life in a Cosmological Perspective](https://arxiv.org/ftp/arxiv/papers/1301/1301.1648.pdf)
+
 ---------------------------
 
 #### Lets connect machines and biological brains
@@ -306,7 +310,7 @@
 - [Avoiding Unintended AI Behaviors](http://agi-conference.org/2012/wp-content/uploads/2012/12/paper_56.pdf)
 - [AI safety via debate](https://arxiv.org/pdf/1805.00899.pdf)
 - [Thinking inside the box: using and controlling an Oracle AI](https://www.youtube.com/watch?v=oAHIa651Wa0)
-
+- [Preparing for our posthuman future of artificial intelligence](https://www.kurzweilai.net/preparing-for-our-posthuman-future-of-artificial-intelligence)
 ----------------
 -----------------
 
