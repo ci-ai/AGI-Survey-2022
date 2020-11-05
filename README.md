@@ -186,13 +186,14 @@
 
 #### Convergence--> Biology + Artificial Intelligence => Artificial Stupidity
 
+- [Is History Converging? Again?](http://people.idsia.ch/~juergen/history.html)
 - [Self-Organization and Artificial Life: A Review](https://arxiv.org/pdf/1804.01144v1.pdf)
 - [A computational perspective of the role of Thalamus in cognition](https://arxiv.org/pdf/1803.00997v3.pdf)
 - [Lenia - Biology of Artificial Life](https://arxiv.org/pdf/1812.05433v2.pdf)
 - [A Roadmap for Reverse-Architecting the Brain’s Neocortex](https://www.youtube.com/watch?v=HIP9OHEZnmc)
 - [Whole Brain Emulation - A Roadmap](http://www.fhi.ox.ac.uk/Reports/2008-3.pdf)
 - [The Explanation of Human Intelligence](https://web.archive.org/web/20050405071037/http://genesis.csail.mit.edu/HIE/white.html)
-
+- [Accelerating Change](https://web.archive.org/web/20110304064527/http://www.techcast.org/Upload/PDFs/633427424769769211_TCAlLeedahl-AcceleratingChange.pdf)
 ---------------------------
 
 #### Lets connect machines and biological brains
