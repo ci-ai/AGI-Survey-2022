@@ -5,7 +5,7 @@
 [AGI Outline & Contents](https://www.springer.com/cda/content/document/cda_downloaddocument/9783540237334-t1.pdf?SGWID=0-0-45-330093-p43950079)
 
 ------------
-#### Discussions:
+#### AGI Discussions:
 
 - [How Did Humans Become So Creative? A Computational Approach](https://arxiv.org/ftp/arxiv/papers/1308/1308.5032.pdf)
 - [The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities, 2019](https://arxiv.org/pdf/1803.03453v1.pdf)
@@ -104,7 +104,7 @@
 - [Open Source Growth Benchmarks and the 20 Fastest-Growing OSS Startups](https://medium.com/runacapital/open-source-growth-benchmarks-and-the-20-fastest-growing-oss-startups-d3556a669fe6)
 
 -----------------------
-#### State of the Art
+#### State of the Art Models
 
 - [paperswithcode.com/sota](https://paperswithcode.com/sota)
 - [stateoftheart.ai](https://www.stateoftheart.ai/)
@@ -127,7 +127,7 @@
 
 --------------------
 
-#### Current Practices - Limitations
+#### Current Engineering Practices - Limitations
 
 - [Taxonomy of Big Data: A Survey](https://arxiv.org/pdf/1808.08474.pdf)
 - [A Survey of Big Data Machine Learning Applications Optimization in Cloud Data Centers and Networks](https://arxiv.org/ftp/arxiv/papers/1910/1910.00731.pdf)
@@ -184,7 +184,7 @@
 - [Challenges of Privacy-Preserving Machine Learning in IoT](https://arxiv.org/pdf/1909.09804.pdf)
 ---------------------------
 
-#### Convergence--> Biology+Intelligence=> Artificial Stupidity
+#### Convergence--> Biology + Artificial Intelligence => Artificial Stupidity
 
 - [Self-Organization and Artificial Life: A Review](https://arxiv.org/pdf/1804.01144v1.pdf)
 - [A computational perspective of the role of Thalamus in cognition](https://arxiv.org/pdf/1803.00997v3.pdf)
@@ -324,6 +324,6 @@
 - Kaggle Solutions - [gopala-kr/kaggle-solutions](https://github.com/gopala-kr/kaggle-solutions)
 - Quantum Dots - [gopala-kr/Quantum-Dots](https://github.com/gopala-kr/Quantum-Dots)
 - Trending Repositories - [gopala-kr/trending-repos](https://github.com/gopala-kr/trending-repos)
-- Transfer Learning - [ci-ai/transfer-learning](https://github.com/ci-ai/transfer-learning)
+- Transfer Learning Survey - [ci-ai/transfer-learning](https://github.com/ci-ai/transfer-learning)
 ---------------------
 --------------------------------
