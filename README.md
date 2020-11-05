@@ -28,6 +28,7 @@
 - [Beyond MAD?: the race for artificial general intelligence](https://www.itu.int/en/journal/001/Documents/itu2018-9.pdf)
 - [We’re entering the AI twilight zone between narrow and general AI](https://venturebeat.com/2020/09/03/were-entering-the-ai-twilight-zone-between-narrow-and-general-ai/)
 - [The 21st Century Singularity and Global Futures - A Big History Perspective](https://link.springer.com/book/10.1007/978-3-030-33730-8)
+- [The 21st Century Singularity and its Big History Implications: A re-analysis](https://jbh.journals.villanova.edu/article/view/2329/2236)
 - [Superintelligence — Semi-hard Takeoff Scenarios](https://hplusmagazine.com/2014/09/26/superintelligence-semi-hard-takeoff-scenarios/)
 - [The timescale of artificial intelligence: Reflections on social effects](https://theworld.com/~rjs/timesc.pdf)
 - [Nick Bostrom's](https://www.nickbostrom.com/) | [Simulation and Superintelligence](https://www.youtube.com/watch?v=rfKiTGj-zeQ)
