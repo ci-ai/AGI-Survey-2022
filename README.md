@@ -187,6 +187,7 @@
 #### Convergence--> Biology + Artificial Intelligence => Artificial Stupidity
 
 - [Is History Converging? Again?](http://people.idsia.ch/~juergen/history.html)
+- [New Millennium AI and the Convergence of History, 2006](https://arxiv.org/pdf/cs/0606081.pdf) | [Update of 2012](http://people.idsia.ch/~juergen/newmillenniumai2012.pdf)
 - [Self-Organization and Artificial Life: A Review](https://arxiv.org/pdf/1804.01144v1.pdf)
 - [A computational perspective of the role of Thalamus in cognition](https://arxiv.org/pdf/1803.00997v3.pdf)
 - [Lenia - Biology of Artificial Life](https://arxiv.org/pdf/1812.05433v2.pdf)
