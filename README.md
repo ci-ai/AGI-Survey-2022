@@ -175,6 +175,8 @@
 - [Survey of Machine Learning Accelerators](https://arxiv.org/pdf/2009.00993v1.pdf)
 - [Exascale Deep Learning for Scientific Inverse Problems](https://arxiv.org/pdf/1909.11150.pdf)
 - [The Lives and Death of Moore's Law](https://firstmonday.org/ojs/index.php/fm/article/view/1000/921)
+- [Fundamental Limits to Moore's Law](https://arxiv.org/ftp/arxiv/papers/1511/1511.05956.pdf)
+- [Limits on Fundamental Limits to Computation](https://arxiv.org/pdf/1408.3821.pdf)
 
 --------------------------------------
 
