@@ -5,7 +5,7 @@
 [AGI Outline & Contents](https://www.springer.com/cda/content/document/cda_downloaddocument/9783540237334-t1.pdf?SGWID=0-0-45-330093-p43950079)
 
 ------------
-#### AGI Discussions:
+#### Discussions:
 
 - [How Did Humans Become So Creative? A Computational Approach](https://arxiv.org/ftp/arxiv/papers/1308/1308.5032.pdf)
 - [The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities, 2019](https://arxiv.org/pdf/1803.03453v1.pdf)
@@ -203,6 +203,7 @@
 - [The Law of Accelerating Returns by Ray Kurzweil](https://web.archive.org/web/20100619033859/http://www.kurzweilai.net/articles/art0134.html?printable=1)
 - [The Beginning and the End: The Meaning of Life in a Cosmological Perspective](https://arxiv.org/ftp/arxiv/papers/1301/1301.1648.pdf)
 - [The Pace and Proliferation of Biological Technologies](https://pdfs.semanticscholar.org/ec32/5363a7b3e4fce43b02cd886b8f3869fc0d8a.pdf?_ga=2.18167294.677790609.1604606470-107614974.1604606470)
+- [The Universeof Minds](https://arxiv.org/ftp/arxiv/papers/1410/1410.0369.pdf)
 
 ---------------------------
 
