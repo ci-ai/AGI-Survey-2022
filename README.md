@@ -217,6 +217,7 @@
 - [The Transhumanist FAQ](https://hplusmagazine.com/transhumanist-faq/)
 - [Nanotechnology:The Future is Coming Sooner Than You Think](http://thenewatlantis.com/wp-content/uploads/legacy-pdfs/20120213_TheFutureisComingSoonerThanYouThink.pdf)
 - [BANG Theory : A mix of Bits, Atoms, Neurons and Genes (B.A.N.G.)](https://web.archive.org/web/20070925235057/http://www.etcgroup.org/upload/publication/169/01/combang2003.pdf)
+- [What is Transhumanism?](https://whatistranshumanism.org/)
 -------------------------------
 
 #### No.. Lets align with Nature
