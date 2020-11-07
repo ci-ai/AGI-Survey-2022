@@ -222,6 +222,7 @@
 - [Transhumanism: 2000 Years in the Making](https://web.archive.org/web/20060911010425/http://www.thecbc.org/redesigned/research_display.php?id=189)
 - [A history of transhumanist thought, NickBostrom](https://www.nickbostrom.com/papers/history.pdf)
 - [Immortality 2.0: A Silicon Valley Insider Looks at California’s Transhumanist Movement](https://web.archive.org/web/20120512223654/http://ce399eugenics.wordpress.com/2010/06/19/immortality-2-0-a-silicon-valley-insider-looks-at-californias-transhumanist-movement)
+- [Posthuman Rights:Dimensions of Transhuman Worlds](https://revistas.ucm.es/index.php/TEKN/article/view/49072/46310)
 
 -------------------------------
 
