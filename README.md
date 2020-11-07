@@ -219,6 +219,8 @@
 - [BANG Theory : A mix of Bits, Atoms, Neurons and Genes (B.A.N.G.)](https://web.archive.org/web/20070925235057/http://www.etcgroup.org/upload/publication/169/01/combang2003.pdf)
 - [What is Transhumanism?](https://whatistranshumanism.org/)
 - [The History of ‘Transhumanism’](https://academic.oup.com/nq/article/62/3/465/1141551)
+- [Transhumanism: 2000 Years in the Making](https://web.archive.org/web/20060911010425/http://www.thecbc.org/redesigned/research_display.php?id=189)
+
 -------------------------------
 
 #### No.. Lets align with Nature
