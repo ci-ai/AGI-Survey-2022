@@ -220,6 +220,7 @@
 - [What is Transhumanism?](https://whatistranshumanism.org/)
 - [The History of ‘Transhumanism’](https://academic.oup.com/nq/article/62/3/465/1141551)
 - [Transhumanism: 2000 Years in the Making](https://web.archive.org/web/20060911010425/http://www.thecbc.org/redesigned/research_display.php?id=189)
+- [A history of transhumanist thought, NickBostrom](https://www.nickbostrom.com/papers/history.pdf)
 
 -------------------------------
 
