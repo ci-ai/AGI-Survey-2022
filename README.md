@@ -14,6 +14,7 @@
 - [Forecasting Transformative AI: An Expert Survey](https://arxiv.org/ftp/arxiv/papers/1901/1901.08579.pdf)
 - [Predictions of human-level AI timelines](https://sites.google.com/site/aiimpactslibrary/ai-timelines/predictions-of-human-level-ai-dates)
 - [AI Timeline Surveys](https://aiimpacts.org/ai-timeline-surveys/)
+- [Timing the Singularity](https://www.singularity2050.com/2009/08/timing-the-singularity.html)
 - [AI Podcast Series - Lex Fridman](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4) | [Apple Podcast](https://podcasts.apple.com/us/podcast/lex-fridman-podcast/id1434243584)
 - [The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence](https://arxiv.org/vc/arxiv/papers/2002/2002.06177v2.pdf)
 - [Perspectives on Research in Artificial Intelligence and Artificial General Intelligence  Relevant to DoD](https://fas.org/irp/agency/dod/jason/ai-dod.pdf)
