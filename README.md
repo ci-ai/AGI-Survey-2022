@@ -182,6 +182,7 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [The Lives and Death of Moore's Law](https://firstmonday.org/ojs/index.php/fm/article/view/1000/921)
 - [Fundamental Limits to Moore's Law](https://arxiv.org/ftp/arxiv/papers/1511/1511.05956.pdf)
 - [Limits on Fundamental Limits to Computation](https://arxiv.org/pdf/1408.3821.pdf)
+- [Benchmarking TPU, GPU, and CPU Platforms for Deep Learning](https://arxiv.org/pdf/1907.10701v1.pdf)
 
 --------------------------------------
 
