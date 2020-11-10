@@ -266,6 +266,7 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [Artificial General Intelligence: Coordination & Great Powers](https://foresight.org/wp-content/uploads/2018/11/AGI-Coordination-Geat-Powers-Report.pdf)
 - [The President in Conversation With MIT’s Joi Ito and WIRED’s Scott Dadich](https://www.wired.com/2016/10/president-obama-mit-joi-ito-interview/)
 - [Intelligence Explosion Microeconomics](https://intelligence.org/files/IEM.pdf)
+- [Artificial Intelligence as Structural Estimation: Economic Interpretations of Deep Blue, Bonanza, and AlphaGo](https://arxiv.org/pdf/1710.10967v3.pdf)
 
 ----------------------------
 
