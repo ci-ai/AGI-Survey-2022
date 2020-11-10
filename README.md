@@ -132,7 +132,7 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [A Survey of Data Quality Measurement and Monitoring Tools](https://arxiv.org/pdf/1907.08138v1.pdf)
 - [datasets for machine-learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
 - [arXiv dataset and metadata of 1.7M+ scholarly papers across STEM](https://www.kaggle.com/Cornell-University/arxiv)
-
+- [Small Data Challenges in Big Data Era: A Survey of Recent Progress on Unsupervised and Semi-Supervised Methods](https://arxiv.org/pdf/1903.11260v1.pdf)
 
 --------------------
 
@@ -182,6 +182,7 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [On Scale-out Deep Learning Training for Cloud](https://arxiv.org/pdf/1801.08030.pdf)
 - [Deep Learning At Scale and At Ease](https://arxiv.org/pdf/1603.07846.pdf)
 - [A Survey on Distributed Machine Learning](https://arxiv.org/ftp/arxiv/papers/1912/1912.09789.pdf)
+- [Scalable Deep Learning on Distributed Infrastructures: Challenges, Techniques and Tools](https://arxiv.org/pdf/1903.11314v1.pdf)
 - [LIMITS: Lightweight Machine Learning for IoT Systems with Resource Limitations](https://arxiv.org/pdf/2001.10189.pdf)
 - [Deep Learning on Mobile Devices – A Review](https://arxiv.org/ftp/arxiv/papers/1904/1904.09274.pdf)
 - [Survey of Machine Learning Accelerators](https://arxiv.org/pdf/2009.00993v1.pdf)
