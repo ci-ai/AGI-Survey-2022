@@ -53,6 +53,8 @@
 - [Modeling Theory of Mind for Autonomous Agents with Probabilistic Programs](https://arxiv.org/pdf/1812.01569v1.pdf)
 - [AI-GAs: AI-generating algorithms, an alternateparadigm for producing general artificial intelligence](https://arxiv.org/pdf/1905.10985.pdf)
 - [The Technology of Mind and a New Social Contract](https://jetpress.org/v17/hibbard.htm)
+
+
 --------------------------------
 
 #### Approches - Limitations
@@ -201,6 +203,8 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [Ten ways to fool the masses with machine learning](https://arxiv.org/ftp/arxiv/papers/1901/1901.01686.pdf)
 - [Opportunities and Challenges in Deep Learning Adversarial Robustness: A Survey](https://arxiv.org/pdf/2007.00753.pdf)
 - [Challenges of Privacy-Preserving Machine Learning in IoT](https://arxiv.org/pdf/1909.09804.pdf)
+- [Safety and Trustworthiness of Deep Neural Networks: A Survey](https://arxiv.org/pdf/1812.08342v2.pdf)
+
 ---------------------------
 
 #### Convergence--> Biology + Artificial Intelligence => Artificial Stupidity
@@ -219,6 +223,7 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [The Beginning and the End: The Meaning of Life in a Cosmological Perspective](https://arxiv.org/ftp/arxiv/papers/1301/1301.1648.pdf)
 - [The Pace and Proliferation of Biological Technologies](https://pdfs.semanticscholar.org/ec32/5363a7b3e4fce43b02cd886b8f3869fc0d8a.pdf?_ga=2.18167294.677790609.1604606470-107614974.1604606470)
 - [The Universeof Minds](https://arxiv.org/ftp/arxiv/papers/1410/1410.0369.pdf)
+- [Deep learning for molecular generation and optimization - a review of the state of the art](https://arxiv.org/pdf/1903.04388v1.pdf)
 
 ---------------------------
 
@@ -341,6 +346,8 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [Thinking inside the box: using and controlling an Oracle AI](https://www.youtube.com/watch?v=oAHIa651Wa0)
 - [Preparing for our posthuman future of artificial intelligence](https://www.kurzweilai.net/preparing-for-our-posthuman-future-of-artificial-intelligence)
 - [Teaching AI, Ethics, Law and Policy](https://arxiv.org/vc/arxiv/papers/1904/1904.12470v1.pdf)
+- [Linking Artificial Intelligence Principles](https://arxiv.org/ftp/arxiv/papers/1812/1812.04814.pdf)
+
 ----------------
 -----------------
 
