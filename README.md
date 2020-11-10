@@ -123,6 +123,7 @@
 #### Data 
 
 - [A Survey on Data Collection for Machine Learning: a Big Data -- AI Integration Perspective](https://arxiv.org/pdf/1811.03402.pdf)
+- [A Survey of Data Quality Measurement and Monitoring Tools](https://arxiv.org/pdf/1907.08138v1.pdf)
 - [datasets for machine-learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
 - [arXiv dataset and metadata of 1.7M+ scholarly papers across STEM](https://www.kaggle.com/Cornell-University/arxiv)
 
