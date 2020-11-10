@@ -67,7 +67,8 @@
 - [AI Enabling Technologies: A Survey, MIT 2019](https://arxiv.org/ftp/arxiv/papers/1905/1905.03592.pdf)
 - [A Berkeley View of Systems Challenges for AI](https://arxiv.org/pdf/1712.05855.pdf)
 - [Vincent C. Müller - "Challenges for Artificial Cognitive Systems"](https://www.youtube.com/watch?v=LoQ3GL7R7R8)
-
+- [AI-GAs: AI-generating algorithms, an alternate
+paradigm for producing general artificial intelligence](https://arxiv.org/pdf/1905.10985v1.pdf)
 ---------------------------------
 
 #### Tasks & Benchmarks - Comparative
