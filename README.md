@@ -70,6 +70,7 @@
 - [AI-GAs: AI-generating algorithms, an alternate
 paradigm for producing general artificial intelligence](https://arxiv.org/pdf/1905.10985v1.pdf)
 - [Go-Explore: a New Approach for Hard-Exploration Problems](https://arxiv.org/pdf/1901.10995v2.pdf)
+- [Predicting Research Trends From Arxiv](https://arxiv.org/pdf/1903.02831v1.pdf)
 
 ---------------------------------
 
@@ -107,6 +108,8 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [Nvidia Dominates Latest MLPerf Training Benchmark Results](https://www.hpcwire.com/2020/07/29/nvidia-dominates-latest-mlperf-training-benchmark-results/)
 - [ML Perf v0.7 Results Released -- NVIDIA Breaks 16 AI Performance Records](https://www.youtube.com/watch?v=Ol00HdA7ebM)
 - [Open Source Growth Benchmarks and the 20 Fastest-Growing OSS Startups](https://medium.com/runacapital/open-source-growth-benchmarks-and-the-20-fastest-growing-oss-startups-d3556a669fe6)
+- [Benchmarking Natural Language Understanding Services for building Conversational Agents](https://arxiv.org/pdf/1903.05566v2.pdf)
+- [Recent advances in conversational NLP : Towards the standardization of Chatbot building](https://arxiv.org/pdf/1903.09025v1.pdf)
 
 -----------------------
 #### State of the Art Models
