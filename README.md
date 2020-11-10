@@ -69,6 +69,8 @@
 - [Vincent C. Müller - "Challenges for Artificial Cognitive Systems"](https://www.youtube.com/watch?v=LoQ3GL7R7R8)
 - [AI-GAs: AI-generating algorithms, an alternate
 paradigm for producing general artificial intelligence](https://arxiv.org/pdf/1905.10985v1.pdf)
+- [Go-Explore: a New Approach for Hard-Exploration Problems](https://arxiv.org/pdf/1901.10995v2.pdf)
+
 ---------------------------------
 
 #### Tasks & Benchmarks - Comparative
@@ -332,6 +334,7 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [AI safety via debate](https://arxiv.org/pdf/1805.00899.pdf)
 - [Thinking inside the box: using and controlling an Oracle AI](https://www.youtube.com/watch?v=oAHIa651Wa0)
 - [Preparing for our posthuman future of artificial intelligence](https://www.kurzweilai.net/preparing-for-our-posthuman-future-of-artificial-intelligence)
+- [Teaching AI, Ethics, Law and Policy](https://arxiv.org/vc/arxiv/papers/1904/1904.12470v1.pdf)
 ----------------
 -----------------
 
