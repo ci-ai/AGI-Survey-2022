@@ -154,6 +154,7 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap)
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops)
 - [Artificial Intelligence as a Services (AI-aaS) on Software-Defined Infrastructure](https://arxiv.org/pdf/1907.05505v1.pdf)
+- [Automated Machine Learning: State-of-The-Art and Open Challenges](https://arxiv.org/pdf/1906.02287v1.pdf)
 
 ------------------------------
 
