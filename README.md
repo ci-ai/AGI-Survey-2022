@@ -72,7 +72,7 @@
 - [AI-GAs: AI-generating algorithms, an alternate
 paradigm for producing general artificial intelligence](https://arxiv.org/pdf/1905.10985v1.pdf)
 - [Go-Explore: a New Approach for Hard-Exploration Problems](https://arxiv.org/pdf/1901.10995v2.pdf)
-- [Predicting Research Trends From Arxiv](https://arxiv.org/pdf/1903.02831v1.pdf)
+
 
 ---------------------------------
 
@@ -135,6 +135,7 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [datasets for machine-learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
 - [arXiv dataset and metadata of 1.7M+ scholarly papers across STEM](https://www.kaggle.com/Cornell-University/arxiv)
 - [Small Data Challenges in Big Data Era: A Survey of Recent Progress on Unsupervised and Semi-Supervised Methods](https://arxiv.org/pdf/1903.11260v1.pdf)
+- [The Big Bad NLP Database](https://datasets.quantumstat.com/)
 
 --------------------
 
