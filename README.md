@@ -283,6 +283,7 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [The President in Conversation With MIT’s Joi Ito and WIRED’s Scott Dadich](https://www.wired.com/2016/10/president-obama-mit-joi-ito-interview/)
 - [Intelligence Explosion Microeconomics](https://intelligence.org/files/IEM.pdf)
 - [Artificial Intelligence as Structural Estimation: Economic Interpretations of Deep Blue, Bonanza, and AlphaGo](https://arxiv.org/pdf/1710.10967v3.pdf)
+- [The Global Artificial Intelligence Landscape](https://asgard.vc/global-ai/)
 
 ----------------------------
 
