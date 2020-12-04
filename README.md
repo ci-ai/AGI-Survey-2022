@@ -165,6 +165,8 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [Artificial Intelligence as a Services (AI-aaS) on Software-Defined Infrastructure](https://arxiv.org/pdf/1907.05505v1.pdf)
 - [Automated Machine Learning: State-of-The-Art and Open Challenges](https://arxiv.org/pdf/1906.02287v1.pdf)
 - [Deep Models for Relational Databases](https://arxiv.org/pdf/1903.09033v1.pdf)
+- [Machine Learning Platformization & AutoML: Adopting ML at Scale in the Enterprise](https://towardsdatascience.com/state-of-the-machine-learning-ai-industry-9bb477f840c8)
+- [Emerging Architectures for Modern Data Infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
 
 ------------------------------
 
