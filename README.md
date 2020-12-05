@@ -167,6 +167,7 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [Deep Models for Relational Databases](https://arxiv.org/pdf/1903.09033v1.pdf)
 - [Machine Learning Platformization & AutoML: Adopting ML at Scale in the Enterprise](https://towardsdatascience.com/state-of-the-machine-learning-ai-industry-9bb477f840c8)
 - [Emerging Architectures for Modern Data Infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
+- [Challenges in Deploying Machine Learning: a Survey of Case Studies](https://arxiv.org/pdf/2011.09926v1.pdf)
 
 ------------------------------
 
