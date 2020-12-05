@@ -113,6 +113,7 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [Open Source Growth Benchmarks and the 20 Fastest-Growing OSS Startups](https://medium.com/runacapital/open-source-growth-benchmarks-and-the-20-fastest-growing-oss-startups-d3556a669fe6)
 - [Benchmarking Natural Language Understanding Services for building Conversational Agents](https://arxiv.org/pdf/1903.05566v2.pdf)
 - [Recent advances in conversational NLP : Towards the standardization of Chatbot building](https://arxiv.org/pdf/1903.09025v1.pdf)
+- [Benchmarking TinyML Systems: Challenges and Direction](https://arxiv.org/pdf/2003.04821v1.pdf)
 
 -----------------------
 #### State of the Art Models
