@@ -265,6 +265,12 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [Implications of Quantum Computing for Artificial Intelligence alignment research](https://arxiv.org/ftp/arxiv/papers/1908/1908.07613.pdf)
 - [Computer-inspired Quantum Experiments](https://arxiv.org/pdf/2002.09970.pdf)
 
+-----------------
+
+#### AI for Science
+
+- [A Survey of Deep Learning for Scientific Discovery](https://arxiv.org/pdf/2003.11755v1.pdf)
+
 ----------------------------------------
 
 
