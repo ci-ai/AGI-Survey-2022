@@ -41,6 +41,22 @@
 ![Major_Evolutionary_Transitions_digital](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Major_Evolutionary_Transitions_digital.jpg/1024px-Major_Evolutionary_Transitions_digital.jpg)
 ----------------
 ![writings-6-epochs-of-evolution-A1](https://www.kurzweilai.net/images/writings-6-epochs-of-evolution-A1.png)
+--------
+-----------
+
+![evwvvdbUSAckdbl2SYKIfr9_8Lky8NJ5vHEpAT_uTCM](https://assets.weforum.org/editor/evwvvdbUSAckdbl2SYKIfr9_8Lky8NJ5vHEpAT_uTCM.jpg)
+--------
+![vtWS12nhSS_](https://miro.medium.com/max/1190/0*FY7j-vtWS12nhSS_)
+-----
+![figure2](https://www.existential-risk.org/figure2.png)
+-------
+![Hpexrisk](https://hpluspedia.org/images/9/94/Hpexrisk.png)
+--------
+![naturalrisks12](http://immortality-roadmap.com/naturalrisks12.jpg)
+------
+![Great-Filter1](https://28oa9i1t08037ue3m1l0i861-wpengine.netdna-ssl.com/wp-content/uploads/2014/05/Great-Filter1.png)
+-------
+![kuztwblFO6XnDRkkReUdYg](https://miro.medium.com/max/3684/1*kuztwblFO6XnDRkkReUdYg.png)
 ---------
 -------------
 
