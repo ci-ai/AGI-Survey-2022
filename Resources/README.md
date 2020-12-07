@@ -5,6 +5,8 @@
 ![lml](https://github.com/ci-ai/tm-i/blob/master/Resources/lml.PNG)
 -----------
 ![MjcyNDc5NQ](https://spectrum.ieee.org/image/MjcyNDc5NQ)
+-------
+![AGI-takeoff-speed-vs-years-commercial-software](https://reducing-suffering.org/predictions-agi-takeoff-speed-vs-years-worked-commercial-software/AGI-takeoff-speed-vs-years-commercial-software.png)
 -------------------
 ![Gartner-Hype-Cycle-For-Artificial-Intelligence-2019](https://blogs-images.forbes.com/louiscolumbus/files/2019/09/Gartner-Hype-Cycle-For-Artificial-Intelligence-2019.jpg)
 ------------
