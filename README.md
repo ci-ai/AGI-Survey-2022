@@ -139,6 +139,7 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [Small Data Challenges in Big Data Era: A Survey of Recent Progress on Unsupervised and Semi-Supervised Methods](https://arxiv.org/pdf/1903.11260v1.pdf)
 - [The Big Bad NLP Database](https://datasets.quantumstat.com/)
 - [Deep Learning for Vision-based Prediction: A Survey](https://arxiv.org/pdf/2007.00095v2.pdf)
+- [Driving Datasets Literature Review](https://arxiv.org/pdf/1910.11968v1.pdf)
 
 --------------------
 
@@ -171,6 +172,7 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [Machine Learning Platformization & AutoML: Adopting ML at Scale in the Enterprise](https://towardsdatascience.com/state-of-the-machine-learning-ai-industry-9bb477f840c8)
 - [Emerging Architectures for Modern Data Infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
 - [Challenges in Deploying Machine Learning: a Survey of Case Studies](https://arxiv.org/pdf/2011.09926v1.pdf)
+- [Convergence of Edge Computing and DeepLearning: A Comprehensive Survey](https://arxiv.org/pdf/1907.08349v3.pdf)
 
 ------------------------------
 
