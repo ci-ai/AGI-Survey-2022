@@ -138,6 +138,7 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [arXiv dataset and metadata of 1.7M+ scholarly papers across STEM](https://www.kaggle.com/Cornell-University/arxiv)
 - [Small Data Challenges in Big Data Era: A Survey of Recent Progress on Unsupervised and Semi-Supervised Methods](https://arxiv.org/pdf/1903.11260v1.pdf)
 - [The Big Bad NLP Database](https://datasets.quantumstat.com/)
+- [Deep Learning for Vision-based Prediction: A Survey](https://arxiv.org/pdf/2007.00095v2.pdf)
 
 --------------------
 
