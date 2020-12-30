@@ -76,6 +76,7 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [Neurosymbolic AI: The 3rd Wave](https://arxiv.org/pdf/2012.05876v2.pdf)
 - [Scaling down Deep Learning](https://arxiv.org/pdf/2011.14439v3.pdf)
 - [Thinking Fast and Slow in AI](https://arxiv.org/pdf/2010.06002v2.pdf)
+- [Understanding Attention: In Minds and Machines](https://arxiv.org/pdf/2012.02659v1.pdf)
 
 ---------------------------------
 
