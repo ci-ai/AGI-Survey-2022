@@ -74,7 +74,7 @@
 paradigm for producing general artificial intelligence](https://arxiv.org/pdf/1905.10985v1.pdf)
 - [Go-Explore: a New Approach for Hard-Exploration Problems](https://arxiv.org/pdf/1901.10995v2.pdf)
 - [Neurosymbolic AI: The 3rd Wave](https://arxiv.org/pdf/2012.05876v2.pdf)
-
+- [Scaling down Deep Learning](https://arxiv.org/pdf/2011.14439v3.pdf)
 
 ---------------------------------
 
