@@ -75,6 +75,7 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [Go-Explore: a New Approach for Hard-Exploration Problems](https://arxiv.org/pdf/1901.10995v2.pdf)
 - [Neurosymbolic AI: The 3rd Wave](https://arxiv.org/pdf/2012.05876v2.pdf)
 - [Scaling down Deep Learning](https://arxiv.org/pdf/2011.14439v3.pdf)
+- [Thinking Fast and Slow in AI](https://arxiv.org/pdf/2010.06002v2.pdf)
 
 ---------------------------------
 
@@ -141,6 +142,7 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [The Big Bad NLP Database](https://datasets.quantumstat.com/)
 - [Deep Learning for Vision-based Prediction: A Survey](https://arxiv.org/pdf/2007.00095v2.pdf)
 - [Driving Datasets Literature Review](https://arxiv.org/pdf/1910.11968v1.pdf)
+- [PMLB v1.0: an open source dataset collection for benchmarking machine learning methods](https://arxiv.org/ftp/arxiv/papers/2012/2012.00058.pdf)
 
 --------------------
 
