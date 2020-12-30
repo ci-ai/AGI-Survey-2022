@@ -117,6 +117,7 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [Benchmarking Natural Language Understanding Services for building Conversational Agents](https://arxiv.org/pdf/1903.05566v2.pdf)
 - [Recent advances in conversational NLP : Towards the standardization of Chatbot building](https://arxiv.org/pdf/1903.09025v1.pdf)
 - [Benchmarking TinyML Systems: Challenges and Direction](https://arxiv.org/pdf/2003.04821v1.pdf)
+- [MLPerf Mobile Inference Benchmark: Why Mobile AI Benchmarking Is Hard and What to Do About It](https://arxiv.org/pdf/2012.02328v1.pdf)
 
 -----------------------
 #### State of the Art Models
