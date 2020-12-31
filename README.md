@@ -278,6 +278,7 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 #### AI for Science
 
 - [A Survey of Deep Learning for Scientific Discovery](https://arxiv.org/pdf/2003.11755v1.pdf)
+- [Machine Learning for Searching the Dark Energy Survey for Trans-Neptunian Objects](https://arxiv.org/pdf/2009.12856v2.pdf)
 
 ----------------------------------------
 
