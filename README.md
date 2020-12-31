@@ -145,6 +145,7 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [Deep Learning for Vision-based Prediction: A Survey](https://arxiv.org/pdf/2007.00095v2.pdf)
 - [Driving Datasets Literature Review](https://arxiv.org/pdf/1910.11968v1.pdf)
 - [PMLB v1.0: an open source dataset collection for benchmarking machine learning methods](https://arxiv.org/ftp/arxiv/papers/2012/2012.00058.pdf)
+- [Data and its (dis)contents: A survey of dataset development and use in machine learning research](https://arxiv.org/pdf/2012.05345v1.pdf)
 
 --------------------
 
