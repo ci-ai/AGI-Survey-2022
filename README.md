@@ -179,6 +179,7 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [Emerging Architectures for Modern Data Infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
 - [Challenges in Deploying Machine Learning: a Survey of Case Studies](https://arxiv.org/pdf/2011.09926v1.pdf)
 - [Convergence of Edge Computing and DeepLearning: A Comprehensive Survey](https://arxiv.org/pdf/1907.08349v3.pdf)
+- [Applications of Deep Neural Networks](https://arxiv.org/pdf/2009.05673v2.pdf)
 
 ------------------------------
 
