@@ -38,7 +38,7 @@
 - [Research Priorities for Robust and Beneficial Artificial Intelligence](https://futureoflife.org/data/documents/research_priorities.pdf) | [An Open Letter](https://futureoflife.org/ai-open-letter)
 - [The Hanson-Yudkowsky : AI-Foom Debate](http://intelligence.org/files/AIFoomDebate.pdf)
 - [State-of-Art-Reviewing: A Radical Proposal to Improve Scientific Publication](https://arxiv.org/pdf/2003.14415v1.pdf)
-
+- [995 experts opinion: AGI / singularity by 2060 ](https://research.aimultiple.com/artificial-general-intelligence-singularity-timing/)
 
 ---------------------
 
