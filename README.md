@@ -314,8 +314,10 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 
 #### AGI Risks, Safety Measures & Organizations
 
-- [AGI Society](http://www.agi-society.org/)
+- [AGI Society](http://www.agi-society.org/) | [AGI Society](https://www.youtube.com/channel/UCCwJ8AV1zMM4j9FTicGimqA)
 - [AGI Conferences](http://agi-conf.org/)
+- [Future of Life Institute](https://www.youtube.com/channel/UC-rCCy3FQ-GItDimSR9lhzw/playlists)
+- [SingularityNET](https://www.youtube.com/channel/UCbTE8vfz5zuEK5uRnc2yjrw)
 - [ai-principles](https://futureoflife.org/ai-principles/)
 - [Cambridge Centre for the Study of Existential Risk](https://www.cser.ac.uk/)
 - [Oxford Future of Humanity Institute](https://www.fhi.ox.ac.uk/)
