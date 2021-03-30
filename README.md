@@ -79,6 +79,7 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [Thinking Fast and Slow in AI](https://arxiv.org/pdf/2010.06002v2.pdf)
 - [Understanding Attention: In Minds and Machines](https://arxiv.org/pdf/2012.02659v1.pdf)
 - [Model-based actor-critic: GAN (model generator) + DRL (actor-critic) => AGI](https://arxiv.org/pdf/2004.04574v7.pdf)
+- [The whole brain architecture approach: Accelerating the development of artificial general intelligence by referring to the brain](https://arxiv.org/pdf/2103.06123v1.pdf)
 
 ---------------------------------
 
