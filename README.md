@@ -40,7 +40,7 @@
 - [State-of-Art-Reviewing: A Radical Proposal to Improve Scientific Publication](https://arxiv.org/pdf/2003.14415v1.pdf)
 - [995 experts opinion: AGI / singularity by 2060 ](https://research.aimultiple.com/artificial-general-intelligence-singularity-timing/)
 - [Max Plank Institute: Superintelligence Cannot be Contained: Lessons from Computability Theory](https://jair.org/index.php/jair/article/view/12202/26642)
-
+- [Turing Test and the Practice of Law: The Role of Autonomous Levels of AI Legal Reasoning](https://arxiv.org/ftp/arxiv/papers/2008/2008.07743.pdf)
 ---------------------
 
 #### Some. but all theories and theories.. and..
