@@ -57,7 +57,7 @@
 - [AI-GAs: AI-generating algorithms, an alternateparadigm for producing general artificial intelligence](https://arxiv.org/pdf/1905.10985.pdf)
 - [The Technology of Mind and a New Social Contract](https://jetpress.org/v17/hibbard.htm)
 - [The General Theory of General Intelligence: A Pragmatic Patternist Perspective](https://arxiv.org/pdf/2103.15100v1.pdf)
-
+- [A Metamodel and Framework for Artificial General Intelligence From Theory to Practice](https://arxiv.org/pdf/2102.06112v1.pdf)
 --------------------------------
 
 #### Approches - Limitations
