@@ -251,7 +251,7 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 
 #### Lets connect machines and biological brains
 
-
+- [artificial-life](https://paperswithcode.com/task/artificial-life)
 - [Brain’s Magical Future](https://waitbutwhy.com/2017/04/neuralink.html)
 - [BrainNet: A Multi-Person Brain-to-Brain Interface for Direct Collaboration Between Brains](https://arxiv.org/pdf/1809.08632.pdf)
 - [Neurosciences and 6G: Lessons from and Needs of Communicative Brains](https://arxiv.org/pdf/2004.01834.pdf)
