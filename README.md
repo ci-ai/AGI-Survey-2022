@@ -43,7 +43,7 @@
 - [Turing Test and the Practice of Law: The Role of Autonomous Levels of AI Legal Reasoning](https://arxiv.org/ftp/arxiv/papers/2008/2008.07743.pdf)
 - [The Why, What and How of Artificial General Intelligence Chip Development](https://arxiv.org/pdf/2012.06338v1.pdf)
 - [Relevant pre-AGI possibilities](https://aiimpacts.org/relevant-pre-agi-possibilities/)
-
+- [Creativity and Machine Learning: A Survey](https://arxiv.org/pdf/2104.02726v2.pdf)
 
 ---------------------
 
@@ -61,6 +61,9 @@
 - [The Technology of Mind and a New Social Contract](https://jetpress.org/v17/hibbard.htm)
 - [The General Theory of General Intelligence: A Pragmatic Patternist Perspective](https://arxiv.org/pdf/2103.15100v1.pdf)
 - [A Metamodel and Framework for Artificial General Intelligence From Theory to Practice](https://arxiv.org/pdf/2102.06112v1.pdf)
+- [Counterfactual Planning in AGI Systems](https://arxiv.org/pdf/2102.00834v1.pdf)
+
+
 --------------------------------
 
 #### Approches - Limitations
@@ -84,6 +87,8 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [Understanding Attention: In Minds and Machines](https://arxiv.org/pdf/2012.02659v1.pdf)
 - [Model-based actor-critic: GAN (model generator) + DRL (actor-critic) => AGI](https://arxiv.org/pdf/2004.04574v7.pdf)
 - [The whole brain architecture approach: Accelerating the development of artificial general intelligence by referring to the brain](https://arxiv.org/pdf/2103.06123v1.pdf)
+- [Model-based actor-critic: GAN (model generator) + DRL (actor-critic) => AGI](https://arxiv.org/pdf/2004.04574v9.pdf)
+
 
 ---------------------------------
 
