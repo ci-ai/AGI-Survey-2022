@@ -62,7 +62,7 @@
 - [The General Theory of General Intelligence: A Pragmatic Patternist Perspective](https://arxiv.org/pdf/2103.15100v1.pdf)
 - [A Metamodel and Framework for Artificial General Intelligence From Theory to Practice](https://arxiv.org/pdf/2102.06112v1.pdf)
 - [Counterfactual Planning in AGI Systems](https://arxiv.org/pdf/2102.00834v1.pdf)
-
+- [The Principles of Deep Learning Theory](https://arxiv.org/pdf/2106.10165.pdf)
 
 --------------------------------
 
