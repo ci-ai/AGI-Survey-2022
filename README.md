@@ -259,7 +259,8 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [Deep learning for molecular generation and optimization - a review of the state of the art](https://arxiv.org/pdf/1903.04388v1.pdf)
 - [Human-AI Symbiosis: A Survey of Current Approaches](https://arxiv.org/pdf/2103.09990v1.pdf)
 - [A Browsable Petascale Reconstruction of the Human Cortex](https://ai.googleblog.com/2021/06/a-browsable-petascale-reconstruction-of.html)
-
+- [Mobile Augmented Reality: User Interfaces, Frameworks,
+and Intelligence](https://arxiv.org/pdf/2106.08710.pdf)
 
 ---------------------------
 
