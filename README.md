@@ -396,7 +396,8 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [Linking Artificial Intelligence Principles](https://arxiv.org/ftp/arxiv/papers/1812/1812.04814.pdf)
 - [Beyond Near- and Long-Term: Towards a Clearer Account of Research Priorities in AI Ethics and Society](https://arxiv.org/pdf/2001.04335v2.pdf)
 - [On the Connections between Counterfactual Explanations and Adversarial Examples](https://arxiv.org/pdf/2106.09992.pdf)
-
+- [Know Your Model (KYM): Increasing Trust in AI and Machine
+Learning](https://arxiv.org/pdf/2106.11036.pdf)
 
 ----------------
 -----------------
