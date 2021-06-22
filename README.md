@@ -44,6 +44,8 @@
 - [The Why, What and How of Artificial General Intelligence Chip Development](https://arxiv.org/pdf/2012.06338v1.pdf)
 - [Relevant pre-AGI possibilities](https://aiimpacts.org/relevant-pre-agi-possibilities/)
 - [Creativity and Machine Learning: A Survey](https://arxiv.org/pdf/2104.02726v2.pdf)
+- [Hard Choices in Artificial Intelligence](https://arxiv.org/pdf/2106.11022.pdf)
+
 
 ---------------------
 
