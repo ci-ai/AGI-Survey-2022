@@ -91,7 +91,7 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [The whole brain architecture approach: Accelerating the development of artificial general intelligence by referring to the brain](https://arxiv.org/pdf/2103.06123v1.pdf)
 - [Model-based actor-critic: GAN (model generator) + DRL (actor-critic) => AGI](https://arxiv.org/pdf/2004.04574v9.pdf)
 - [Learning What To Do by Simulating the Past](https://bair.berkeley.edu/blog/2021/05/03/rlsp/)
-
+- [AGI logic tutorial](https://drive.google.com/file/d/1v2efrH4gVJS9wG-KKgi1uFbbCoMOc9Hl/view)
 ---------------------------------
 
 #### Tasks & Benchmarks - Comparative
