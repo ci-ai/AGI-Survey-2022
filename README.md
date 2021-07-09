@@ -402,7 +402,7 @@ and Intelligence](https://arxiv.org/pdf/2106.08710.pdf)
 - [On the Connections between Counterfactual Explanations and Adversarial Examples](https://arxiv.org/pdf/2106.09992.pdf)
 - [Know Your Model (KYM): Increasing Trust in AI and Machine
 Learning](https://arxiv.org/pdf/2106.11036.pdf)
-
+- [The Future Of Work & The Work Of The Future](https://www.slideshare.net/arturopelayo/the-future-of-work-the-work-of-the-future/18)
 ----------------
 -----------------
 
