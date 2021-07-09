@@ -403,6 +403,9 @@ and Intelligence](https://arxiv.org/pdf/2106.08710.pdf)
 - [Know Your Model (KYM): Increasing Trust in AI and Machine
 Learning](https://arxiv.org/pdf/2106.11036.pdf)
 - [The Future Of Work & The Work Of The Future](https://www.slideshare.net/arturopelayo/the-future-of-work-the-work-of-the-future/18)
+- [Study: The Future of VR, AR and Self-Driving Cars](https://www.slideshare.net/LImarketingsolutions/study-the-future-of-vr-ar-and-selfdriving-cars)
+
+
 ----------------
 -----------------
 
