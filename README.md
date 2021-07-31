@@ -198,6 +198,7 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [Convergence of Edge Computing and DeepLearning: A Comprehensive Survey](https://arxiv.org/pdf/1907.08349v3.pdf)
 - [Applications of Deep Neural Networks](https://arxiv.org/pdf/2009.05673v2.pdf)
 - [Automating Data Science: Prospects and Challenges](https://arxiv.org/pdf/2105.05699v1.pdf)
+- [Ice Core Science Meets Computer Vision: Challenges and Perspectives](https://arxiv.org/pdf/2104.04430v1.pdf)
 ------------------------------
 
 #### Computational - Limitations
