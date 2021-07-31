@@ -71,7 +71,7 @@
 - [Consciousness and Automated Reasoning](https://arxiv.org/pdf/2001.09442v3.pdf)
 - [Representation Internal-Manipulation (RIM): A Neuro-Inspired Computational Theory of Consciousness](https://arxiv.org/pdf/1912.13490v1.pdf)
 - [The Consciousness Prior](https://arxiv.org/abs/1709.08568v2)
-- []()
+- [Information Flow Theory (IFT) of Biologic and Machine Consciousness: Implications for Artificial General Intelligence and the Technological Singularity](https://arxiv.org/abs/1907.00703v1)
 - []()
 - []()
 - []()
