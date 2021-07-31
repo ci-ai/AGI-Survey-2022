@@ -69,6 +69,9 @@
 - [A Theoretical Computer Science Perspective on Consciousness](https://arxiv.org/ftp/arxiv/papers/2011/2011.09850.pdf)
 - [What Is Consciousness? Artificial Intelligence, Real Intelligence, Quantum Mind, And Qualia](https://arxiv.org/pdf/2106.15515v3.pdf)
 - [Consciousness and Automated Reasoning](https://arxiv.org/pdf/2001.09442v3.pdf)
+- [Representation Internal-Manipulation (RIM): A Neuro-Inspired Computational Theory of Consciousness](https://arxiv.org/pdf/1912.13490v1.pdf)
+
+
 --------------------------------
 
 #### Approches - Limitations
