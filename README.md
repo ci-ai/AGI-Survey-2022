@@ -74,7 +74,7 @@
 - [Information Flow Theory (IFT) of Biologic and Machine Consciousness: Implications for Artificial General Intelligence and the Technological Singularity](https://arxiv.org/abs/1907.00703v1)
 - [A theory of consciousness: computation, algorithm, and neurobiological realization](https://arxiv.org/abs/1804.02952v4)
 - [Neural Consciousness Flow](https://arxiv.org/abs/1905.13049v1)
-- []()
+- [Can Computers overcome Humans? Consciousness interaction and its implications](https://arxiv.org/abs/1706.02274v2)
 - []()
 - []()
 - []()
