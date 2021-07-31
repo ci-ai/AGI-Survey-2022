@@ -264,6 +264,8 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [A Browsable Petascale Reconstruction of the Human Cortex](https://ai.googleblog.com/2021/06/a-browsable-petascale-reconstruction-of.html)
 - [Mobile Augmented Reality: User Interfaces, Frameworks,
 and Intelligence](https://arxiv.org/pdf/2106.08710.pdf)
+- [Accelerating science with human versus alien artificial intelligences](https://arxiv.org/pdf/2104.05188v1.pdf)
+
 
 ---------------------------
 
