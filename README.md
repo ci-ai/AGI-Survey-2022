@@ -45,7 +45,7 @@
 - [Relevant pre-AGI possibilities](https://aiimpacts.org/relevant-pre-agi-possibilities/)
 - [Creativity and Machine Learning: A Survey](https://arxiv.org/pdf/2104.02726v2.pdf)
 - [Hard Choices in Artificial Intelligence](https://arxiv.org/pdf/2106.11022.pdf)
-
+- [Revisiting Citizen Science Through the Lens of Hybrid Intelligence](https://arxiv.org/ftp/arxiv/papers/2104/2104.14961.pdf)
 
 ---------------------
 
