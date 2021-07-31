@@ -70,7 +70,17 @@
 - [What Is Consciousness? Artificial Intelligence, Real Intelligence, Quantum Mind, And Qualia](https://arxiv.org/pdf/2106.15515v3.pdf)
 - [Consciousness and Automated Reasoning](https://arxiv.org/pdf/2001.09442v3.pdf)
 - [Representation Internal-Manipulation (RIM): A Neuro-Inspired Computational Theory of Consciousness](https://arxiv.org/pdf/1912.13490v1.pdf)
-
+- [The Consciousness Prior](https://arxiv.org/abs/1709.08568v2)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 --------------------------------
 
