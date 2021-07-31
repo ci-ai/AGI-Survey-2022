@@ -67,7 +67,7 @@
 - [The Principles of Deep Learning Theory](https://arxiv.org/pdf/2106.10165.pdf)
 - [A Theory of Consciousness from a Theoretical Computer Science Perspective 2: Insights from the Conscious Turing Machine](https://arxiv.org/ftp/arxiv/papers/2107/2107.13704.pdf)
 - [A Theoretical Computer Science Perspective on Consciousness](https://arxiv.org/ftp/arxiv/papers/2011/2011.09850.pdf)
-
+- [What Is Consciousness? Artificial Intelligence, Real Intelligence, Quantum Mind, And Qualia](https://arxiv.org/pdf/2106.15515v3.pdf)
 
 --------------------------------
 
