@@ -66,6 +66,9 @@
 - [Counterfactual Planning in AGI Systems](https://arxiv.org/pdf/2102.00834v1.pdf)
 - [The Principles of Deep Learning Theory](https://arxiv.org/pdf/2106.10165.pdf)
 - [A Theory of Consciousness from a Theoretical Computer Science Perspective 2: Insights from the Conscious Turing Machine](https://arxiv.org/ftp/arxiv/papers/2107/2107.13704.pdf)
+- [A Theoretical Computer Science Perspective on Consciousness](https://arxiv.org/ftp/arxiv/papers/2011/2011.09850.pdf)
+
+
 --------------------------------
 
 #### Approches - Limitations
