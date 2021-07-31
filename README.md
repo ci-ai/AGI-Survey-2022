@@ -407,7 +407,7 @@ and Intelligence](https://arxiv.org/pdf/2106.08710.pdf)
 Learning](https://arxiv.org/pdf/2106.11036.pdf)
 - [The Future Of Work & The Work Of The Future](https://www.slideshare.net/arturopelayo/the-future-of-work-the-work-of-the-future/18)
 - [Study: The Future of VR, AR and Self-Driving Cars](https://www.slideshare.net/LImarketingsolutions/study-the-future-of-vr-ar-and-selfdriving-cars)
-
+- [Imagine All the People: Citizen Science, Artificial Intelligence, and Computational Research](https://arxiv.org/ftp/arxiv/papers/2104/2104.00093.pdf)
 
 ----------------
 -----------------
