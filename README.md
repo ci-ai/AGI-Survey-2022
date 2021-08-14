@@ -109,6 +109,8 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [AGI logic tutorial - July2021](https://drive.google.com/file/d/1v2efrH4gVJS9wG-KKgi1uFbbCoMOc9Hl/view)
 - [AGI via Combining Logic with Deep Learning](https://drive.google.com/file/d/1P0D9814ivR0MScowcmWh9ISpBETlUnq-/view)
 - [Mind and matter: Modeling the human brain with machine learning](https://techxplore.com/news/2021-07-mind-human-brain-machine.html)
+- [A Survey of Human-in-the-loop for Machine Learning](https://arxiv.org/pdf/2108.00941v1.pdf)
+
 
 ---------------------------------
 
