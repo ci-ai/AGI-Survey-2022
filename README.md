@@ -258,6 +258,8 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [Opportunities and Challenges in Deep Learning Adversarial Robustness: A Survey](https://arxiv.org/pdf/2007.00753.pdf)
 - [Challenges of Privacy-Preserving Machine Learning in IoT](https://arxiv.org/pdf/1909.09804.pdf)
 - [Safety and Trustworthiness of Deep Neural Networks: A Survey](https://arxiv.org/pdf/1812.08342v2.pdf)
+- [How to avoid machine learning pitfalls: a guide for academic researchers](https://arxiv.org/pdf/2108.02497v1.pdf)
+
 
 ---------------------------
 
