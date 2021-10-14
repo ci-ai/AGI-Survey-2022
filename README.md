@@ -80,6 +80,8 @@
 - [Is Intelligence Artificial?](https://arxiv.org/abs/1403.1076v8)
 - [How to avoid ethically relevant Machine Consciousness](https://arxiv.org/ftp/arxiv/papers/1606/1606.00058.pdf)
 - [Mysteries of Visual Experience](https://arxiv.org/abs/1604.08612v5)
+- [Model-based actor-critic: GAN (model generator) + DRL (actor-critic) => AGI](https://arxiv.org/pdf/2004.04574v9.pdf)
+
 
 --------------------------------
 
