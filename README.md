@@ -287,7 +287,7 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [Mobile Augmented Reality: User Interfaces, Frameworks,
 and Intelligence](https://arxiv.org/pdf/2106.08710.pdf)
 - [Accelerating science with human versus alien artificial intelligences](https://arxiv.org/pdf/2104.05188v1.pdf)
-
+- [Analogies between Biology and Deep Learning https://t.co/AvbYmP1azq A rough short note exploring unusual analogies between biology and deep learning research.](http://colah.github.io/notes/bio-analogies/)
 
 ---------------------------
 
