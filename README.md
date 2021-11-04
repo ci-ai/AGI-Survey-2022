@@ -47,7 +47,7 @@
 - [Hard Choices in Artificial Intelligence](https://arxiv.org/pdf/2106.11022.pdf)
 - [Revisiting Citizen Science Through the Lens of Hybrid Intelligence](https://arxiv.org/ftp/arxiv/papers/2104/2104.14961.pdf)
 - [AGI-21 Conference](https://www.youtube.com/c/SingularityNET/playlists)
-
+- [Discover The Essentials State of AI Report Q2 2021](https://essentials.news/ai/reports/quarterly/q2-2021)
 
 ---------------------
 
