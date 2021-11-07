@@ -52,7 +52,7 @@
 -----------------------
 - [A First-Principles Theory of Neural
 Network Generalization](https://bair.berkeley.edu/blog/2021/10/25/eigenlearning/)
-
+- [Making RL Tractable by Learning More Informative Reward Functions: Example-Based Control, Meta-Learning, and Normalized Maximum Likelihood](https://bair.berkeley.edu/blog/2021/10/22/mural/)
 
 ---------------------
 
