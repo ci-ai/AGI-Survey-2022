@@ -48,6 +48,8 @@
 - [Revisiting Citizen Science Through the Lens of Hybrid Intelligence](https://arxiv.org/ftp/arxiv/papers/2104/2104.14961.pdf)
 - [AGI-21 Conference](https://www.youtube.com/c/SingularityNET/playlists)
 - [Discover The Essentials State of AI Report Q2 2021](https://essentials.news/ai/reports/quarterly/q2-2021)
+- [Updates and Lessons from AI Forecasting](https://bair.berkeley.edu/blog/2021/10/14/forecasting/)
+
 
 -----------------------
 - [A First-Principles Theory of Neural
