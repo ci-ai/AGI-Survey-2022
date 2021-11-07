@@ -57,7 +57,7 @@ Network Generalization](https://bair.berkeley.edu/blog/2021/10/25/eigenlearning/
 - [Making RL Tractable by Learning More Informative Reward Functions: Example-Based Control, Meta-Learning, and Normalized Maximum Likelihood](https://bair.berkeley.edu/blog/2021/10/22/mural/)
 - [Which Mutual Information Representation Learning Objectives are Sufficient for Control?](https://bair.berkeley.edu/blog/2021/10/11/mi-sufficiency-analysis/)
 - [PICO: Pragmatic Compression for Human-in-the-Loop Decision-Making](https://bair.berkeley.edu/blog/2021/10/06/pico/)
-
+- [Distilling neural networks into wavelet models using interpretations](https://bair.berkeley.edu/blog/2021/09/28/wavelet/)
 
 ---------------------
 
