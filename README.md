@@ -49,6 +49,8 @@
 - [AGI-21 Conference](https://www.youtube.com/c/SingularityNET/playlists)
 - [Discover The Essentials State of AI Report Q2 2021](https://essentials.news/ai/reports/quarterly/q2-2021)
 - [Updates and Lessons from AI Forecasting](https://bair.berkeley.edu/blog/2021/10/14/forecasting/)
+- [Real-World Challenges for AGI](https://deepmind.com/blog/article/real-world-challenges-for-agi)
+
 
 
 -----------------------
