@@ -58,6 +58,8 @@ Network Generalization](https://bair.berkeley.edu/blog/2021/10/25/eigenlearning/
 - [Which Mutual Information Representation Learning Objectives are Sufficient for Control?](https://bair.berkeley.edu/blog/2021/10/11/mi-sufficiency-analysis/)
 - [PICO: Pragmatic Compression for Human-in-the-Loop Decision-Making](https://bair.berkeley.edu/blog/2021/10/06/pico/)
 - [Distilling neural networks into wavelet models using interpretations](https://bair.berkeley.edu/blog/2021/09/28/wavelet/)
+- [What Can I Do Here? Learning New Skills by Imagining Visual Affordances](https://bair.berkeley.edu/blog/2021/09/24/visual-affordances-robotics/)
+
 
 ---------------------
 
