@@ -49,6 +49,11 @@
 - [AGI-21 Conference](https://www.youtube.com/c/SingularityNET/playlists)
 - [Discover The Essentials State of AI Report Q2 2021](https://essentials.news/ai/reports/quarterly/q2-2021)
 
+-----------------------
+- [A First-Principles Theory of Neural
+Network Generalization](https://bair.berkeley.edu/blog/2021/10/25/eigenlearning/)
+
+
 ---------------------
 
 #### Some. but all theories and theories.. and..
