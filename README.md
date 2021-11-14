@@ -72,7 +72,7 @@ NeurIPS 2021](https://energy-based-model.github.io/)
 - [Who Will Create the First Artificial General Intelligence? Tesla?](https://industrywired.com/who-will-create-the-first-artificial-general-intelligence-tesla/)
 - [Paradigms of Artificial General Intelligence and Their Associated Risks](https://www.cser.ac.uk/research/paradigms-AGI/)
 - [The General Theory of General Intelligence: A Pragmatic Patternist Perspective](https://arxiv.org/pdf/2103.15100.pdf)
-
+- [A Metamodel and Framework for Artificial General Intelligence From Theory to Practice](https://arxiv.org/pdf/2102.06112.pdf)
 
 ---------------------
 
