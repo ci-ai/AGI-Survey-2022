@@ -69,6 +69,8 @@ NeurIPS 2021](https://energy-based-model.github.io/)
 - [Building Next Generation Web-based ML Applications Using TensorFlow.js With Google](https://exchange.scale.com/public/events/next-generation-web-apps-with-tensorflowjs-2021-11-17)
 - [To create AGI, we need a new theory of intelligence](https://bdtechtalks.com/2021/08/05/artificial-intelligence-considered-response/)
 - [Peter Thiel: Artificial General Intelligence Isn't Happening](https://mindmatters.ai/2021/11/peter-thiel-artificial-general-intelligence-isnt-happening/)
+- [Who Will Create the First Artificial General Intelligence? Tesla?](https://industrywired.com/who-will-create-the-first-artificial-general-intelligence-tesla/)
+
 
 ---------------------
 
