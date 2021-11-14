@@ -64,6 +64,8 @@ Network Generalization](https://bair.berkeley.edu/blog/2021/10/25/eigenlearning/
 - [Universal Weakly Supervised Segmentation by Pixel-to-Segment Contrastive Learning](https://bair.berkeley.edu/blog/2021/07/22/spml/)
 - [The Surprising Effectiveness of PPO in Cooperative Multi-Agent Games](https://bair.berkeley.edu/blog/2021/07/14/mappo/)
 - [google-research/ibc](https://github.com/google-research/ibc) - Official implementation of Implicit Behavioral Cloning, as described in our CoRL 2021 paper, see more at https://implicitbc.github.io/
+- [Unsupervised Learning of Compositional Energy Concepts
+NeurIPS 2021](https://energy-based-model.github.io/)
 
 ---------------------
 
