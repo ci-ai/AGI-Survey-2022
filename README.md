@@ -66,7 +66,7 @@ Network Generalization](https://bair.berkeley.edu/blog/2021/10/25/eigenlearning/
 - [google-research/ibc](https://github.com/google-research/ibc) - Official implementation of Implicit Behavioral Cloning, as described in our CoRL 2021 paper, see more at https://implicitbc.github.io/
 - [Unsupervised Learning of Compositional Energy Concepts
 NeurIPS 2021](https://energy-based-model.github.io/)
-
+- [Building Next Generation Web-based ML Applications Using TensorFlow.js With Google](https://exchange.scale.com/public/events/next-generation-web-apps-with-tensorflowjs-2021-11-17)
 ---------------------
 
 #### Some. but all theories and theories.. and..
