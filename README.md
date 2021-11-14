@@ -71,6 +71,8 @@ NeurIPS 2021](https://energy-based-model.github.io/)
 - [Peter Thiel: Artificial General Intelligence Isn't Happening](https://mindmatters.ai/2021/11/peter-thiel-artificial-general-intelligence-isnt-happening/)
 - [Who Will Create the First Artificial General Intelligence? Tesla?](https://industrywired.com/who-will-create-the-first-artificial-general-intelligence-tesla/)
 - [Paradigms of Artificial General Intelligence and Their Associated Risks](https://www.cser.ac.uk/research/paradigms-AGI/)
+- [The General Theory of General Intelligence: A Pragmatic Patternist Perspective](https://arxiv.org/pdf/2103.15100.pdf)
+
 
 ---------------------
 
