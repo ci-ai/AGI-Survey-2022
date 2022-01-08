@@ -57,6 +57,8 @@ Research Tasks](https://arxiv.org/pdf/2103.04918v8.pdf)
 Artificial Intelligence: A Systematic Survey of
 Surveys on Methods and Concepts](https://arxiv.org/pdf/2105.07190v2.pdf)
 - [Towards A Measure Of General Machine Intelligence](arxiv.org/pdf/2109.12075v3.pdf)
+- [The Artificial Scientist: Logicist, Emergentist, and Universalist Approaches to Artificial General Intelligence](https://arxiv.org/pdf/2110.01831v1.pdf)
+
 
 -----------------------
 - [A First-Principles Theory of Neural
