@@ -53,6 +53,9 @@
 - [Hard choices in artificial intelligence](https://www.sciencedirect.com/science/article/pii/S0004370221001065?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_253)
 - [A Survey of Embodied AI: From Simulators to
 Research Tasks](https://arxiv.org/pdf/2103.04918v8.pdf)
+- [A Comprehensive Taxonomy for Explainable
+Artificial Intelligence: A Systematic Survey of
+Surveys on Methods and Concepts](https://arxiv.org/pdf/2105.07190v2.pdf)
 
 -----------------------
 - [A First-Principles Theory of Neural
