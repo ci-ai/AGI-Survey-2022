@@ -56,6 +56,7 @@ Research Tasks](https://arxiv.org/pdf/2103.04918v8.pdf)
 - [A Comprehensive Taxonomy for Explainable
 Artificial Intelligence: A Systematic Survey of
 Surveys on Methods and Concepts](https://arxiv.org/pdf/2105.07190v2.pdf)
+- [Towards A Measure Of General Machine Intelligence](arxiv.org/pdf/2109.12075v3.pdf)
 
 -----------------------
 - [A First-Principles Theory of Neural
