@@ -51,7 +51,8 @@
 - [Updates and Lessons from AI Forecasting](https://bair.berkeley.edu/blog/2021/10/14/forecasting/)
 - [Real-World Challenges for AGI](https://deepmind.com/blog/article/real-world-challenges-for-agi)
 - [Hard choices in artificial intelligence](https://www.sciencedirect.com/science/article/pii/S0004370221001065?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_253)
-
+- [A Survey of Embodied AI: From Simulators to
+Research Tasks](https://arxiv.org/pdf/2103.04918v8.pdf)
 
 -----------------------
 - [A First-Principles Theory of Neural
