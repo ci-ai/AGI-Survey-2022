@@ -80,7 +80,11 @@ NeurIPS 2021](https://energy-based-model.github.io/)
 - [Paradigms of Artificial General Intelligence and Their Associated Risks](https://www.cser.ac.uk/research/paradigms-AGI/)
 - [The General Theory of General Intelligence: A Pragmatic Patternist Perspective](https://arxiv.org/pdf/2103.15100.pdf)
 - [A Metamodel and Framework for Artificial General Intelligence From Theory to Practice](https://arxiv.org/pdf/2102.06112.pdf)
-
+- [Patterns of Cognition:
+Cognitive Algorithms as Galois Connections
+Fulfilled by Chronomorphisms
+On Probabilistically Typed Metagraphs
+](https://arxiv.org/pdf/2102.10581.pdf)
 ---------------------
 
 #### Some. but all theories and theories.. and..
