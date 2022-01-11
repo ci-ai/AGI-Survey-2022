@@ -59,6 +59,8 @@ Surveys on Methods and Concepts](https://arxiv.org/pdf/2105.07190v2.pdf)
 - [Towards A Measure Of General Machine Intelligence](arxiv.org/pdf/2109.12075v3.pdf)
 - [The Artificial Scientist: Logicist, Emergentist, and Universalist Approaches to Artificial General Intelligence](https://arxiv.org/pdf/2110.01831v1.pdf)
 - [The AGI hype train is running out of steam](https://thenextweb.com/news/agi-hype-fading-artificial-general-intelligence-analysisi-ai-winter)
+- [Real Superintelligence (RSI): Disrupting ANI, AGI, ASI as parts of human-threating and fake AI](https://www.linkedin.com/pulse/real-superintelligence-rsi-why-humanity-needs-how-we-abdoullaev/)
+
 
 -----------------------
 - [A First-Principles Theory of Neural
