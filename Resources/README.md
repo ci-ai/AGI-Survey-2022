@@ -3,8 +3,11 @@
 
 --------------
 
+
 ![lml](https://github.com/ci-ai/tm-i/blob/master/Resources/lml.PNG)
 -----------
+![Quantum-communication-and-quantum-measurement](https://github.com/ci-ai/AGI-Survey-2022/blob/master/Resources/Quantum-communication-and-quantum-measurement.png)
+----------
 ![MjcyNDc5NQ](https://spectrum.ieee.org/image/MjcyNDc5NQ)
 -------
 ![AGI-takeoff-speed-vs-years-commercial-software](https://reducing-suffering.org/predictions-agi-takeoff-speed-vs-years-worked-commercial-software/AGI-takeoff-speed-vs-years-commercial-software.png)
