@@ -48,3 +48,5 @@ ULTIMATE LIMIT](https://apps.dtic.mil/sti/pdfs/ADA502521.pdf)
 -----------
 ![Next-Decentrum_-NFT-explained-clayton-v2-1](https://www.visualcapitalist.com/wp-content/uploads/2021/12/Next-Decentrum_-NFT-explained-clayton-v2-1.jpg)
 ---------
+![central-banks-digital-currency-cbdc-infographic](https://www.visualcapitalist.com/wp-content/uploads/2021/11/central-banks-digital-currency-cbdc-infographic.jpg)
+-----------
