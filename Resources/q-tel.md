@@ -34,4 +34,6 @@ ULTIMATE LIMIT](https://apps.dtic.mil/sti/pdfs/ADA502521.pdf)
 -----------
 ![Companies-Gone-Public-in-2021-Updated](https://www.visualcapitalist.com/wp-content/uploads/2022/01/Companies-Gone-Public-in-2021-Updated.jpg)
 
+--------
+![ASE-Visualizing-The-Global-Semiconductor-Supply-Chain-Ful](https://www.visualcapitalist.com/wp-content/uploads/2021/12/ASE-Visualizing-The-Global-Semiconductor-Supply-Chain-Full.jpg)
 -------------
