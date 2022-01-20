@@ -37,3 +37,6 @@ ULTIMATE LIMIT](https://apps.dtic.mil/sti/pdfs/ADA502521.pdf)
 --------
 ![ASE-Visualizing-The-Global-Semiconductor-Supply-Chain-Ful](https://www.visualcapitalist.com/wp-content/uploads/2021/12/ASE-Visualizing-The-Global-Semiconductor-Supply-Chain-Full.jpg)
 -------------
+![top-10-semiconductor-companies-1](https://www.visualcapitalist.com/wp-content/uploads/2021/12/top-10-semiconductor-companies-1.jpg)
+
+-----------
