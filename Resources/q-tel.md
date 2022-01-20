@@ -1,0 +1,9 @@
+------
+![q101](https://github.com/ci-ai/AGI-Survey-2022/blob/master/Resources/q101.png)
+----------
+![q101](https://github.com/ci-ai/AGI-Survey-2022/blob/master/Resources/q102.png)
+----------
+![q101](https://github.com/ci-ai/AGI-Survey-2022/blob/master/Resources/q103.png)
+----------
+![q101](https://github.com/ci-ai/AGI-Survey-2022/blob/master/Resources/q104.png)
+----------
