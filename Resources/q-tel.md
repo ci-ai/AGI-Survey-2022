@@ -56,3 +56,6 @@ ULTIMATE LIMIT](https://apps.dtic.mil/sti/pdfs/ADA502521.pdf)
 ---------
 ![Electric-Car-Companies](https://elements.visualcapitalist.com/wp-content/uploads/2021/11/Electric-Car-Companies.jpg)
 --------
+![VC_Logiq_5](https://www.visualcapitalist.com/wp-content/uploads/2021/10/VC_Logiq_5-ECommerce-Trends-Main.jpg)
+
+-------
