@@ -17,6 +17,7 @@ ULTIMATE LIMIT](https://apps.dtic.mil/sti/pdfs/ADA502521.pdf)
 ![q101](https://github.com/ci-ai/AGI-Survey-2022/blob/master/Resources/q107.png)
 ----------
 ![q101](https://github.com/ci-ai/AGI-Survey-2022/blob/master/Resources/q108.png)
+
 ----------
 ---------------
 
@@ -29,5 +30,8 @@ ULTIMATE LIMIT](https://apps.dtic.mil/sti/pdfs/ADA502521.pdf)
 ![Visualizing-the-Evolution-of-the-Alphabet](https://www.visualcapitalist.com/wp-content/uploads/2021/12/Visualizing-the-Evolution-of-the-Alphabet.png)
 ----------
 ![Industry-4.0-Manufacturing-in-the-Digital-Era](https://www.visualcapitalist.com/wp-content/uploads/2022/01/Industry-4.0-Manufacturing-in-the-Digital-Era.jpg)
+
+-----------
+![Companies-Gone-Public-in-2021-Updated](https://www.visualcapitalist.com/wp-content/uploads/2022/01/Companies-Gone-Public-in-2021-Updated.jpg)
 
 -------------
