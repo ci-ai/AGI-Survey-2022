@@ -18,3 +18,8 @@ ULTIMATE LIMIT](https://apps.dtic.mil/sti/pdfs/ADA502521.pdf)
 ----------
 ![q101](https://github.com/ci-ai/AGI-Survey-2022/blob/master/Resources/q108.png)
 ----------
+---------------
+
+![Supercomputers_Infographic](https://www.visualcapitalist.com/wp-content/uploads/2022/01/Ranking-Supercomputers_Infographic.jpg)
+
+----------------
