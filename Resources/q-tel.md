@@ -50,3 +50,5 @@ ULTIMATE LIMIT](https://apps.dtic.mil/sti/pdfs/ADA502521.pdf)
 ---------
 ![central-banks-digital-currency-cbdc-infographic](https://www.visualcapitalist.com/wp-content/uploads/2021/11/central-banks-digital-currency-cbdc-infographic.jpg)
 -----------
+![Arca-Sponsored-Graphic-final](https://www.visualcapitalist.com/wp-content/uploads/2021/11/Arca-Sponsored-Graphic-final.jpg)
+---------
