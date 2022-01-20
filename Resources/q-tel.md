@@ -1,3 +1,6 @@
+
+- [QUANTUM LIDAR - REMOTE SENSING AT THE 
+ULTIMATE LIMIT](https://apps.dtic.mil/sti/pdfs/ADA502521.pdf)
 ------
 ![q101](https://github.com/ci-ai/AGI-Survey-2022/blob/master/Resources/q101.png)
 ----------
