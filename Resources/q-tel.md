@@ -23,3 +23,6 @@ ULTIMATE LIMIT](https://apps.dtic.mil/sti/pdfs/ADA502521.pdf)
 ![Supercomputers_Infographic](https://www.visualcapitalist.com/wp-content/uploads/2022/01/Ranking-Supercomputers_Infographic.jpg)
 
 ----------------
+![internet-giants-over-time-prev](https://www.visualcapitalist.com/wp-content/uploads/2019/01/internet-giants-over-time-prev.jpg)
+
+----------
