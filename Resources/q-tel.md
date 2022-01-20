@@ -39,4 +39,8 @@ ULTIMATE LIMIT](https://apps.dtic.mil/sti/pdfs/ADA502521.pdf)
 -------------
 ![top-10-semiconductor-companies-1](https://www.visualcapitalist.com/wp-content/uploads/2021/12/top-10-semiconductor-companies-1.jpg)
 
+
+---------
+
+![Biggest-Startups-Top-Unicorns-of-2021-Main](https://www.visualcapitalist.com/wp-content/uploads/2021/12/Biggest-Startups-Top-Unicorns-of-2021-Main.jpg)
 -----------
