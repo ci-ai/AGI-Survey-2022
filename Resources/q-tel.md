@@ -143,6 +143,6 @@ ULTIMATE LIMIT](https://apps.dtic.mil/sti/pdfs/ADA502521.pdf)
 ![gaming-history-revenue-1200px-up2](https://www.visualcapitalist.com/wp-content/uploads/2020/11/gaming-history-revenue-1200px-up2.jpg)
 
 ----------
-![]()
+![nuclear-power-generation-country-2020-2](https://www.visualcapitalist.com/wp-content/uploads/2022/01/nuclear-power-generation-country-2020-2.jpg)
 
 ----------
