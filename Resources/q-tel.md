@@ -44,3 +44,5 @@ ULTIMATE LIMIT](https://apps.dtic.mil/sti/pdfs/ADA502521.pdf)
 
 ![Biggest-Startups-Top-Unicorns-of-2021-Main](https://www.visualcapitalist.com/wp-content/uploads/2021/12/Biggest-Startups-Top-Unicorns-of-2021-Main.jpg)
 -----------
+![SocialMediaGiants_OC_MainPost_Revised](https://www.visualcapitalist.com/wp-content/uploads/2021/12/SocialMediaGiants_OC_MainPost_Revised.jpg)
+-----------
