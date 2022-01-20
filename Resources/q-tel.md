@@ -26,3 +26,5 @@ ULTIMATE LIMIT](https://apps.dtic.mil/sti/pdfs/ADA502521.pdf)
 ![internet-giants-over-time-prev](https://www.visualcapitalist.com/wp-content/uploads/2019/01/internet-giants-over-time-prev.jpg)
 
 ----------
+![Visualizing-the-Evolution-of-the-Alphabet](https://www.visualcapitalist.com/wp-content/uploads/2021/12/Visualizing-the-Evolution-of-the-Alphabet.png)
+----------
