@@ -54,3 +54,5 @@ ULTIMATE LIMIT](https://apps.dtic.mil/sti/pdfs/ADA502521.pdf)
 ---------
 ![data-never-sleeps-9-1.0-1200px-1](https://www.visualcapitalist.com/wp-content/uploads/2021/11/data-never-sleeps-9-1.0-1200px-1.png)
 ---------
+![Electric-Car-Companies](https://elements.visualcapitalist.com/wp-content/uploads/2021/11/Electric-Car-Companies.jpg)
+--------
