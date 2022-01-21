@@ -1,8 +1,9 @@
 
-- [QUANTUM LIDAR - REMOTE SENSING AT THE ULTIMATE LIMIT](https://apps.dtic.mil/sti/pdfs/ADA502521.pdf)
+- [QC-Survey - 2022](https://github.com/ci-ai/AGI-Survey-2022/blob/master/Resources/QC-Survey.pdf)
 - [Quantum Hardware Outlook 2022](https://www.factbasedinsight.com/quantum-hardware-outlook-2022/)
 - [Quantum Algorithms Outlook 2022](https://quantumcomputingreport.com/quantum-algorithms-outlook-2022/)
 - [Quantum Software Outlook 2022](https://quantumcomputingreport.com/quantum-software-outlook-2022/)
+- [QUANTUM LIDAR - REMOTE SENSING AT THE ULTIMATE LIMIT](https://apps.dtic.mil/sti/pdfs/ADA502521.pdf)
 
 ----------------
 ![1998-2026-physical-quit-roadmap-for-quantum-computer-Yole-D%C3%A9veloppement](https://s3.i-micronews.com/uploads/2021/06/1998-2026-physical-quit-roadmap-for-quantum-computer-Yole-D%C3%A9veloppement.jpg)
