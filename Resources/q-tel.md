@@ -4,8 +4,59 @@
 - [Quantum Algorithms Outlook 2022](https://quantumcomputingreport.com/quantum-algorithms-outlook-2022/)
 - [Quantum Software Outlook 2022](https://quantumcomputingreport.com/quantum-software-outlook-2022/)
 - [QUANTUM LIDAR - REMOTE SENSING AT THE ULTIMATE LIMIT](https://apps.dtic.mil/sti/pdfs/ADA502521.pdf)
+- [IBM Breaks 100-Qubit QPU Barrier, Marks Milestones on Ambitious Roadmap](https://www.hpcwire.com/2021/12/13/ibm-breaks-100-qubit-qpu-barrier-marks-milestones-on-ambitious-roadmap/)
+- [Multiverse Targets ‘Quantum Computing for the Masses’](https://www.hpcwire.com/2022/01/19/multiverse-targets-quantum-computing-for-the-masses/)
+- [IBM Adds Future Developer And Software Details To Its Quantum Roadmap](https://www.forbes.com/sites/moorinsights/2021/02/17/ibm-adds-future-developer-and-software-details-to-its-quantum-roadmap/?sh=6eed5b833139)
 
 ----------------
+-------
+
+![01_SiliconTechnology](https://www.jsap.or.jp/docs/academicroadmap2013/JSAP_ARM-01_SiliconTechnology.jpg)
+-------
+![02_OrganicAndMolecularTechnology](https://www.jsap.or.jp/docs/academicroadmap2013/JSAP_ARM-02_OrganicAndMolecularTechnology.jpg)
+
+-----------
+![03_TerahertzElectronics](https://www.jsap.or.jp/docs/academicroadmap2013/JSAP_ARM-03_TerahertzElectronics.jpg)
+--------
+![04_QuantaumInformationAndPhysics](https://www.jsap.or.jp/docs/academicroadmap2013/JSAP_ARM-04_QuantaumInformationAndPhysics.jpg)
+--------
+![05_Photonics](https://www.jsap.or.jp/docs/academicroadmap2013/JSAP_ARM-05_Photonics.jpg)
+--------
+![06_Optics](https://www.jsap.or.jp/docs/academicroadmap2013/JSAP_ARM-06_Optics.jpg)
+--------
+![07_RadiationScienceAndEngineering](https://www.jsap.or.jp/docs/academicroadmap2013/JSAP_ARM-07_RadiationScienceAndEngineering.jpg)
+--------
+![08_WidegapSemiconductorElectronics](https://www.jsap.or.jp/docs/academicroadmap2013/JSAP_ARM-08_WidegapSemiconductorElectronics.jpg)
+--------
+![09_CrystalGrowthTechnology](https://www.jsap.or.jp/docs/academicroadmap2013/JSAP_ARM-09_CrystalGrowthTechnology.jpg)
+--------
+![10_PlasmaProcessingAndRelatedTechnologies](https://www.jsap.or.jp/docs/academicroadmap2013/JSAP_ARM-10_PlasmaProcessingAndRelatedTechnologies.jpg)
+--------
+![11_Spintronics](https://www.jsap.or.jp/docs/academicroadmap2013/JSAP_ARM-11_Spintronics.jpg)
+--------
+![12_Bioelectronics](https://www.jsap.or.jp/docs/academicroadmap2013/JSAP_ARM-12_Bioelectronics.jpg)
+--------
+![13_Micro](https://www.jsap.or.jp/docs/academicroadmap2013/JSAP_ARM-13_Micro-Nano-Mechatronics.jpg)
+--------
+![14_Nano](https://www.jsap.or.jp/docs/academicroadmap2013/JSAP_ARM-14_Nano-StructureTechnology.jpg)
+--------
+![15_SuperconductingTechnology](https://www.jsap.or.jp/docs/academicroadmap2013/JSAP_ARM-15_SuperconductingTechnology.jpg)
+--------
+![16_FoodTechnology](https://www.jsap.or.jp/docs/academicroadmap2013/JSAP_ARM-16_FoodTechnology.jpg)
+--------
+![17_MedicalElectronics](https://www.jsap.or.jp/docs/academicroadmap2013/JSAP_ARM-17_MedicalElectronics.jpg)
+--------
+![18_EnvironmentAndEnergyTechnologies](https://www.jsap.or.jp/docs/academicroadmap2013/JSAP_ARM-18_EnvironmentAndEnergyTechnologies.jpg)
+--------
+![19_JSAPVisionForTheScientistsOfTomorrow](https://www.jsap.or.jp/docs/academicroadmap2013/JSAP_ARM-19_JSAPVisionForTheScientistsOfTomorrow.jpg)
+--------
+![20_SaftySecurityTechnology](https://www.jsap.or.jp/docs/academicroadmap2013/JSAP_ARM-20_SaftySecurityTechnology.jpg)
+
+---------------
+---------
+
+![04_QuantaumInformationAndPhysics](https://www.jsap.or.jp/docs/academicroadmap2013/JSAP_ARM-04_QuantaumInformationAndPhysics.jpg)
+---------
 ![1998-2026-physical-quit-roadmap-for-quantum-computer-Yole-D%C3%A9veloppement](https://s3.i-micronews.com/uploads/2021/06/1998-2026-physical-quit-roadmap-for-quantum-computer-Yole-D%C3%A9veloppement.jpg)
 --------
 ![372_abb2823_fa](https://www.science.org/cms/10.1126/science.abb2823/asset/9edeb1b1-9e3a-4b30-8efe-078306c71923/assets/graphic/372_abb2823_fa.jpeg)
@@ -53,7 +104,10 @@
 --------
 ![Slide12-scaled](https://i1.wp.com/www.factbasedinsight.com/wp-content/uploads/2022/01/Slide12-scaled.gif?)
 
-
+-----------
+![IBM-Quantum-development-roadmap](https://imageio.forbes.com/specials-images/imageserve/602d7f0357a4ac6e347db74d/IBM-Quantum-development-roadmap-/960x0.jpg?fit=bounds&format=jpg&width=960)
+----------
+![IBM-Quantum-user-stack](https://imageio.forbes.com/specials-images/imageserve/602d837b2b16ee3faf180062/IBM-Quantum-user-stack/960x0.png?fit=bounds&format=png&width=960)
 
 ----------------
 ------
