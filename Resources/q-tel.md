@@ -1,6 +1,36 @@
 
-- [QUANTUM LIDAR - REMOTE SENSING AT THE 
-ULTIMATE LIMIT](https://apps.dtic.mil/sti/pdfs/ADA502521.pdf)
+- [QUANTUM LIDAR - REMOTE SENSING AT THE ULTIMATE LIMIT](https://apps.dtic.mil/sti/pdfs/ADA502521.pdf)
+- [Quantum Hardware Outlook 2022](https://www.factbasedinsight.com/quantum-hardware-outlook-2022/)
+- [Quantum Algorithms Outlook 2022](https://quantumcomputingreport.com/quantum-algorithms-outlook-2022/)
+- [Quantum Software Outlook 2022](https://quantumcomputingreport.com/quantum-software-outlook-2022/)
+
+----------------
+![Overview-of-Quantum-Software-2022-v1_0-1](https://i0.wp.com/www.factbasedinsight.com/wp-content/uploads/2022/01/Overview-of-Quantum-Software-2022-v1_0-1.png?)
+--------
+![Slide5-scaled](https://i0.wp.com/www.factbasedinsight.com/wp-content/uploads/2022/01/Slide5-scaled.gif?)
+--------
+![Slide6-scaled](https://i1.wp.com/www.factbasedinsight.com/wp-content/uploads/2022/01/Slide6-scaled.gif?)
+
+--------
+![Overview-of-Quantum-Software-2022-v1_0.](https://i1.wp.com/www.factbasedinsight.com/wp-content/uploads/2022/01/Overview-of-Quantum-Software-2022-v1_0.png?)
+
+--------
+![Slide8-scaled](https://i0.wp.com/www.factbasedinsight.com/wp-content/uploads/2022/01/Slide8-scaled.gif?)
+
+--------
+![Slide9-scaled](https://i0.wp.com/www.factbasedinsight.com/wp-content/uploads/2022/01/Slide9-scaled.gif?)
+
+--------
+![Slide10-scaled](https://i0.wp.com/www.factbasedinsight.com/wp-content/uploads/2022/01/Slide10-scaled.gif?)
+
+--------
+![Slide11-scaled](https://i0.wp.com/www.factbasedinsight.com/wp-content/uploads/2022/01/Slide11-scaled.gif?)
+--------
+![Slide12-scaled](https://i1.wp.com/www.factbasedinsight.com/wp-content/uploads/2022/01/Slide12-scaled.gif?)
+
+
+
+----------------
 ------
 ![q101](https://github.com/ci-ai/AGI-Survey-2022/blob/master/Resources/q101.png)
 ----------
