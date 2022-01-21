@@ -153,6 +153,22 @@
 ![q101](https://github.com/ci-ai/AGI-Survey-2022/blob/master/Resources/q108.png)
 
 ----------
+![q133](https://github.com/ci-ai/AGI-Survey-2022/blob/master/Resources/q133.png)
+----------
+![q133](https://github.com/ci-ai/AGI-Survey-2022/blob/master/Resources/q134.png)
+----------
+![q133](https://github.com/ci-ai/AGI-Survey-2022/blob/master/Resources/q135.png)
+----------
+![q133](https://github.com/ci-ai/AGI-Survey-2022/blob/master/Resources/q136.png)
+----------
+![q133](https://github.com/ci-ai/AGI-Survey-2022/blob/master/Resources/q137.png)
+----------
+![q133](https://github.com/ci-ai/AGI-Survey-2022/blob/master/Resources/q138.png)
+----------
+![q133](https://github.com/ci-ai/AGI-Survey-2022/blob/master/Resources/q139.png)
+
+
+----------
 ---------------
 
 ![Supercomputers_Infographic](https://www.visualcapitalist.com/wp-content/uploads/2022/01/Ranking-Supercomputers_Infographic.jpg)
