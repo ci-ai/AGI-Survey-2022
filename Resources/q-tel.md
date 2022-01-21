@@ -6,8 +6,27 @@
 
 ----------------
 ![1998-2026-physical-quit-roadmap-for-quantum-computer-Yole-D%C3%A9veloppement](https://s3.i-micronews.com/uploads/2021/06/1998-2026-physical-quit-roadmap-for-quantum-computer-Yole-D%C3%A9veloppement.jpg)
+-------
+![2021-quantum-computer-roadmap-Yole-D%C3%A9veloppement](https://s3.i-micronews.com/uploads/2021/06/2021-quantum-computer-roadmap-Yole-D%C3%A9veloppement.jpg)
+-------
+![QED-Cframework](https://www.techdesignforums.com/wp-content/uploads/2019/07/QED-Cframework.jpeg)
+
+-------
+![TBR_QuantumComputingML_Infographic_4Q20](https://tbri.com/wp-content/uploads/2020/12/TBR_QuantumComputingML_Infographic_4Q20.jpg)
+----------
+![tbr_quantum_computing_timeline](https://tbri.com/wp-content/uploads/2019/05/tbr_quantum_computing_timeline-e1558468956811.png)
+
+----------
+![illus_quantum_technologies_marketforecast_yole_jan2020](http://www.yole.fr/iso_album/illus_quantum_technologies_marketforecast_yole_jan2020.jpg)
+--------
+![illus_quantum_technologies_2020_2030_marketforecast_yole_june2021](http://www.yole.fr/iso_album/illus_quantum_technologies_2020_2030_marketforecast_yole_june2021.jpg) `
 
 ------------
+---------
+![illus_quantum_technologies_architectureshematic_yole_jan2020](http://www.yole.fr/iso_album/illus_quantum_technologies_architectureshematic_yole_jan2020.jpg)
+---------
+![illus_quantum_technologies_supplychain_yole_jan2020](http://www.yole.fr/iso_album/illus_quantum_technologies_supplychain_yole_jan2020.jpg)
+--------
 ![Overview-of-Quantum-Software-2022-v1_0-1](https://i0.wp.com/www.factbasedinsight.com/wp-content/uploads/2022/01/Overview-of-Quantum-Software-2022-v1_0-1.png?)
 --------
 ![Slide5-scaled](https://i0.wp.com/www.factbasedinsight.com/wp-content/uploads/2022/01/Slide5-scaled.gif?)
