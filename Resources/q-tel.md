@@ -5,6 +5,9 @@
 - [Quantum Software Outlook 2022](https://quantumcomputingreport.com/quantum-software-outlook-2022/)
 
 ----------------
+![1998-2026-physical-quit-roadmap-for-quantum-computer-Yole-D%C3%A9veloppement](https://s3.i-micronews.com/uploads/2021/06/1998-2026-physical-quit-roadmap-for-quantum-computer-Yole-D%C3%A9veloppement.jpg)
+
+------------
 ![Overview-of-Quantum-Software-2022-v1_0-1](https://i0.wp.com/www.factbasedinsight.com/wp-content/uploads/2022/01/Overview-of-Quantum-Software-2022-v1_0-1.png?)
 --------
 ![Slide5-scaled](https://i0.wp.com/www.factbasedinsight.com/wp-content/uploads/2022/01/Slide5-scaled.gif?)
