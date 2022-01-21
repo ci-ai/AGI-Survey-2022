@@ -6,6 +6,8 @@
 
 ----------------
 ![1998-2026-physical-quit-roadmap-for-quantum-computer-Yole-D%C3%A9veloppement](https://s3.i-micronews.com/uploads/2021/06/1998-2026-physical-quit-roadmap-for-quantum-computer-Yole-D%C3%A9veloppement.jpg)
+--------
+![372_abb2823_fa](https://www.science.org/cms/10.1126/science.abb2823/asset/9edeb1b1-9e3a-4b30-8efe-078306c71923/assets/graphic/372_abb2823_fa.jpeg)
 -------
 ![2021-quantum-computer-roadmap-Yole-D%C3%A9veloppement](https://s3.i-micronews.com/uploads/2021/06/2021-quantum-computer-roadmap-Yole-D%C3%A9veloppement.jpg)
 -------
