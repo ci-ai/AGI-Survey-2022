@@ -89,7 +89,7 @@ On Probabilistically Typed Metagraphs
 ](https://arxiv.org/pdf/2102.10581.pdf)
 - [Technologies for Trustworthy Machine Learning: A Survey in a Socio-Technical Context](https://arxiv.org/pdf/2007.08911v3.pdf)
 - [Survey on Federated Learning Threats: concepts, taxonomy on attacks and defences, experimental study and challenges](https://arxiv.org/pdf/2201.08135v1.pdf)
-
+- [A Survey on Training Challenges in Generative Adversarial Networks for Biomedical Image Analysis](https://arxiv.org/pdf/2201.07646v1.pdf)
 
 ---------------------
 
