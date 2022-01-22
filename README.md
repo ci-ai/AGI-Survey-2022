@@ -93,6 +93,8 @@ On Probabilistically Typed Metagraphs
 - [Transformers in Vision: A Survey](arxiv.org/pdf/2101.01169v5.pdf)
 - [Reinforcement Learning for Ridesharing: An Extended Survey](https://arxiv.org/pdf/2105.01099v3.pdf)
 - [A Literature Survey of Recent Advances in Chatbots](arxiv.org/pdf/2201.06657v1.pdf)
+- [Video Transformers: A Survey](arxiv.org/pdf/2201.05991v1.pdf)
+- [Survey and Perspective on Social Emotions in Robotics](https://arxiv.org/pdf/2105.09647v3.pdf)
 
 
 ---------------------
