@@ -87,6 +87,7 @@ Cognitive Algorithms as Galois Connections
 Fulfilled by Chronomorphisms
 On Probabilistically Typed Metagraphs
 ](https://arxiv.org/pdf/2102.10581.pdf)
+- [Technologies for Trustworthy Machine Learning: A Survey in a Socio-Technical Context](https://arxiv.org/pdf/2007.08911v3.pdf)
 ---------------------
 
 #### Some. but all theories and theories.. and..
