@@ -105,6 +105,7 @@ On Probabilistically Typed Metagraphs
 - [Physical Activity Recognition by Utilising Smartphone Sensor Signals](https://arxiv.org/ftp/arxiv/papers/2201/2201.08688.pdf)
 - [Designer Modeling through Design Style Clustering](https://arxiv.org/pdf/2004.01697v3.pdf)
 - [Fairness On The Ground: Applying Algorithmic Fairness Approaches to Production Systems](https://arxiv.org/pdf/2103.06172v2.pdf)
+- [PyTorch Tabular: A Framework for Deep Learning with Tabular Data](https://arxiv.org/ftp/arxiv/papers/2104/2104.13638.pdf)
 ---------------------
 
 #### Some. but all theories and theories.. and..
