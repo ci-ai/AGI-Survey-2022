@@ -101,7 +101,7 @@ On Probabilistically Typed Metagraphs
 - [Stitch it in Time: GAN-Based Facial Editing of Real Videos](https://arxiv.org/pdf/2201.08361v2.pdf)
 - [Transferability in Deep Learning: A Survey](https://arxiv.org/pdf/2201.05867v1.pdf)
 - [DeepSSM: A Blueprint for Image-to-Shape Deep Learning Models](https://arxiv.org/pdf/2110.07152v1.pdf)
-
+- [Physical Activity Recognition by Utilising Smartphone Sensor Signals](https://arxiv.org/ftp/arxiv/papers/2201/2201.08688.pdf)
 ---------------------
 
 #### Some. but all theories and theories.. and..
