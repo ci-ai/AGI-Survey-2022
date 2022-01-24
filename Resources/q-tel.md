@@ -12,7 +12,7 @@
 - [Quantum computing in silicon hits 99% accuracy](https://phys.org/news/2022-01-quantum-silicon-accuracy.html)
 - [Semiconductor spin qubits gain further credibility as leading platform for quantum computing](https://phys.org/news/2022-01-semiconductor-qubits-gain-credibility-platform.html)
 - [Towards compact quantum computers thanks to topology](https://phys.org/news/2022-01-compact-quantum-topology.html)
-
+- [Research demonstrates a new technique for improving long-distance quantum key distribution in a real-world field](https://phys.org/news/2022-01-technique-long-distance-quantum-key-real-world.html)
 
 
 ----------------
