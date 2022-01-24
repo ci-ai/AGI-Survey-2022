@@ -98,6 +98,7 @@ On Probabilistically Typed Metagraphs
 - [Human Evaluation of Conversations is an Open Problem: comparing the sensitivity of various methods for evaluating dialogue agents](https://arxiv.org/pdf/2201.04723v1.pdf)
 - [LaMDA: Language Models for Dialog Applications](https://arxiv.org/pdf/2201.08239v1.pdf)
 - [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/pdf/2112.09332v1.pdf)
+- [Stitch it in Time: GAN-Based Facial Editing of Real Videos](https://arxiv.org/pdf/2201.08361v2.pdf)
 ---------------------
 
 #### Some. but all theories and theories.. and..
