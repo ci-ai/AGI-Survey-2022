@@ -141,7 +141,7 @@ On Probabilistically Typed Metagraphs
 - [Model-based actor-critic: GAN (model generator) + DRL (actor-critic) => AGI](https://arxiv.org/pdf/2004.04574v9.pdf)
 - [Neuro-Symbolic VQA: A review from the perspective of AGI desiderata](https://arxiv.org/pdf/2104.06365v1.pdf)
 - [Simulation Intelligence: Towards a New Generation of Scientific Methods](https://arxiv.org/pdf/2112.03235.pdf)
-
+- [A Psychopathological Approach to Safety Engineering in AI and AGI](https://arxiv.org/pdf/1805.08915v1.pdf)
 
 --------------------------------
 
