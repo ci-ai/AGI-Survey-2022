@@ -99,6 +99,9 @@ On Probabilistically Typed Metagraphs
 - [LaMDA: Language Models for Dialog Applications](https://arxiv.org/pdf/2201.08239v1.pdf)
 - [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/pdf/2112.09332v1.pdf)
 - [Stitch it in Time: GAN-Based Facial Editing of Real Videos](https://arxiv.org/pdf/2201.08361v2.pdf)
+- [Transferability in Deep Learning: A Survey](https://arxiv.org/pdf/2201.05867v1.pdf)
+
+
 ---------------------
 
 #### Some. but all theories and theories.. and..
