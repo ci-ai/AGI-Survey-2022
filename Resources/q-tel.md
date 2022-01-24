@@ -9,6 +9,8 @@
 - [IBM Adds Future Developer And Software Details To Its Quantum Roadmap](https://www.forbes.com/sites/moorinsights/2021/02/17/ibm-adds-future-developer-and-software-details-to-its-quantum-roadmap/?sh=6eed5b833139)
 - [Faster technique for resetting quantum circuits proposed](https://phys.org/news/2022-01-faster-technique-resetting-quantum-circuits.html)
 - [A three-qubit entangled state has been realized in a fully controllable array of spin qubits in silicon](https://phys.org/news/2022-01-scientists-key-elements-fault-tolerant-quantum.html)
+- [Quantum computing in silicon hits 99% accuracy](https://phys.org/news/2022-01-quantum-silicon-accuracy.html)
+- [Semiconductor spin qubits gain further credibility as leading platform for quantum computing](https://phys.org/news/2022-01-semiconductor-qubits-gain-credibility-platform.html)
 
 
 
