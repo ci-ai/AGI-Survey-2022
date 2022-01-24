@@ -95,8 +95,8 @@ On Probabilistically Typed Metagraphs
 - [A Literature Survey of Recent Advances in Chatbots](arxiv.org/pdf/2201.06657v1.pdf)
 - [Video Transformers: A Survey](arxiv.org/pdf/2201.05991v1.pdf)
 - [Survey and Perspective on Social Emotions in Robotics](https://arxiv.org/pdf/2105.09647v3.pdf)
-- [uman Evaluation of Conversations is an Open Problem: comparing the sensitivity of various methods for evaluating dialogue agents](https://arxiv.org/pdf/2201.04723v1.pdf)
-
+- [Human Evaluation of Conversations is an Open Problem: comparing the sensitivity of various methods for evaluating dialogue agents](https://arxiv.org/pdf/2201.04723v1.pdf)
+- [LaMDA: Language Models for Dialog Applications](https://arxiv.org/pdf/2201.08239v1.pdf)
 ---------------------
 
 #### Some. but all theories and theories.. and..
