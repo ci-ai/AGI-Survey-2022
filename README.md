@@ -109,6 +109,9 @@ On Probabilistically Typed Metagraphs
 - [alpha-Deep Probabilistic Inference (alpha-DPI): efficient uncertainty quantification from exoplanet astrometry to black hole feature extraction](https://arxiv.org/pdf/2201.08506v1.pdf)
 - [Object Detection in Aerial Images: What Improves the Accuracy?](https://arxiv.org/pdf/2201.08763v1.pdf)
 - [Automated Reinforcement Learning (AutoRL): A Survey and Open Problems](https://arxiv.org/pdf/2201.03916.pdf)
+- [Automotive Outlook: 2022](https://semiengineering.com/automotive-outlook-2022/)
+
+
 ---------------------
 
 #### Some. but all theories and theories.. and..
