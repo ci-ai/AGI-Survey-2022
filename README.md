@@ -108,6 +108,7 @@ On Probabilistically Typed Metagraphs
 - [PyTorch Tabular: A Framework for Deep Learning with Tabular Data](https://arxiv.org/ftp/arxiv/papers/2104/2104.13638.pdf)
 - [alpha-Deep Probabilistic Inference (alpha-DPI): efficient uncertainty quantification from exoplanet astrometry to black hole feature extraction](https://arxiv.org/pdf/2201.08506v1.pdf)
 - [Object Detection in Aerial Images: What Improves the Accuracy?](https://arxiv.org/pdf/2201.08763v1.pdf)
+- [Automated Reinforcement Learning (AutoRL): A Survey and Open Problems](https://arxiv.org/pdf/2201.03916.pdf)
 ---------------------
 
 #### Some. but all theories and theories.. and..
