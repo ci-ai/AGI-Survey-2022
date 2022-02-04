@@ -113,6 +113,7 @@ On Probabilistically Typed Metagraphs
 
 -----------------
 - [Graph Coloring with Physics-Inspired Graph Neural Networks](https://arxiv.org/pdf/2202.01606.pdf)
+- [AlphaDesign: A graph protein design method and benchmark on AlphaFoldDB](https://arxiv.org/pdf/2202.01079.pdf)
 ---------------------
 
 #### Some. but all theories and theories.. and..
