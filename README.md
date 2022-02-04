@@ -119,7 +119,7 @@ On Probabilistically Typed Metagraphs
 - [Sim2Real Object-Centric Keypoint Detection and Description](https://arxiv.org/pdf/2202.00448.pdf)
 - [Causal Explanations and XAI](https://arxiv.org/pdf/2201.13169.pdf)
 - [Computational Complexity of Segmentation](https://arxiv.org/pdf/2201.13106.pdf)
-
+- [Computational Metacognition](https://arxiv.org/ftp/arxiv/papers/2201/2201.12885.pdf)
 ---------------------
 
 #### Some. but all theories and theories.. and..
