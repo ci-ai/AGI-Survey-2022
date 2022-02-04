@@ -116,7 +116,7 @@ On Probabilistically Typed Metagraphs
 - [AlphaDesign: A graph protein design method and benchmark on AlphaFoldDB](https://arxiv.org/pdf/2202.01079.pdf)
 - [FEDERATED LEARNING CHALLENGES AND OPPORTUNITIES: AN OUTLOOK](https://arxiv.org/pdf/2202.00807.pdf)
 - [Explainable AI through the Learning of Arguments](https://arxiv.org/pdf/2202.00383.pdf)
-
+- [Sim2Real Object-Centric Keypoint Detection and Description](https://arxiv.org/pdf/2202.00448.pdf)
 
 ---------------------
 
