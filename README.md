@@ -125,6 +125,8 @@ Research Manifesto](https://arxiv.org/pdf/2201.12855.pdf)
 - [A BRIEF OVERVIEW OF PHYSICS-INSPIRED METAHEURISTIC
 OPTIMIZATION TECHNIQUES
 ](https://arxiv.org/pdf/2201.12810.pdf)
+- [Don’t Change the Algorithm, Change the Data:
+Exploratory Data for Offline Reinforcement Learning](https://arxiv.org/pdf/2201.13425.pdf)
 
 ---------------------
 
