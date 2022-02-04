@@ -117,6 +117,8 @@ On Probabilistically Typed Metagraphs
 - [FEDERATED LEARNING CHALLENGES AND OPPORTUNITIES: AN OUTLOOK](https://arxiv.org/pdf/2202.00807.pdf)
 - [Explainable AI through the Learning of Arguments](https://arxiv.org/pdf/2202.00383.pdf)
 - [Sim2Real Object-Centric Keypoint Detection and Description](https://arxiv.org/pdf/2202.00448.pdf)
+- [Causal Explanations and XAI](https://arxiv.org/pdf/2201.13169.pdf)
+
 
 ---------------------
 
