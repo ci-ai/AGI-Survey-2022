@@ -111,7 +111,8 @@ On Probabilistically Typed Metagraphs
 - [Automated Reinforcement Learning (AutoRL): A Survey and Open Problems](https://arxiv.org/pdf/2201.03916.pdf)
 - [Automotive Outlook: 2022](https://semiengineering.com/automotive-outlook-2022/)
 
-
+-----------------
+- [Graph Coloring with Physics-Inspired Graph Neural Networks](https://arxiv.org/pdf/2202.01606.pdf)
 ---------------------
 
 #### Some. but all theories and theories.. and..
