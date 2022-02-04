@@ -130,6 +130,7 @@ Exploratory Data for Offline Reinforcement Learning](https://arxiv.org/pdf/2201.
 - [NAS-BENCH-SUITE:
 NAS EVALUATION IS (NOW) SURPRISINGLY EASY](https://arxiv.org/pdf/2201.13396.pdf)
 - [Fair ranking: a critical review, challenges, and future directions](https://arxiv.org/pdf/2201.12662.pdf)
+- [Bioinspired Cortex-based Fast Codebook Generatio](arxiv.org/pdf/2201.12322.pdf)
 ---------------------
 
 #### Some. but all theories and theories.. and..
