@@ -122,7 +122,9 @@ On Probabilistically Typed Metagraphs
 - [Computational Metacognition](https://arxiv.org/ftp/arxiv/papers/2201/2201.12885.pdf)
 - [Augmented Business Process Management Systems: A
 Research Manifesto](https://arxiv.org/pdf/2201.12855.pdf)
-
+- [A BRIEF OVERVIEW OF PHYSICS-INSPIRED METAHEURISTIC
+OPTIMIZATION TECHNIQUES
+](https://arxiv.org/pdf/2201.12810.pdf)
 
 ---------------------
 
