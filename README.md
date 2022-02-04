@@ -127,7 +127,8 @@ OPTIMIZATION TECHNIQUES
 ](https://arxiv.org/pdf/2201.12810.pdf)
 - [Don’t Change the Algorithm, Change the Data:
 Exploratory Data for Offline Reinforcement Learning](https://arxiv.org/pdf/2201.13425.pdf)
-
+- [NAS-BENCH-SUITE:
+NAS EVALUATION IS (NOW) SURPRISINGLY EASY](https://arxiv.org/pdf/2201.13396.pdf)
 ---------------------
 
 #### Some. but all theories and theories.. and..
