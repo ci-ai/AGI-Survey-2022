@@ -120,6 +120,10 @@ On Probabilistically Typed Metagraphs
 - [Causal Explanations and XAI](https://arxiv.org/pdf/2201.13169.pdf)
 - [Computational Complexity of Segmentation](https://arxiv.org/pdf/2201.13106.pdf)
 - [Computational Metacognition](https://arxiv.org/ftp/arxiv/papers/2201/2201.12885.pdf)
+- [Augmented Business Process Management Systems: A
+Research Manifesto](https://arxiv.org/pdf/2201.12855.pdf)
+
+
 ---------------------
 
 #### Some. but all theories and theories.. and..
