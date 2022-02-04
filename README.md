@@ -62,7 +62,7 @@ Surveys on Methods and Concepts](https://arxiv.org/pdf/2105.07190v2.pdf)
 - [Real Superintelligence (RSI): Disrupting ANI, AGI, ASI as parts of human-threating and fake AI](https://www.linkedin.com/pulse/real-superintelligence-rsi-why-humanity-needs-how-we-abdoullaev/)
 - [Why AI is Harder Than We Think](arxiv.org/pdf/2104.12871v2.pdf)
 - [Prospective Learning: Back to the Future](arxiv.org/pdf/2201.07372v1.pdf)
-- [FEDERATED LEARNING CHALLENGES AND OPPORTUNITIES: AN OUTLOOK](https://arxiv.org/pdf/2202.00807.pdf)
+
 -----------------------
 - [A First-Principles Theory of Neural
 Network Generalization](https://bair.berkeley.edu/blog/2021/10/25/eigenlearning/)
@@ -114,6 +114,10 @@ On Probabilistically Typed Metagraphs
 -----------------
 - [Graph Coloring with Physics-Inspired Graph Neural Networks](https://arxiv.org/pdf/2202.01606.pdf)
 - [AlphaDesign: A graph protein design method and benchmark on AlphaFoldDB](https://arxiv.org/pdf/2202.01079.pdf)
+- [FEDERATED LEARNING CHALLENGES AND OPPORTUNITIES: AN OUTLOOK](https://arxiv.org/pdf/2202.00807.pdf)
+- [Explainable AI through the Learning of Arguments](https://arxiv.org/pdf/2202.00383.pdf)
+
+
 ---------------------
 
 #### Some. but all theories and theories.. and..
