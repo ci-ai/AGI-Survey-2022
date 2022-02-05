@@ -110,6 +110,10 @@ On Probabilistically Typed Metagraphs
 - [Object Detection in Aerial Images: What Improves the Accuracy?](https://arxiv.org/pdf/2201.08763v1.pdf)
 - [Automated Reinforcement Learning (AutoRL): A Survey and Open Problems](https://arxiv.org/pdf/2201.03916.pdf)
 - [Automotive Outlook: 2022](https://semiengineering.com/automotive-outlook-2022/)
+- [imodels: leveraging the unreasonable effectiveness of rules](https://bair.berkeley.edu/blog/2022/02/02/imodels/)
+- [Competitive programming with AlphaCode](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode)
+- [Why It’s So Hard to Regulate Algorithms](https://themarkup.org/news/2022/01/04/why-its-so-hard-to-regulate-algorithms)
+
 
 -----------------
 - [Graph Coloring with Physics-Inspired Graph Neural Networks](https://arxiv.org/pdf/2202.01606.pdf)
@@ -170,8 +174,6 @@ of the hippocampal formation](https://arxiv.org/pdf/2202.01682.pdf)
 - [Neuro-Symbolic VQA: A review from the perspective of AGI desiderata](https://arxiv.org/pdf/2104.06365v1.pdf)
 - [Simulation Intelligence: Towards a New Generation of Scientific Methods](https://arxiv.org/pdf/2112.03235.pdf)
 - [A Psychopathological Approach to Safety Engineering in AI and AGI](https://arxiv.org/pdf/1805.08915v1.pdf)
-- [imodels: leveraging the unreasonable effectiveness of rules](https://bair.berkeley.edu/blog/2022/02/02/imodels/)
-- [Competitive programming with AlphaCode](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode)
 
 
 --------------------------------
