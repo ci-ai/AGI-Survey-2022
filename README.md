@@ -114,6 +114,8 @@ On Probabilistically Typed Metagraphs
 - [Competitive programming with AlphaCode](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode)
 - [Why It’s So Hard to Regulate Algorithms](https://themarkup.org/news/2022/01/04/why-its-so-hard-to-regulate-algorithms)
 - [Now Physical Jobs Are Going Remote Too](https://www.wired.com/story/now-physical-jobs-going-remote/)
+- [Artificial intelligence system rapidly predicts how two proteins will attach](https://news.mit.edu/2022/ai-predicts-protein-docking-0201)
+
 
 -----------------
 - [Graph Coloring with Physics-Inspired Graph Neural Networks](https://arxiv.org/pdf/2202.01606.pdf)
