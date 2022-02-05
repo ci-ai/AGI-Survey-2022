@@ -171,6 +171,8 @@ of the hippocampal formation](https://arxiv.org/pdf/2202.01682.pdf)
 - [Simulation Intelligence: Towards a New Generation of Scientific Methods](https://arxiv.org/pdf/2112.03235.pdf)
 - [A Psychopathological Approach to Safety Engineering in AI and AGI](https://arxiv.org/pdf/1805.08915v1.pdf)
 - [imodels: leveraging the unreasonable effectiveness of rules](https://bair.berkeley.edu/blog/2022/02/02/imodels/)
+- [Competitive programming with AlphaCode](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode)
+
 
 --------------------------------
 
