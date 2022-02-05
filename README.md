@@ -170,6 +170,7 @@ of the hippocampal formation](https://arxiv.org/pdf/2202.01682.pdf)
 - [Neuro-Symbolic VQA: A review from the perspective of AGI desiderata](https://arxiv.org/pdf/2104.06365v1.pdf)
 - [Simulation Intelligence: Towards a New Generation of Scientific Methods](https://arxiv.org/pdf/2112.03235.pdf)
 - [A Psychopathological Approach to Safety Engineering in AI and AGI](https://arxiv.org/pdf/1805.08915v1.pdf)
+- [imodels: leveraging the unreasonable effectiveness of rules](https://bair.berkeley.edu/blog/2022/02/02/imodels/)
 
 --------------------------------
 
