@@ -345,6 +345,8 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [Natural Language Generation at Scale: A Case Study for Open Domain Question Answering](https://arxiv.org/pdf/1903.08097v1.pdf)
 - [Scaling Scaling Laws with Board Games](https://arxiv.org/pdf/2104.03113v1.pdf)
 - [High-performance, Distributed Training of Large-scale Deep Learning Recommendation Models](https://arxiv.org/pdf/2104.05158v2.pdf)
+- [From Distributed Machine Learning to Federated Learning: A Survey](https://arxiv.org/pdf/2104.14362v3.pdf)
+
 
 --------------------------------------
 
