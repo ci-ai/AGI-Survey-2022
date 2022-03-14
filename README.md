@@ -531,7 +531,7 @@ Learning](https://arxiv.org/pdf/2106.11036.pdf)
 - [Study: The Future of VR, AR and Self-Driving Cars](https://www.slideshare.net/LImarketingsolutions/study-the-future-of-vr-ar-and-selfdriving-cars)
 - [Imagine All the People: Citizen Science, Artificial Intelligence, and Computational Research](https://arxiv.org/ftp/arxiv/papers/2104/2104.00093.pdf)
 - [Unsolved ML Safety Problems](https://bair.berkeley.edu/blog/2021/09/29/ml-safety/)
-
+- [Poisoning Attacks and Defenses on Artificial Intelligence: A Survey](https://arxiv.org/pdf/2202.10276v2.pdf)
 
 ----------------
 -----------------
