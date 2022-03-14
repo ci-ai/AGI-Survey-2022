@@ -348,7 +348,7 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [From Distributed Machine Learning to Federated Learning: A Survey](https://arxiv.org/pdf/2104.14362v3.pdf)
 - [A Comprehensive Survey and Performance Analysis of Activation Functions in Deep Learning](https://arxiv.org/pdf/2109.14545v2.pdf)
 - [A Survey of Large-Scale Deep Learning Serving System Optimization: Challenges and Opportunities](https://arxiv.org/pdf/2111.14247v2.pdf)
-
+- [Survey on Large Scale Neural Network Training](https://arxiv.org/pdf/2202.10435v1.pdf)
 
 --------------------------------------
 
