@@ -210,6 +210,8 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [Mind and matter: Modeling the human brain with machine learning](https://techxplore.com/news/2021-07-mind-human-brain-machine.html)
 - [A Survey of Human-in-the-loop for Machine Learning](https://arxiv.org/pdf/2108.00941v1.pdf)
 - [A Survey on Neural Network Interpretability](https://arxiv.org/pdf/2012.14261v3.pdf)
+- [Approaches to Artificial General Intelligence: An Analysis](https://arxiv.org/ftp/arxiv/papers/2202/2202.03153.pdf)
+
 
 ---------------------------------
 
