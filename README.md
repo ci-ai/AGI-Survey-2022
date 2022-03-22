@@ -62,6 +62,8 @@ Surveys on Methods and Concepts](https://arxiv.org/pdf/2105.07190v2.pdf)
 - [Real Superintelligence (RSI): Disrupting ANI, AGI, ASI as parts of human-threating and fake AI](https://www.linkedin.com/pulse/real-superintelligence-rsi-why-humanity-needs-how-we-abdoullaev/)
 - [Why AI is Harder Than We Think](arxiv.org/pdf/2104.12871v2.pdf)
 - [Prospective Learning: Back to the Future](arxiv.org/pdf/2201.07372v1.pdf)
+- [Existence and perception as the basis of AGI (Artificial General Intelligence)](https://arxiv.org/ftp/arxiv/papers/2202/2202.03155.pdf)
+
 
 -----------------------
 - [A First-Principles Theory of Neural
