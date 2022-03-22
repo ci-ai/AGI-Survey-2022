@@ -352,7 +352,7 @@ paradigm for producing general artificial intelligence](https://arxiv.org/pdf/19
 - [A Survey of Large-Scale Deep Learning Serving System Optimization: Challenges and Opportunities](https://arxiv.org/pdf/2111.14247v2.pdf)
 - [Survey on Large Scale Neural Network Training](https://arxiv.org/pdf/2202.10435v1.pdf)
 - [Compute Trends Across Three Eras of Machine Learning](https://arxiv.org/pdf/2202.05924v1.pdf)
-
+- [Computational Lens on Cognition: Study Of Autobiographical Versus Imagined Stories With Large-Scale Language Models](https://arxiv.org/pdf/2201.02662.pdf)
 
 --------------------------------------
 
