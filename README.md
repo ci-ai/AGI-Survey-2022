@@ -460,7 +460,7 @@ and Intelligence](https://arxiv.org/pdf/2106.08710.pdf)
 - [Intelligence Explosion Microeconomics](https://intelligence.org/files/IEM.pdf)
 - [Artificial Intelligence as Structural Estimation: Economic Interpretations of Deep Blue, Bonanza, and AlphaGo](https://arxiv.org/pdf/1710.10967v3.pdf)
 - [The Global Artificial Intelligence Landscape](https://asgard.vc/global-ai/)
-
+- [Learning from All Vehicles](https://arxiv.org/pdf/2203.11934.pdf)
 ----------------------------
 
 #### AGI Risks, Safety Measures & Organizations
@@ -537,7 +537,6 @@ Learning](https://arxiv.org/pdf/2106.11036.pdf)
 - [Unsolved ML Safety Problems](https://bair.berkeley.edu/blog/2021/09/29/ml-safety/)
 - [Poisoning Attacks and Defenses on Artificial Intelligence: A Survey](https://arxiv.org/pdf/2202.10276v2.pdf)
 - [Adversarial Robustness in Deep Learning: Attacks on Fragile Neurons](https://arxiv.org/pdf/2201.12347.pdf)
-
 
 ----------------
 -----------------
