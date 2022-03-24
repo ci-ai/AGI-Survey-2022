@@ -141,6 +141,7 @@ NAS EVALUATION IS (NOW) SURPRISINGLY EASY](https://arxiv.org/pdf/2201.13396.pdf)
 - [Bioinspired Cortex-based Fast Codebook Generatio](arxiv.org/pdf/2201.12322.pdf)
 - [How to build a cognitive map: insights from models
 of the hippocampal formation](https://arxiv.org/pdf/2202.01682.pdf)
+- [Hybrid Quantum Algorithms for Quantum Monte Carlo](https://ai.googleblog.com/2022/03/hybrid-quantum-algorithms-for-quantum.html)
 ---------------------
 
 #### Some. but all theories and theories.. and..
