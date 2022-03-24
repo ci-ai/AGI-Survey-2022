@@ -150,7 +150,7 @@ of the hippocampal formation](https://arxiv.org/pdf/2202.01682.pdf)
 - [Robust Graph Neural Networks](https://ai.googleblog.com/2022/03/robust-graph-neural-networks.html)
 - [12 Graphs That Explain the State of AI in 2022 The 2022 AI Index talks jobs, investments, ethics, and more](https://spectrum.ieee.org/artificial-intelligence-index)
 - [Andrew Ng predicts the next 10 years in AI](https://venturebeat.com/2022/03/21/andrew-ng-predicts-the-next-10-years-in-ai)
-
+- [Google uses deep learning to design faster, smaller AI chips](https://www.theregister.com/2022/03/18/google_deep_learning_chip_design/)
 ---------------------
 
 #### Some. but all theories and theories.. and..
