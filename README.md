@@ -152,6 +152,7 @@ of the hippocampal formation](https://arxiv.org/pdf/2202.01682.pdf)
 - [Andrew Ng predicts the next 10 years in AI](https://venturebeat.com/2022/03/21/andrew-ng-predicts-the-next-10-years-in-ai)
 - [Google uses deep learning to design faster, smaller AI chips](https://www.theregister.com/2022/03/18/google_deep_learning_chip_design/)
 - [Nvidia reveals H100 GPU for AI and teases ‘world’s fastest AI supercomputer’](https://www.theverge.com/2022/3/22/22989182/nvidia-ai-hopper-architecture-h100-gpu-eos-supercomputer)
+- [top-artificial-intelligence-writers-you-should-know-about-in-2022](https://www.analyticsinsight.net/top-artificial-intelligence-writers-you-should-know-about-in-2022/)
 
 
 
