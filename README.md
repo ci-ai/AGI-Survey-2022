@@ -65,6 +65,10 @@ Surveys on Methods and Concepts](https://arxiv.org/pdf/2105.07190v2.pdf)
 - [Existence and perception as the basis of AGI (Artificial General Intelligence)](https://arxiv.org/ftp/arxiv/papers/2202/2202.03155.pdf)
 - [Analysis of Neural Fragility: Bounding the Norm of a Rank-One Perturbation Matrix](https://arxiv.org/pdf/2202.07026.pdf)
 - [The Artificial Scientist: Logicist, Emergentist, and Universalist Approaches to Artificial General Intelligence](https://arxiv.org/pdf/2110.01831.pdf)
+
+
+
+
 -----------------------
 - [A First-Principles Theory of Neural
 Network Generalization](https://bair.berkeley.edu/blog/2021/10/25/eigenlearning/)
@@ -144,6 +148,8 @@ of the hippocampal formation](https://arxiv.org/pdf/2202.01682.pdf)
 - [Hybrid Quantum Algorithms for Quantum Monte Carlo](https://ai.googleblog.com/2022/03/hybrid-quantum-algorithms-for-quantum.html)
 - [Multimodal Bottleneck Transformer (MBT): A New Model for Modality Fusion](https://ai.googleblog.com/2022/03/multimodal-bottleneck-transformer-mbt.html)
 - [Robust Graph Neural Networks](https://ai.googleblog.com/2022/03/robust-graph-neural-networks.html)
+- [12 Graphs That Explain the State of AI in 2022 The 2022 AI Index talks jobs, investments, ethics, and more](https://spectrum.ieee.org/artificial-intelligence-index)
+
 ---------------------
 
 #### Some. but all theories and theories.. and..
