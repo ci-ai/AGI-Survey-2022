@@ -156,7 +156,7 @@ of the hippocampal formation](https://arxiv.org/pdf/2202.01682.pdf)
 - [Ethics and AI: 3 Conversations Companies Need to Have](https://hbr.org/2022/03/ethics-and-ai-3-conversations-companies-need-to-be-having)
 - [The Movement to Decolonize AI: Centering Dignity Over Dependency](https://hai.stanford.edu/news/movement-decolonize-ai-centering-dignity-over-dependency?)
 - [a-report-from-the-universities-of-oxford-and-bologna-will-help-protect-society-from-unethical-ai-with-a-world-first-approach-to-support-organisations-to-meet-future-eu-regulations](https://www.oii.ox.ac.uk/news-events/news/a-report-from-the-universities-of-oxford-and-bologna-will-help-protect-society-from-unethical-ai-with-a-world-first-approach-to-support-organisations-to-meet-future-eu-regulations/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_267)
-
+- [KAWASAKI BEX ROBOT GOAT IS AN ODD VISION FOR TRAVEL AND CARGO OF THE FUTURE](https://www.yankodesign.com/2022/03/16/kawasaki-bex-robot-goat-is-an-odd-vision-for-travel-and-cargo-of-the-future/)
 
 
 
