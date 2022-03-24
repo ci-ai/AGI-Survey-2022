@@ -1,5 +1,5 @@
 
-#### AGI Survey 2020
+#### AGI Survey 2022
 -----------
 
 [AGI Outline & Contents](https://www.springer.com/cda/content/document/cda_downloaddocument/9783540237334-t1.pdf?SGWID=0-0-45-330093-p43950079)
@@ -162,7 +162,7 @@ of the hippocampal formation](https://arxiv.org/pdf/2202.01682.pdf)
 Future Together](http://ailife.ai/)
 - [MIT research suggests AI can learn to identify images using synthetic data](https://www.siliconrepublic.com/machines/machine-learning-images-mit-ai?)
 - [DeepMind’s new AI gives historians a powerful new tool to interpret the past](https://arstechnica.com/science/2022/03/deepminds-new-ai-tool-helps-resolve-debate-over-ancient-athenian-decrees/)
-
+- [The 2022 AI Index: Industrialization of AI and Mounting Ethical Concerns](https://hai.stanford.edu/news/2022-ai-index-industrialization-ai-and-mounting-ethical-concerns)
 
 
 
