@@ -161,7 +161,7 @@ of the hippocampal formation](https://arxiv.org/pdf/2202.01682.pdf)
 - [Change The
 Future Together](http://ailife.ai/)
 - [MIT research suggests AI can learn to identify images using synthetic data](https://www.siliconrepublic.com/machines/machine-learning-images-mit-ai?)
-
+- [DeepMind’s new AI gives historians a powerful new tool to interpret the past](https://arstechnica.com/science/2022/03/deepminds-new-ai-tool-helps-resolve-debate-over-ancient-athenian-decrees/)
 
 
 
