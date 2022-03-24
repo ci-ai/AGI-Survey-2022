@@ -154,7 +154,7 @@ of the hippocampal formation](https://arxiv.org/pdf/2202.01682.pdf)
 - [Nvidia reveals H100 GPU for AI and teases ‘world’s fastest AI supercomputer’](https://www.theverge.com/2022/3/22/22989182/nvidia-ai-hopper-architecture-h100-gpu-eos-supercomputer)
 - [top-artificial-intelligence-writers-you-should-know-about-in-2022](https://www.analyticsinsight.net/top-artificial-intelligence-writers-you-should-know-about-in-2022/)
 - [Ethics and AI: 3 Conversations Companies Need to Have](https://hbr.org/2022/03/ethics-and-ai-3-conversations-companies-need-to-be-having)
-
+- [The Movement to Decolonize AI: Centering Dignity Over Dependency](https://hai.stanford.edu/news/movement-decolonize-ai-centering-dignity-over-dependency?)
 
 ---------------------
 
