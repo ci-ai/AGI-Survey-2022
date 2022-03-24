@@ -142,6 +142,7 @@ NAS EVALUATION IS (NOW) SURPRISINGLY EASY](https://arxiv.org/pdf/2201.13396.pdf)
 - [How to build a cognitive map: insights from models
 of the hippocampal formation](https://arxiv.org/pdf/2202.01682.pdf)
 - [Hybrid Quantum Algorithms for Quantum Monte Carlo](https://ai.googleblog.com/2022/03/hybrid-quantum-algorithms-for-quantum.html)
+- [Multimodal Bottleneck Transformer (MBT): A New Model for Modality Fusion](https://ai.googleblog.com/2022/03/multimodal-bottleneck-transformer-mbt.html)
 ---------------------
 
 #### Some. but all theories and theories.. and..
