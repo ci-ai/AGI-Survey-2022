@@ -160,7 +160,7 @@ of the hippocampal formation](https://arxiv.org/pdf/2202.01682.pdf)
 - [A Decade of Open Robotics](https://www.openrobotics.org/blog/2022/3/22/a-decade-of-open-robotics)
 - [Change The
 Future Together](http://ailife.ai/)
-
+- [MIT research suggests AI can learn to identify images using synthetic data](https://www.siliconrepublic.com/machines/machine-learning-images-mit-ai?)
 
 
 
