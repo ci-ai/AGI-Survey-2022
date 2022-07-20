@@ -187,6 +187,7 @@ AI that ‘serves [human] needs’](https://arxiv.org/pdf/2202.04977.pdf)
 - [Towards artificial general intelligence via a multimodal foundation model](https://www.nature.com/articles/s41467-022-30761-2)
 - [The Mathematics of Artificial Intelligence](https://arxiv.org/pdf/2203.08890.pdf)
 - [Meta’s Yann LeCun strives for human-level AI](https://venturebeat.com/2022/03/21/metas-yann-lecun-strives-for-human-level-ai/)
+- [Pathways Language Model (PaLM): Scaling to 540 Billion Parameters for Breakthrough Performance](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
 
 ---------------------
 
