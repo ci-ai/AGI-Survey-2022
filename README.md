@@ -186,6 +186,7 @@ AI that ‘serves [human] needs’](https://arxiv.org/pdf/2202.04977.pdf)
 - [Trends in AI — June 2022](https://www.zeta-alpha.com/post/trends-in-ai-june-2022)
 - [Towards artificial general intelligence via a multimodal foundation model](https://www.nature.com/articles/s41467-022-30761-2)
 - [The Mathematics of Artificial Intelligence](https://arxiv.org/pdf/2203.08890.pdf)
+- [Meta’s Yann LeCun strives for human-level AI](https://venturebeat.com/2022/03/21/metas-yann-lecun-strives-for-human-level-ai/)
 
 ---------------------
 
