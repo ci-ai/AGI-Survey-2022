@@ -176,7 +176,7 @@ INTELLIGENCE](https://arxiv.org/pdf/2203.13762.pdf)
 - [AI CHALLENGES FOR SOCIETY AND ETHICS](https://arxiv.org/pdf/2206.11068.pdf)
 - [Needs-aware Artificial Intelligence:
 AI that ‘serves [human] needs’](https://arxiv.org/pdf/2202.04977.pdf)
-
+- [LeCun's 2022 paper on autonomous machine intelligence rehashes but does not cite essential work of 1990-2015](https://people.idsia.ch/~juergen/lecun-rehash-1990-2022.html)
 
 ---------------------
 
