@@ -181,6 +181,7 @@ AI that ‘serves [human] needs’](https://arxiv.org/pdf/2202.04977.pdf)
 - [Robustness to fundamental uncertainty in AGI alignment](https://www.arxiv-vanity.com/papers/1807.09836/)
 - [Gato, the latest from Deepmind. Towards true AI?](https://towardsdatascience.com/gato-the-latest-from-deepmind-towards-true-ai-1ac06e1d18cd)
 - [On the Controllability of Artificial Intelligence: An Analysis of Limitations](https://journals.riverpublishers.com/index.php/JCSANDM/article/view/16219)
+- [Google Deepmind Intros Generalist AI Which May Lead to AGI](https://www.nextbigfuture.com/2022/06/175991.html)
 
 ---------------------
 
