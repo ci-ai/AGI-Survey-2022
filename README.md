@@ -168,7 +168,7 @@ Future Together](http://ailife.ai/)
 -------------------
 - [Approaches to Artificial General Intelligence: An Analysis](https://arxiv.org/ftp/arxiv/papers/2202/2202.03153.pdf)
 - [Computable Artificial General Intelligence](https://arxiv.org/pdf/2205.10513.pdf)
-
+- [Artificial Open World for Evaluating AGI: a Conceptual Design](https://arxiv.org/pdf/2206.01044.pdf)
 
 
 
