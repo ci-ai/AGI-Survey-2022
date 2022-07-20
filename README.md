@@ -183,6 +183,7 @@ AI that ‘serves [human] needs’](https://arxiv.org/pdf/2202.04977.pdf)
 - [On the Controllability of Artificial Intelligence: An Analysis of Limitations](https://journals.riverpublishers.com/index.php/JCSANDM/article/view/16219)
 - [Google Deepmind Intros Generalist AI Which May Lead to AGI](https://www.nextbigfuture.com/2022/06/175991.html)
 - [GPT-3 prompts: Technical progress or just AI alchemy?](https://analyticsindiamag.com/gpt-3-prompts-technical-progress-or-just-ai-alchemy/)
+- [Trends in AI — June 2022](https://www.zeta-alpha.com/post/trends-in-ai-june-2022)
 
 ---------------------
 
