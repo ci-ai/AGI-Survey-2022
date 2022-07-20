@@ -165,7 +165,8 @@ Future Together](http://ailife.ai/)
 - [The 2022 AI Index: Industrialization of AI and Mounting Ethical Concerns](https://hai.stanford.edu/news/2022-ai-index-industrialization-ai-and-mounting-ethical-concerns)
 
 
-
+-------------------
+- [Approaches to Artificial General Intelligence: An Analysis](https://arxiv.org/ftp/arxiv/papers/2202/2202.03153.pdf)
 
 
 
