@@ -185,6 +185,7 @@ AI that ‘serves [human] needs’](https://arxiv.org/pdf/2202.04977.pdf)
 - [GPT-3 prompts: Technical progress or just AI alchemy?](https://analyticsindiamag.com/gpt-3-prompts-technical-progress-or-just-ai-alchemy/)
 - [Trends in AI — June 2022](https://www.zeta-alpha.com/post/trends-in-ai-june-2022)
 - [Towards artificial general intelligence via a multimodal foundation model](https://www.nature.com/articles/s41467-022-30761-2)
+- [The Mathematics of Artificial Intelligence](https://arxiv.org/pdf/2203.08890.pdf)
 
 ---------------------
 
