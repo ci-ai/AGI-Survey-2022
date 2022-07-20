@@ -178,6 +178,7 @@ INTELLIGENCE](https://arxiv.org/pdf/2203.13762.pdf)
 AI that ‘serves [human] needs’](https://arxiv.org/pdf/2202.04977.pdf)
 - [LeCun's 2022 paper on autonomous machine intelligence rehashes but does not cite essential work of 1990-2015](https://people.idsia.ch/~juergen/lecun-rehash-1990-2022.html)
 - [AGI via Combining Logic with Deep Learning](https://dl.acm.org/doi/abs/10.1007/978-3-030-93758-4_34)
+- [Robustness to fundamental uncertainty in AGI alignment](https://www.arxiv-vanity.com/papers/1807.09836/)
 
 ---------------------
 
