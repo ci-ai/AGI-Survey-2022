@@ -172,6 +172,7 @@ Future Together](http://ailife.ai/)
 - [Artificial Open World for Evaluating AGI: a Conceptual Design](https://arxiv.org/pdf/2206.01044.pdf)
 - [A WORLD-SELF MODEL TOWARDS UNDERSTANDING
 INTELLIGENCE](https://arxiv.org/pdf/2203.13762.pdf)
+- [A General Framework for the Representation of Function and Affordance: A Cognitive, Causal, and Grounded Approach, and a Step Toward AGI](https://arxiv.org/ftp/arxiv/papers/2206/2206.05273.pdf)
 
 
 
