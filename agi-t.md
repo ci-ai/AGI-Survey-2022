@@ -26,3 +26,6 @@
 - Robotic and Virtual Embodiment
 - Simulation and Emergent Behavior
 - Solomonoff Induction
+
+-----------------
+- [Springer’s Lecture Notes in AI series](https://www.springer.com/series/1244)
