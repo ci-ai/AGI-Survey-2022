@@ -29,3 +29,6 @@
 
 -----------------
 - [Springer’s Lecture Notes in AI series](https://www.springer.com/series/1244)
+- [The Artificial General Intelligence Society is a nonprofit organization with the following goals](http://box5690.temp.domains/~agisocie/)
+
+-----------------------
