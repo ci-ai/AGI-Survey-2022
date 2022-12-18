@@ -585,6 +585,7 @@ Learning](https://arxiv.org/pdf/2106.11036.pdf)
 - [Unsolved ML Safety Problems](https://bair.berkeley.edu/blog/2021/09/29/ml-safety/)
 - [Poisoning Attacks and Defenses on Artificial Intelligence: A Survey](https://arxiv.org/pdf/2202.10276v2.pdf)
 - [Adversarial Robustness in Deep Learning: Attacks on Fragile Neurons](https://arxiv.org/pdf/2201.12347.pdf)
+- [My AGI safety research—2022 review, ’23 plans](https://www.lesswrong.com/posts/qusBXzCpxijTudvBB/my-agi-safety-research-2022-review-23-plans)
 
 ----------------
 -----------------
