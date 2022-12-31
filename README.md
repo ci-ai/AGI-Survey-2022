@@ -132,6 +132,7 @@ On Probabilistically Typed Metagraphs
 - [Bridging the Gap between Artificial Intelligence and Artificial General Intelligence: A Ten Commandment Framework for Human-Like Intelligence](https://arxiv.org/ftp/arxiv/papers/2210/2210.09366.pdf)
 - [Computable Artificial General Intelligence](https://arxiv.org/pdf/2205.10513.pdf)
 - [The Embeddings World and Artificial General Intelligence](https://arxiv.org/pdf/2209.06569.pdf)
+- [Towards artificial general intelligence via a multimodal foundation model](https://arxiv.org/pdf/2110.14378.pdf)
 
 
 -----------------
