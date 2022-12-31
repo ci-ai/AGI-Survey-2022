@@ -123,6 +123,10 @@ On Probabilistically Typed Metagraphs
 - [Artificial intelligence system rapidly predicts how two proteins will attach](https://news.mit.edu/2022/ai-predicts-protein-docking-0201)
 - [The Ecosystem Path to General AI](https://arxiv.org/pdf/2108.07578.pdf)
 
+-------------------
+- [Compression, The Fermi Paradox and Artificial Super-Intelligence](https://arxiv.org/pdf/2110.01835.pdf)
+
+
 -----------------
 - [Graph Coloring with Physics-Inspired Graph Neural Networks](https://arxiv.org/pdf/2202.01606.pdf)
 - [AlphaDesign: A graph protein design method and benchmark on AlphaFoldDB](https://arxiv.org/pdf/2202.01079.pdf)
