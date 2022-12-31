@@ -136,7 +136,11 @@ On Probabilistically Typed Metagraphs
 - [Towards better Interpretable and Generalizable AD detection using Collective Artificial Intelligence](https://arxiv.org/pdf/2206.03247.pdf)
 - [Deep Learning and Artificial General Intelligence: Still a Long Way to Go](https://arxiv.org/pdf/2203.14963.pdf
 - [Navigating Conceptual Space; A new take on Artificial General Intelligence](https://arxiv.org/pdf/2202.09646.pdf)
-
+- [Existence and perception as the basis of AGI (Artificial General Intelligence)](https://arxiv.org/ftp/arxiv/papers/2202/2202.03155.pdf)
+- [Approaches to Artificial General Intelligence: An Analysis](https://arxiv.org/ftp/arxiv/papers/2202/2202.03153.pdf)
+- [The Artificial Scientist: Logicist, Emergentist, and Universalist Approaches to Artificial General Intelligence](https://arxiv.org/pdf/2110.01831.pdf)
+- [Auxiliary Learning as a step towards Artificial General Intelligence](https://arxiv.org/pdf/2212.00061.pdf)
+- [ACE: Towards Application-Centric Edge-Cloud Collaborative Intelligence](https://arxiv.org/pdf/2203.13061.pdf)
 
 -----------------
 - [Graph Coloring with Physics-Inspired Graph Neural Networks](https://arxiv.org/pdf/2202.01606.pdf)
