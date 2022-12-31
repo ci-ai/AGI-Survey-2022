@@ -125,6 +125,7 @@ On Probabilistically Typed Metagraphs
 
 -------------------
 - [Compression, The Fermi Paradox and Artificial Super-Intelligence](https://arxiv.org/pdf/2110.01835.pdf)
+- [On the link between conscious function and general intelligence in humans and machines](https://arxiv.org/pdf/2204.05133.pdf)
 
 
 -----------------
