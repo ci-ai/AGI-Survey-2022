@@ -133,6 +133,7 @@ On Probabilistically Typed Metagraphs
 - [Computable Artificial General Intelligence](https://arxiv.org/pdf/2205.10513.pdf)
 - [The Embeddings World and Artificial General Intelligence](https://arxiv.org/pdf/2209.06569.pdf)
 - [Towards artificial general intelligence via a multimodal foundation model](https://arxiv.org/pdf/2110.14378.pdf)
+- [Towards better Interpretable and Generalizable AD detection using Collective Artificial Intelligence](https://arxiv.org/pdf/2206.03247.pdf)
 
 
 -----------------
