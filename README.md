@@ -128,6 +128,7 @@ On Probabilistically Typed Metagraphs
 - [On the link between conscious function and general intelligence in humans and machines](https://arxiv.org/pdf/2204.05133.pdf)
 - [Towards A Measure Of General Machine Intelligence](https://arxiv.org/pdf/2109.12075.pdf)
 - [Memorization and Generalization in Neural Code Intelligence Models](https://arxiv.org/pdf/2106.08704.pdf)
+- [General Intelligence Requires Rethinking Exploration](https://arxiv.org/pdf/2211.07819.pdf)
 
 
 -----------------
