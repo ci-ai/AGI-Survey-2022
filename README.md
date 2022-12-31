@@ -135,6 +135,7 @@ On Probabilistically Typed Metagraphs
 - [Towards artificial general intelligence via a multimodal foundation model](https://arxiv.org/pdf/2110.14378.pdf)
 - [Towards better Interpretable and Generalizable AD detection using Collective Artificial Intelligence](https://arxiv.org/pdf/2206.03247.pdf)
 - [Deep Learning and Artificial General Intelligence: Still a Long Way to Go](https://arxiv.org/pdf/2203.14963.pdf
+- [Navigating Conceptual Space; A new take on Artificial General Intelligence](https://arxiv.org/pdf/2202.09646.pdf)
 
 
 -----------------
