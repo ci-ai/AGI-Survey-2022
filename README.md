@@ -129,6 +129,7 @@ On Probabilistically Typed Metagraphs
 - [Towards A Measure Of General Machine Intelligence](https://arxiv.org/pdf/2109.12075.pdf)
 - [Memorization and Generalization in Neural Code Intelligence Models](https://arxiv.org/pdf/2106.08704.pdf)
 - [General Intelligence Requires Rethinking Exploration](https://arxiv.org/pdf/2211.07819.pdf)
+- [Bridging the Gap between Artificial Intelligence and Artificial General Intelligence: A Ten Commandment Framework for Human-Like Intelligence](https://arxiv.org/ftp/arxiv/papers/2210/2210.09366.pdf)
 
 
 -----------------
