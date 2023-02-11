@@ -1,0 +1,1 @@
+- [Achieving Next-Level Value From AI By Focusing On The Operational Side Of Machine Learning](https://www.forbes.com/sites/forbestechcouncil/2023/01/17/achieving-next-level-value-from-ai-by-focusing-on-the-operational-side-of-machine-learning)
