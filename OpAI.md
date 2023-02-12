@@ -1,2 +1,3 @@
 - [Achieving Next-Level Value From AI By Focusing On The Operational Side Of Machine Learning](https://www.forbes.com/sites/forbestechcouncil/2023/01/17/achieving-next-level-value-from-ai-by-focusing-on-the-operational-side-of-machine-learning)
 - [Text-to-audio generation is here: One of the next big AI disruptions could be in the music industry](https://techxplore.com/news/2023-02-text-to-audio-generation-big-ai-disruptions.html)
+- [AI May Actually Help Humanize Financial Services](https://www.forbes.com/sites/joemckendrick/2023/01/28/artificial-intelligence-may-actually-help-humanize-financial-services/)
