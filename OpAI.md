@@ -3,3 +3,4 @@
 - [AI May Actually Help Humanize Financial Services](https://www.forbes.com/sites/joemckendrick/2023/01/28/artificial-intelligence-may-actually-help-humanize-financial-services/)
 - [Lucy 4 is Moving Ahead with Generative AI for Knowledge Management](https://www.artificialintelligence-news.com/2023/02/03/lucy-4-is-moving-ahead-generative-ai-for-knowledge-management/)
 - [AIOps Market to exceed $38 Bn by 2032](https://www.globenewswire.com/en/news-release/2023/01/24/2593849/0/en/AIOps-Market-to-exceed-38-Bn-by-2032-Says-Global-Market-Insights-Inc.html)
+- [Use of AI and Machine Learning in Detecting and Preventing Network Security Breaches](https://www.bignewsnetwork.com/news/273357691/use-of-artificial-intelligence-and-machine-learning-in-detecting-and-preventing-network-security-breaches)
