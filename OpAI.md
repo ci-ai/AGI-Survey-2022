@@ -6,3 +6,4 @@
 - [Use of AI and Machine Learning in Detecting and Preventing Network Security Breaches](https://www.bignewsnetwork.com/news/273357691/use-of-artificial-intelligence-and-machine-learning-in-detecting-and-preventing-network-security-breaches)
 - [Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation](https://paperswithcode.com/paper/plug-and-play-diffusion-features-for-text)
 - [BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining](https://arxiv.org/pdf/2210.10341v2.pdf)
+- [Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery](https://arxiv.org/pdf/2302.03668v1.pdf)
