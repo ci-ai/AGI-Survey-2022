@@ -7,3 +7,4 @@
 - [Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation](https://paperswithcode.com/paper/plug-and-play-diffusion-features-for-text)
 - [BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining](https://arxiv.org/pdf/2210.10341v2.pdf)
 - [Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery](https://arxiv.org/pdf/2302.03668v1.pdf)
+- [Offsite-Tuning: Transfer Learning without Full Model](https://arxiv.org/pdf/2302.04870v1.pdf)
