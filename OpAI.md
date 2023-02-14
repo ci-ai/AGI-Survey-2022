@@ -5,3 +5,4 @@
 - [AIOps Market to exceed $38 Bn by 2032](https://www.globenewswire.com/en/news-release/2023/01/24/2593849/0/en/AIOps-Market-to-exceed-38-Bn-by-2032-Says-Global-Market-Insights-Inc.html)
 - [Use of AI and Machine Learning in Detecting and Preventing Network Security Breaches](https://www.bignewsnetwork.com/news/273357691/use-of-artificial-intelligence-and-machine-learning-in-detecting-and-preventing-network-security-breaches)
 - [Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation](https://paperswithcode.com/paper/plug-and-play-diffusion-features-for-text)
+- [BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining](https://arxiv.org/pdf/2210.10341v2.pdf)
