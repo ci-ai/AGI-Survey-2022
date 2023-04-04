@@ -223,6 +223,8 @@ AI that ‘serves [human] needs’](https://arxiv.org/pdf/2202.04977.pdf)
 - [Humans in Humans Out: On GPT Converging Toward Common Sense in both Success and Failure](http://arxiv.org/abs/2303.17276)
 - [Advances in apparent conceptual physics reasoning in ChatGPT-4](http://arxiv.org/abs/2303.17012)
 - [Evaluating GPT-3.5 and GPT-4 Models on Brazilian University Admission Exams](http://arxiv.org/abs/2303.17003)
+- [GPT-4 Technical Report](https://arxiv.org/pdf/2303.08774.pdf)
+
 
 ---------------------
 
