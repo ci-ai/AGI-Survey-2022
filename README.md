@@ -214,6 +214,8 @@ AI that ‘serves [human] needs’](https://arxiv.org/pdf/2202.04977.pdf)
 - [Purposeful and Operation-based Cognitive System for AGI](https://arxiv.org/pdf/2301.13556.pdf)
 - [Safety without alignment](https://arxiv.org/pdf/2303.00752.pdf)
 - [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/pdf/2303.17580v2.pdf)
+- [A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT](http://arxiv.org/abs/2302.09419)
+
 
 ---------------------
 
