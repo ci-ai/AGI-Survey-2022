@@ -212,6 +212,8 @@ AI that ‘serves [human] needs’](https://arxiv.org/pdf/2202.04977.pdf)
 - [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/pdf/2303.12712.pdf)
 - [When Brain-inspired AI Meets AGI](https://arxiv.org/pdf/2303.15935.pdf)
 - [Purposeful and Operation-based Cognitive System for AGI](https://arxiv.org/pdf/2301.13556.pdf)
+- [Safety without alignment](https://arxiv.org/pdf/2303.00752.pdf)
+
 
 ---------------------
 
