@@ -227,6 +227,8 @@ AI that ‘serves [human] needs’](https://arxiv.org/pdf/2202.04977.pdf)
 - [GPTEval: NLG Evaluation using GPT-4 with Better Human Alignment](https://arxiv.org/pdf/2303.16634.pdf)
 - [Mind meets machine: Unravelling GPT-4’s cognitive psychology](https://www.arxiv-vanity.com/papers/2303.11436/)
 - [A Survey of Large Language Models](https://arxiv.org/pdf/2303.18223v1.pdf)
+- [ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks](https://arxiv.org/pdf/2303.15056v1.pdf)
+- [GPT is becoming a Turing machine: Here are some ways to program it](https://arxiv.org/pdf/2303.14310v1.pdf)
 
 ---------------------
 
