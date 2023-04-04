@@ -221,6 +221,8 @@ AI that ‘serves [human] needs’](https://arxiv.org/pdf/2202.04977.pdf)
 - [BloombergGPT: A Large Language Model for Finance](http://arxiv.org/abs/2303.17564)
 - [Assessing Cross-Cultural Alignment between ChatGPT and Human Societies: An Empirical Study](http://arxiv.org/abs/2303.17466)
 - [Humans in Humans Out: On GPT Converging Toward Common Sense in both Success and Failure](http://arxiv.org/abs/2303.17276)
+- [Advances in apparent conceptual physics reasoning in ChatGPT-4](http://arxiv.org/abs/2303.17012)
+
 
 ---------------------
 
