@@ -1,5 +1,5 @@
 
-#### AGI Survey 2022
+#### AGI Survey 2023
 -----------
 
 [AGI Outline & Contents](https://www.springer.com/cda/content/document/cda_downloaddocument/9783540237334-t1.pdf?SGWID=0-0-45-330093-p43950079)
@@ -216,7 +216,7 @@ AI that ‘serves [human] needs’](https://arxiv.org/pdf/2202.04977.pdf)
 - [a survey on GPT-3](http://arxiv.org/abs/2212.00857)
 - [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/pdf/2303.17580v2.pdf)
 - [A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT](http://arxiv.org/abs/2302.09419)
-
+- [A Complete Survey on Generative AI (AIGC): Is ChatGPT from GPT-4 to GPT-5 All You Need?](http://arxiv.org/abs/2303.11717)
 
 ---------------------
 
