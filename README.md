@@ -208,6 +208,9 @@ AI that ‘serves [human] needs’](https://arxiv.org/pdf/2202.04977.pdf)
 - [Meta’s Yann LeCun strives for human-level AI](https://venturebeat.com/2022/03/21/metas-yann-lecun-strives-for-human-level-ai/)
 - [Pathways Language Model (PaLM): Scaling to 540 Billion Parameters for Breakthrough Performance](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
 
+--------------
+- [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/pdf/2303.12712.pdf)
+
 ---------------------
 
 #### Some. but all theories and theories.. and..
