@@ -1,4 +1,10 @@
 
+![image](https://github.com/ci-ai/AGI-Survey-2022/assets/4322266/859f6f2e-867c-4e59-94f7-bd5e540e6e44)
+
+----------
+![image](https://github.com/ci-ai/AGI-Survey-2022/assets/4322266/3653240f-9255-4662-a100-8aadeda97499)
+
+------------
 ![image](https://github.com/gopala-kr/language-models/assets/4322266/bcffac65-fee9-442c-bcef-f1065bb77c58)
 ---------
 
