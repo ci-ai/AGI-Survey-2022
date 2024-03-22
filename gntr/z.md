@@ -30,6 +30,12 @@
 --------
 ![image](https://github.com/ci-ai/AGI-Survey-2022/assets/4322266/098eeb74-8e0a-4f02-b860-9744f7273f90)
 
+-----
+![image](https://github.com/ci-ai/AGI-Survey-2022/assets/4322266/48f39f51-50a2-4f85-bf4e-6f05646fb11d)
+
+----------
+![image](https://github.com/ci-ai/AGI-Survey-2022/assets/4322266/845e3550-f8f5-43a9-b255-6ff2e4619468)
+
 -----------
 ![image](https://github.com/ci-ai/AGI-Survey-2022/assets/4322266/1f96efae-a345-4c4b-95ae-fb44a1cfb806)
 
@@ -243,12 +249,29 @@
 ![image](https://github.com/ci-ai/AGI-Survey-2022/assets/4322266/c4c7f5a7-b877-4c81-8970-23c3bd430e89)
 
 -----------------
+![image](https://github.com/ci-ai/AGI-Survey-2022/assets/4322266/0b24e7a3-693d-4a2f-b97c-1e468d78eec2)
+
 -------------------
+![image](https://github.com/ci-ai/AGI-Survey-2022/assets/4322266/59b3964b-c70b-4662-96bd-3867532cd641)
+
 -------------
+
+![image](https://github.com/ci-ai/AGI-Survey-2022/assets/4322266/b4cb1853-6cfc-482a-9c42-0740b2b9462e)
+
 -------------------
+
+![image](https://github.com/ci-ai/AGI-Survey-2022/assets/4322266/0764e070-f1f6-4e5b-b0d8-90daea02440e)
+
 -----------------
+
+![image](https://github.com/ci-ai/AGI-Survey-2022/assets/4322266/04410e6b-304d-4cc7-8cef-146ceb58d197)
+
 -------------------
+![image](https://github.com/ci-ai/AGI-Survey-2022/assets/4322266/323d4a82-55fe-4c3c-ba07-16c3040db7b0)
+
 -------------
+![image](https://github.com/ci-ai/AGI-Survey-2022/assets/4322266/19eecdb9-2486-4f3c-8122-0ab9c8eda669)
+
 -------------------
 -----------------
 -------------------
