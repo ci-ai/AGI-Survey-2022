@@ -1,9 +1,17 @@
 
+
+![image](https://github.com/ci-ai/AGI-Survey-2022/assets/4322266/c94e8f78-7297-4264-8abb-bb1177dbef90)
+
+-----------------
+
 ![image](https://github.com/ci-ai/AGI-Survey-2022/assets/4322266/dd034508-e728-4170-8d5b-0c1cc32b6102)
 
 ----------
 ![image](https://github.com/ci-ai/AGI-Survey-2022/assets/4322266/150df138-bc26-4be6-bbe1-a109ef16b364)
 
+
+--------
+![image](https://github.com/ci-ai/AGI-Survey-2022/assets/4322266/e6ada273-a40f-4332-bc0a-c225917f4f4f)
 
 -------------
 ![image](https://github.com/ci-ai/AGI-Survey-2022/assets/4322266/859f6f2e-867c-4e59-94f7-bd5e540e6e44)
