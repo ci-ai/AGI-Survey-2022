@@ -11,6 +11,26 @@
 ------------
 ![image](https://github.com/gopala-kr/language-models/assets/4322266/d2bdc083-bb53-4abf-b54b-754d44fc15c8)
 
+---------
+![image](https://github.com/ci-ai/AGI-Survey-2022/assets/4322266/9c4700f6-2483-4e68-8a69-32eb4520ed3f)
+
+--------------
+![image](https://github.com/ci-ai/AGI-Survey-2022/assets/4322266/23149ddb-dd6f-4bc5-8d08-05e7d6a95234)
+
+-----------
+![image](https://github.com/ci-ai/AGI-Survey-2022/assets/4322266/a493f3df-7572-4742-bb4f-f7483c0481e5)
+--------
+![image](https://github.com/ci-ai/AGI-Survey-2022/assets/4322266/636654c7-b477-4c52-878f-308c2a7783bd)
+---------
+![image](https://github.com/ci-ai/AGI-Survey-2022/assets/4322266/8f6d2884-d430-4911-bd69-f7b0c7d25fe5)
+--------
+![image](https://github.com/ci-ai/AGI-Survey-2022/assets/4322266/098eeb74-8e0a-4f02-b860-9744f7273f90)
+
+-----------
+![image](https://github.com/ci-ai/AGI-Survey-2022/assets/4322266/1f96efae-a345-4c4b-95ae-fb44a1cfb806)
+
+---------
+![image](https://github.com/ci-ai/AGI-Survey-2022/assets/4322266/c86295e6-c088-44b6-906c-e6fb4d8b210d)
 
 --------------
 ![image](https://github.com/gopala-kr/language-models/assets/4322266/21f6a244-1be4-4862-89ec-06733f05b1fe)
