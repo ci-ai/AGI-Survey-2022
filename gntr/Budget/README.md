@@ -9,4 +9,7 @@
 
 ------------------
 
+![image](https://github.com/ci-ai/AGI-Survey-2022/assets/4322266/e19bcb2b-87ce-4927-b580-4d6eeede81b9)
+
+-----------
 
