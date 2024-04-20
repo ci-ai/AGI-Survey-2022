@@ -46,3 +46,8 @@
 ---------------
 ![image](https://github.com/ci-ai/AGI-Survey-2022/assets/4322266/5ca0504d-5926-4330-ae1d-95d02ebd5c95)
 ----------
+
+![image](https://github.com/ci-ai/AGI-Survey-2022/assets/4322266/2bf9a757-efcd-4c02-9cec-232f8e750bc8)
+
+-------------
+
